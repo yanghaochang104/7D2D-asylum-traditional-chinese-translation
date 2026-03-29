@@ -14830,1056 +14830,1056 @@ RedBMWRestorationTool,,,,,VM Red BMW Restoration Tool,
 WhiteBMWRestorationTool,,,,,VM White BMW Restoration Tool,
 BrownJeepRestorationTool,,,,,VM Brown Jeep Restoration Tool,
 CombiVan1RestorationTool,,,,,VM Combi Van Restoration Tool,
-Van1RestorationTool,,,,,VM NPC Van Restoration Tool
-WSVanRestorationTool,,,,,Working Stiff Van Restoration Tool
-MOpowerVanRestorationTool,,,,,Mo Power Van Restoration Tool
-TFPAmbulanceRestorationTool,,,,,TFP Ambulance Restoration Tool
-TFP4x4RestorationTool,,,,,TFP 4x4 Restoration Tool
-TFPMotorcycleRestorationTool,,,,,TFP Motorcycle Restoration Tool
-TFPBicycleRestorationTool,,,,,TFP Bicycle Restoration Tool
-EVOLancerRestorationTool,,,,,VM Evo Lancer Restoration Tool
-SpikerRestorationTool,,,,,VM Spiker Car Restoration Tool
-MotoGuppyRestorationTool,,,,,VM MotoGuppy Restoration Tool
-CrusaderRestorationTool,,,,,VM Crusader Restoration Tool
-CutlassRestorationTool,,,,,VM Cutlass Restoration Tool
-PoliceRestorationTool,,,,,VM Police Car Restoration Tool
-BrownQuadRestorationTool,,,,,VM Brown Quad Bike Restoration Tool
-TaxiRestorationTool,,,,,VM Rusty Yellow Taxi Restoration Tool
-RedVanRestorationTool,,,,,VM Red Van Restoration Tool
-VespaRestorationTool,,,,,VM Vespa Restoration Tools
-VespaKartRestorationTool,,,,,VM Vespa Kart Restoration Tools
-ExplorerRestorationTool,,,,,VM Explorer Restoration Tool
-OldSemiRestorationTool,,,,,VM Old Semi Restoration Tool
-Mach1RestorationTool,,,,,VM Mustang Mach1 Restoration Tool
-YellowSchoolBusRestorationTool,,,,,Yellow School Bus Restoration Tool
-VMAutoWorkbench,,,,,Auto Workbench
-cntCar03SedanRepairMaster0,,,,,Repairable Car Master
-SedanMasterDamged,,,,,Damaged Sedan Master
-UtilityMasterDamaged,,,,,Damaged Utility Master
-damagedTireSmallFlat,,,,,Damaged Flat Tire
-damagedWheelSmallFlat,,,,,Damaged Flat Wheel
-PoliceCarDamaged,,,,,Damaged VM Police Car
-OldPickupTruck,,,,,Damaged VM Old Pickup 
-AmbulanceDamaged,,,,,Damaged VM Ambulance
-AmbulanceHalfWreck,,,,,Half wrecked VM Ambulance
-AmbulanceShell,,,,,Damaged VM Ambulance Shell
-AbandonedMilitary,,,,,VM Abandoned Military Trailer
-BigRigDamaged,,,,,Damaged VM Big Rig 1
-BigRigShell,,,,,VM Big Rig 1 Shell
-BlueEvoDamaged,,,,,Damaged Blue VM EVO
-BlueEvoHalfWreck,,,,,Blue VM EVO Wreck
-BlueEvoShell,,,,,Blue VM EVO Shell
-BusDamaged,,,,,Damaged VM Bus
-BusDamaged2,,,,,Damaged VM Bus
-cntAmbulanceTruck01,,,,,Large Ambulance
-cntArmyTruckClosed,,,,,Army Truck
-cntArmyTruckOpen,,,,,Army Truck
-cntBusCity,,,,,City Bus
-cntBusSchool,,,,,School Bus
-cntBusSchoolShort,,,,,Short School Bus
-VMWreckCar1,,,,,VM Wrecked Sedan Alpha
-VMWreckCar2,,,,,VM Wrecked Sedan Bravo
-VMWreckCar3,,,,,VM Wrecked Sedan Charlie
-VMWreckCar4,,,,,VM Wrecked Sedan Delta
-VMWreckCar5,,,,,VM Wrecked Sedan Echo
-VMWreckCar6,,,,,VM Wrecked Sedan Foxtrot
-VMWreckCar7_2,,,,,VM Wrecked Sedan Golf
-VMWreckCar7_3,,,,,VM Wrecked Sedan Golf
-VMWreckCar7,,,,,VM Wrecked Sedan Golf
-VMWreckCar8_2,,,,,VM Wrecked Sedan Hotel
-VMWreckCar8_3,,,,,VM Wrecked Sedan Hotel
-VMWreckCar8,,,,,VM Wrecked Sedan Hotel
-VMWreckHatchback1,,,,,VM Wrecked Hatchback
-VMWreckLada1,,,,,VM Wrecked Lada
-cntServiceTruckMoPower,,,,,Mo Power Truck
-cntServiceTruckWorkingStiffTools,,,,,Stiff Tools Truck
-VMWreckSUV1_2,,,,,VM Wrecked SUV
-VMWreckSUV1_3,,,,,VM Wrecked SUV
-VMWreckSUV1,,,,,VM Wrecked SUV
-VMWreckTruck1,,,,,VM Wrecked Pickup Truck
-VMWreckTruck2,,,,,VM Wrecked Cargo Truck
-VMWreckVan,,,,,VM Wrecked Delivery Van
-VMWreckVan1,,,,,VM Wrecked Panel Van
-VMWreckVan2_1,,,,,VM Wrecked Service Van
-VMWreckVan2_2,,,,,VM Wrecked Service Van
-VMWreckVan2_3,,,,,VM Wrecked Service Van
-VMWreckRV,,,,,Damaged RV
-VMWreckRV1,,,,,RV Wreck
-VMWreckWagon1,,,,,VM Wrecked Station Wagon
-VMWreckZuk1,,,,,VM Wrecked Żuk Van
-CrusaderDamaged,,,,,Damaged VM Crusader
-CrusaderHalfWreck,,,,,VM Crusader Wreck
-CrusaderShell,,,,,VM Crusader Shell
-FastbackDamaged,,,,,Damaged VM Fastback
-FastbackHalfWreck,,,,,VM Fastback Wreck
-FastbackShell,,,,,VM Fastback Shell
-FiretruckDamaged,,,,,Damaged VM Firetruck
-FiretruckDamagedWreck,,,,,VM Firetruck Damaged Wreck
-FiretruckWreck,,,,,VM Firetruck Wreck
-FuelTankerDamaged,,,,,Damaged VM Fuel Tanker
-GasTank,,,,,Old VM Gas Tank
-GasTankerTruck,,,,,VM Gas Tanker truck
-GreyEvoDamaged,,,,,Damaged Grey VM EVO
-GreyEvoEvoShell,,,,,Grey VM EVO Shell
-GreyEvoShell,,,,,Grey VM EVO Shell
-GreyEvoHalfWreck,,,,,Grey VM EVO Wreck
-GTODamaged,,,,,Damaged VM Old GTO
-JeepDamaged,,,,,Damaged VM Jeep
-JeepHalfWreck,,,,,VM Jeep Wreck
-JeepShell,,,,,VM Jeep Shell
-MilitaryHumVeeDamaged,,,,,Damaged VM Military HumVee
-MilitaryHumVeeShell,,,,,VM Military HumVee Shell
-MilitaryTruckDamaged,,,,,Damaged VM Military Truck
-MilitaryTruckShell,,,,,VM Military Truck Shell
-MustangDamaged,,,,,Damaged old VM Mustang
-OldChevyTruckDamaged,,,,,Damaged Smith's Dad's Old VM Chevy Truck
-OldsmobileDamaged,,,,,Damaged VM Oldsmobile
-OldsmobileHalfWreck,,,,,VM Oldsmobile Wreck
-OldsmobileShell,,,,,VM Oldsmobile Shell
-OrangeEvoDamaged,,,,,Damaged Orange VM EVO
-OrangeEvoEvoShell,,,,,Orange VM EVO Shell
-OrangeEvoHalfWreck,,,,,Orange VM EVO Wreck
-RedBMWDamaged,,,,,Damaged Red VM BMW
-RedBMWHalfWreck,,,,,Red VM BMW Wreck
-RedBMWShell,,,,,Red VM BMW Shell
-SpikerDamaged,,,,,Damaged VM Spiker
-SpikerHalfWreck,,,,,VM Spiker Wreck
-SpikerShell,,,,,VM Spiker Shell
-TurboDamaged,,,,,Damaged VM Hell Car Turbo
-TurboHalfWreck,,,,,VM Hell Car Turbo Wreck
-TurboShell,,,,,VM Hell Car Shell
-VMVan2Damaged,,,,,Damaged VM Workshop Van
-VMVan2HalfWreck,,,,,VM Workshop Van Wreck
-VMVan2Shell,,,,,VM Workshop Van Shell
-WhiteBMWDamaged,,,,,Damaged White VM BMW
-WhiteBMWHalfWreck,,,,,White VM BMW Wreck
-WhiteBMWShell,,,,,White VM BMW Shell
-4x4TruckDamaged,,,,,Damaged TFP 4x4
-4x4TruckHalfWreck,,,,,TFP 4x4 Half Wreck
-4x4TruckShell,,,,,TFP 4x4 Shell
-OldCar1Damaged,,,,,Damaged Old Blue VM Car
-OldCar1HalfWreck,,,,,Old Blue VM Car Wreck
-OldCar1Shell,,,,,Old Blue VM Car Shell
-MotorcycleDamaged,,,,,Damaged TFP Motorcycle 
-MotorcycleHalfWreck,,,,,TFP Motorcycle Wreck
-MotorcycleShell,,,,,TFP Motorcycle Shell
-DumperTruckDamaged,,,,,Damaged Old VM DumperTruck 
-DumperTruckHalfWreck,,,,,Old VM DumperTruck Wreck 
-DumperTruckShell,,,,,Old VM Dumper Truck Shell 
-GarbageTruckDamaged,,,,,Damaged VM Garbage Truck 
-GarbageTruckShell,,,,,VM Garbage Truck Shell 
-PontiacDamaged,,,,,Damaged VM Pontiac GTO 
-PontiacHalfWreck,,,,,VM Pontiac GTO Wreck 
-PontiacShell,,,,,VM Pontiac GTO Shell 
-PoliceBurnedHalfWreck,,,,,Old Burned VM Police Car Wreck 
-VMPoliceBurned180Wreck0,,,,,Burned VM Police Car 
-VMPoliceBurned180Wreck2,,,,,Burned VM Police Car Shell 
-VenturaDamaged,,,,,Damaged old VM Pontiac Ventura 
-BelAirDamaged,,,,,Damaged Old VM Chevy BelAir 
-HelicopterCrashed,,,,,Crashed VM Helicopter wreck 
-DamagedBeetle,,,,,Damaged VM Beetle Car
-DamagedBicycle,,,,,Damaged TFP Bike
-DamagedGyro,,,,,Damaged TFP Gyro
-DamagedMilitaryTruck2,,,,,Damaged Old VM Military truck
-DamagedWarthog,,,,,Damaged VM Warthog
-DamagedInterceptor,,,,,Damaged VM Interceptor
-DamagedJeepTA,,,,,Damaged VM Tactical Jeep
-DamagedStrikerAPC,,,,,Damaged VM Striker APC vehicle
-DamagedApoTruck,,,,,Damaged Apocaliptic VM Farm Truck
-<!--DamagedSmallMTTruck,,,,,Damaged VM Military Truck
-DamagedMalice,,,,,Damaged VM Malice Car
-DamagedM3ATruck,,,,,Damaged VM M3A Military Car
-DamagedM3MTruck,,,,,Damaged VM Old Military Car
-DamagedHunter,,,,,Damaged VM Hunter Car
-DamagedFlatbedTruck,,,,,Damaged VM FlatBed Truck
-DamagedCombiVan,,,,,Damaged VM Combi Van
-DamagedCobra,,,,,Damaged VM Mustang Cobra
-DamagedCharger,,,,,Damaged VM Charger
-DamagedBoxTruck,,,,,Damaged Red VM Box Truck
-DamagedBigRig2,,,,,Damaged VM Custom Big Rig Semi Truck
-DamagedVMBuggy,,,,,Damaged big VM Buggy 
-DamagedMotoGuppy,,,,,Damaged VM MotoGuppy Moped 
-DamagedHotRod,,,,,Damaged VM HotRod Car 
-DamagedNPCVan,,,,,Damaged VM NPC Van 
-DamagedRustySedan,,,,,Damaged VM Rusty Sedan 
-DamagedModernSedan,,,,,Damaged VM Modern Sedan 
-DamagedVespa,,,,,Damaged VM Vespa Moped 
-DamagedVespaKart,,,,,Damaged VM Vespa Kart 
-DamagedCutlassSedan,,,,,Damaged VM Cutlass Sedan 
-WhiteSedanDamaged,,,,,Damaged White VM Sedan 
-BrownSedanDamaged,,,,,Damaged Brown VM Sedan 
-BlueSedanDamaged,,,,,Damaged Blue VM Sedan 
-DamagedBrownQuad,,,,,Damaged Brown VM Quad Bike 
-DamagedRustyTaxi,,,,,Damaged Rusty Yellow VM Taxi 
-DamagedRedVan,,,,,Damaged Red VM Van 
-DamagedMustangJunker,,,,,Damaged VM Mustang Junker
-DamagedExplorer,,,,,Damaged VM Explorer Jeep 
-DamagedOldSemi,,,,,Damaged Old VM Semi 
-DamagedPickup,,,,,Old Damaged VM Pickup Shell
-DamagedVMPickup,,,,,Damaged VM Pickup
-DamagedMustangMach1,,,,,Damaged VM Mustang Mach1
-Repairable4x4Truck,,,,,([68E3CF]Repairable[-])\n TFP 4x4 Truck
-RepairableAmbulance,,,,,([68E3CF]Repairable[-])\n TFP Ambulance
-RepairableBeetle,,,,,([68E3CF]Repairable[-])\n VM Beetle
-RepairableBicycle,,,,,([68E3CF]Repairable[-])\n TFP Bicycle
-RepairableBigBuggy,,,,,([68E3CF]Repairable[-])\n Big VM Buggy 
-RepairableBigRig2,,,,,([68E3CF]Repairable[-])\n VM Custom Big Rig
-RepairableBoxTruckRed,,,,,([68E3CF]Repairable[-])\n Red VM Box Truck
-RepairableBrownJeep,,,,,([68E3CF]Repairable[-])\n Brown VM Jeep
-RepairableExplorer,,,,,([68E3CF]Repairable[-])\n VM Explorer
-RepairableCobra,,,,,([68E3CF]Repairable[-])\n VM Mustang Cobra
-RepairableMustangMach1,,,,,([68E3CF]Repairable[-])\n VM Mustang Mach1
-RepairableCombiVan1,,,,,([68E3CF]Repairable[-])\n Old VM Combi Van
-RepairableFastback,,,,,([68E3CF]Repairable[-])\n VM Fastback
-RepairableFlatBed,,,,,([68E3CF]Repairable[-])\n VM Flatbed
-RepairableHotRod,,,,,([68E3CF]Repairable[-])\n VM Hot Rod
-RepairableHunter,,,,,([68E3CF]Repairable[-])\n VM Hunter
-RepairableInterceptor,,,,,([68E3CF]Repairable[-])\n VM Interceptor
-RepairableM3ATruck,,,,,([68E3CF]Repairable[-])\n M3A Military transport Car
-RepairableMalice,,,,,([68E3CF]Repairable[-])\n VM Malice
-RepairableMilitaryHumVee,,,,,([68E3CF]Repairable[-])\n Military Humvee
-RepairableMilitaryTruck,,,,,([68E3CF]Repairable[-])\n Big VM Military Truck
-RepairableMilitaryTruck2,,,,,([68E3CF]Repairable[-])\n Old VM Military Truck
-RepairableMoPower,,,,,([68E3CF]Repairable[-])\n TFP Mo Power Truck
-RepairableMotorcycle,,,,,([68E3CF]Repairable[-])\n TFP Motorcycle
-RepairableRedBMW,,,,,([68E3CF]Repairable[-])\n Red VM BMW
-RepairableRV,,,,,([68E3CF]Repairable[-])\n VM Apocaliptic RV
-RepairableSedan,,,,,([68E3CF]Repairable[-])\n VM FairHaven Sedan
-RepairableSmallAPOTruck,,,,,([68E3CF]Repairable[-])\n VM Apocaliptic Farm Truck 
-RepairableStrikerAPC,,,,,([68E3CF]Repairable[-])\n VM Striker APC
-RepairableTacticalJeep,,,,,([68E3CF]Repairable[-])\n Military VM Tactical Jeep
-RepairableTurboMuscle,,,,,([68E3CF]Repairable[-])\n Hell Car Turbo Muscle Car
-RepairableNPCVan,,,,,([68E3CF]Repairable[-])\n VM NPC Mod Van
-RepairableVan2,,,,,([68E3CF]Repairable[-])\n VM Workshop Van
-RepairableWarthog,,,,,([68E3CF]Repairable[-])\n VM Warthog
-RepairableWhiteBMW,,,,,([68E3CF]Repairable[-])\n White VM BMW
-RepairableWorkingStiffs,,,,,([68E3CF]Repairable[-])\n Working Stiffs Truck
-RepairableGyro,,,,,([68E3CF]Repairable[-])\n Gyrocopter
-RepairableEvoLancer,,,,,([68E3CF]Repairable[-])\n VM Evo Lancer
-RepairableSpiker,,,,,([68E3CF]Repairable[-])\n VM Aplocaliptic Spiker Car
-RepairableMotoGuppy,,,,,([68E3CF]Repairable[-])\n VM MotoGuppy Moped
-RepairableCrusader4x4,,,,,([68E3CF]Repairable[-])\n VM Crusader 4x4
-RepairableVespa,,,,,([68E3CF]Repairable[-])\n Red VM Vespa Moped
-RepairableVespaKart,,,,,([68E3CF]Repairable[-])\n VM Vespa Kart
-RepairableCutlass,,,,,([68E3CF]Repairable[-])\n VM Sedan Cutlass
-RepairablePoliceCar,,,,,([68E3CF]Repairable[-])\n VM Police Car
-RepairableBrownQuad,,,,,([68E3CF]Repairable[-])\n Brown VM Quad Bike
-RepairableRustyTaxi,,,,,([68E3CF]Repairable[-])\n Rusted yellow VM Taxi
-RepairableRedVan,,,,,([68E3CF]Repairable[-])\n Old Red VM Van
-RepairableOldSemi,,,,,([68E3CF]Repairable[-])\n Old VM Semi Truck
-RepairablePickUp,,,,,([68E3CF]Repairable[-])\n VM Pickup Truck
-RepairableSchoolBus,,,,,([68E3CF]Repairable[-])\n Yellow School Bus
-twitchTurd,,,,,Clown Poop
-Discount Mart,,,,,[e6b3ff]Discount Mart
-DW_Abandoned_Base_01_wilderness,,,,,[e6b3ff]Defense Base Jericho
-DW_BreachedTrader_Bob,,,,,[e6b3ff]Trader Bob
-DW_BreachedTrader_Jen,,,,,[e6b3ff]Trader Jen
-DW_BreachedTrader_Bob,,,,,[e6b3ff]Trader Bob
-DW_BreachedTrader_Rekt,,,,,[e6b3ff]Trader Rekt
-DW_BreachedTrader_hugh,,,,,[e6b3ff]Trader Hugh
-DW_BreachedTrader_Joel,,,,,[e6b3ff]Trader Joel
-DW_Bunker_Multi_Trader,,,,,[e6b3ff]Infested Bunker 51
-DW_BunkerMultiTrader,,,,,[e6b3ff]Infested Bunker 50
-DW_DocksTrader,,,,,[e6b3ff]The Docks MultiTrader
-DW_Domestikator,,,,,[e6b3ff]Domestikator
-DW_Embarcadero,,,,,[e6b3ff]Embarcadero
-DW_ForwardBaseSmall,,,,,[e6b3ff]Abandoned Outpost
-DW_Modern_Art_House,,,,,[e6b3ff]Jens Vacation Home
-DW_Rural_Horde_Base_Medium,,,,,[e6b3ff]Defence Outpost Oscar.
-DW_Small_Horde_base01,,,,,[e6b3ff]Scout Outpost Leamer
-DW_SmallPipeBase,,,,,[e6b3ff]Abandoned Survivor Shack
-DW_Subterranean,,,,,[e6b3ff]Subterranean
-DW_TraderREKT,,,,,[e6b3ff]Trader Lee Gon
-DW_Trader_hugh,,,,,[e6b3ff]Trader Tracker Voss
-dw_TRADER_Bob,,,,,[e6b3ff]Trader Cyborg Zero
-dw_Trader_Joel,,,,,[e6b3ff]Trader Dr.Pestilence
-DW_TraderBOB,,,,,[e6b3ff]Trader Cyborg Zero
-DW_TraderHugh,,,,,[e6b3ff]Trader Tracker Voss
-DW_TraderJEN,,,,,[e6b3ff]Trader Nymphadora
-DW_TraderJOEL,,,,,[e6b3ff]Trader Dr. Pestilence
-DW_TRADER_Rekt,,,,,[e6b3ff]Trader Lee Gon
-DW_WolfLegalServices,,,,,[e6b3ff]Wolf Legal Services
-Ground Zero Mart,,,,,[e6b3ff]Apoco-Mart
-TheAfterLife,,,,,[e6b3ff]Club Afterlife
-DW_BunkerMultiTrader,,,,,[e6b3ff]Lost Bunker
-DW_ServiceGas,,,,,[e6b3ff]Pops Gas N' Go
-DW_TRADE-BUNKER,,,,,[e6b3ff]Infested Bunker Zebra
-Asylum_Biotech,,,,,[e6b3ff]Asylum Biotech
-AsylumLab,,,,,[e6b3ff]Asylum Lab
-Rolling_Hills_Asylum,,,,,[e6b3ff]Rolling Hills Asylum
-DW_MasterBaitAndTackle,,,,,[e6b3ff]Master's Bait & Tackle
-DW_ParadiseHotel,,,,,[e6b3ff]Paradise Hotel
-DW_Monster_Museum,,,,,[e6b3ff]Duhwolf's Monster Museum
-DW_TheAfterLife,,,,,[e6b3ff]Club Afterlife
-DW_antTable,,,,,Table
-DW_antSofa,,,,,Couch
-DW_ChairAnt,,,,,Chair
-DW_antVanity,,,,,Vanity
-egt1backpack,,,,," ""[1e9d16](T1 A)[-] Patient's Burden"""
-egt2backpack,,,,," ""[bc52e7](T2 A)[-] Orderly's Cache"""
-egt3backpack,,,,," ""[fb4f21](T3 A)[-] Warden's Vault"""
-egt1nerd,,,,," ""[1e9d16](T1 A)[-] Fractured Mind"""
-egt2nerd,,,,," ""[bc52e7](T2 A)[-] Shattered Psyche"""
-egt3nerd,,,,," ""[fb4f21](T3 A)[-] Broken Genius"""
-egmodArmorPerception,,,,," ""[fb4f21](T3 A)[-] Third Eye Implant"""
-egmodArmorStrength,,,,," ""[fb4f21](T3 A)[-] Berserker's Rage"""
-egmodArmorFortitude,,,,," ""[fb4f21](T3 A)[-] Undying Will"""
-egmodArmorAgility,,,,," ""[fb4f21](T3 A)[-] Shadow Step"""
-egmodArmorIntellect,,,,," ""[fb4f21](T3 A)[-] Madman's Brilliance"""
-egt1lightweight,,,,," ""[1e9d16](T1 A)[-] Phantom Stride"""
-egt2lightweight,,,,," ""[bc52e7](T2 A)[-] Wraith's Grace"""
-egt3lightweight,,,,," ""[fb4f21](T3 A)[-] Specter's Flight"""
-egt1reward,,,,," ""[bc52e7](T2 A)[-] Twisted Bargain"""
-egt2reward,,,,," ""[fb4f21](T3 A)[-] Devil's Deal"""
-egt3reward,,,,," ""[ff0000](T4 A)[-] Infernal Compact"""
-egt1lumber,,,,," ""[1e9d16](T1 A)[-] Grave Digger"""
-egt2lumber,,,,," ""[bc52e7](T2 A)[-] Corpse Harvester"""
-egt3lumber,,,,," ""[fb4f21](T3 A)[-] Soul Reaper"""
-egt1resist,,,,," ""[1e9d16](T1 A)[-] Padded Cell Lining"""
-egt2resist,,,,," ""[bc52e7](T2 A)[-] Straitjacket Weave"""
-egt3resist,,,,," ""[fb4f21](T3 A)[-] Warden's Plate"""
-egt1zombiedamage,,,,," ""[1e9d16](T1 A)[-] Exorcist's Touch"""
-egt2zombiedamage,,,,," ""[bc52e7](T2 A)[-] Zealot's Wrath"""
-egt3zombiedamage,,,,," ""[fb4f21](T3 A)[-] Inquisitor's Fury"""
-egt1looter,,,,," ""[1e9d16](T1 A)[-] Pickpocket's Twitch"""
-egt2looter,,,,," ""[bc52e7](T2 A)[-] Kleptomaniac's Reflex"""
-egt3looter,,,,," ""[fb4f21](T3 A)[-] Master Thief's Instinct"""
-egt1hp,,,,," ""[1e9d16](T1 A)[-] Twisted Vitality"""
-egt2hp,,,,," ""[bc52e7](T2 A)[-] Unholy Constitution"""
-egt3hp,,,,," ""[fb4f21](T3 A)[-] Abomination's Vigor"""
-egt1stamina,,,,," ""[1e9d16](T1 A)[-] Manic Energy"""
-egt2stamina,,,,," ""[bc52e7](T2 A)[-] Psychotic Drive"""
-egt3stamina,,,,," ""[fb4f21](T3 A)[-] Asylum Endurance"""
-egt1harvest,,,,," ""[1e9d16](T1 A)[-] Withered Touch"""
-egt2harvest,,,,," ""[bc52e7](T2 A)[-] Blighted Harvest"""
-egt3harvest,,,,," ""[fb4f21](T3 A)[-] Plague Farmer"""
-egt1damage,,,,," ""[1e9d16](T1 A)[-] Malice Injection"""
-egt2damage,,,,," ""[bc52e7](T2 A)[-] Hatred Amplifier"""
-egt3damage,,,,," ""[fb4f21](T3 A)[-] Wrath Conduit"""
-egt1atkspeed,,,,," ""[1e9d16](T1 A)[-] Tremor Inducer"""
-egt2atkspeed,,,,," ""[bc52e7](T2 A)[-] Frenzy Catalyst"""
-egt3atkspeed,,,,," ""[fb4f21](T3 A)[-] Hysteria Engine"""
-egt1usage,,,,," ""[1e9d16](T1 A)[-] Hollow Stomach"""
-egt2usage,,,,," ""[bc52e7](T2 A)[-] Fasting Spirit"""
-egt3usage,,,,," ""[fb4f21](T3 A)[-] Starvation Immunity"""
-egt1xp,,,,," ""[1e9d16](T1 A)[-] Tortured Wisdom"""
-egt2xp,,,,," ""[bc52e7](T2 A)[-] Nightmare Lessons"""
-egt3xp,,,,," ""[fb4f21](T3 A)[-] Asylum Enlightenment"""
-egt1backpackdesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] A repurposed asylum storage bag. Increase your Inventory Slots by 16. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable."""
-egt2backpackdesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Stolen from the orderly's quarters. Increase your Inventory Slots by 20. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable."""
-egt3backpackdesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] The Warden's personal secure container. Increase your Inventory Slots by 32. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable."""
-egt1nerddesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Your fractured mind absorbs knowledge erratically. 10% Chance to get double Magazine Points. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable and not working with the Intellect Mastery/Nerd Outfit."""
-egt2nerddesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Your shattered psyche processes information in twisted ways. 15% Chance to get double Magazine Points. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable and not working with the Intellect Mastery/Nerd Outfit."""
-egt3nerddesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Complete mental breakdown grants perfect clarity. 20% Chance to get double Magazine Points. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable and not working with the Intellect Mastery/Nerd Outfit."""
-egmodArmorPerceptiondesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] An experimental implant that opens your third eye. +2 Perception. \n \n \n[ff0000]Warning[-]: HEAD ONLY - Not stackable."""
-egmodArmorStrengthdesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Channel the rage of the asylum's most violent patients. +2 Strength. \n \n \n[ff0000]Warning[-]: HEAD ONLY - Not stackable."""
-egmodArmorFortitudedesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Survive what would kill others through sheer willpower. +2 Fortitude. \n \n \n[ff0000]Warning[-]: HEAD ONLY - Not stackable."""
-egmodArmorAgilitydesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Move through shadows like the escaped patients of legend. +2 Agility. \n \n \n[ff0000]Warning[-]: HEAD ONLY - Not stackable."""
-egmodArmorIntellectdesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] The line between genius and madness is razor thin. +2 Intellect. \n \n \n[ff0000]Warning[-]: HEAD ONLY - Not stackable."""
-egt1lightweightdesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Ghostly modifications let you move like a phantom. Increase Movementspeed by 5%. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable."""
-egt2lightweightdesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Wraith-touched enhancements for silent pursuit. Increase Movementspeed by 10%. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable."""
-egt3lightweightdesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Become as swift as a specter fleeing the asylum. Increase Movementspeed by 15%. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable."""
-egt1rewarddesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Strike a twisted bargain for better rewards. Grants +1 additional Quest-Reward Choice. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable."""
-egt2rewarddesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] A deal with darker forces. Grants +1 additional Quest-Reward Choice. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable."""
-egt3rewarddesc,,,,," ""[ff0000](Tier 4 - Legendary)[-] Sign the infernal compact and claim your unholy rewards. Grants +2 additional Quest-Reward Choices. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable."""
-egt1lumberdesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Grave digger's techniques for efficient gathering. Increase Harvestcount by 10%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable."""
-egt2lumberdesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Harvest the dead with practiced efficiency. Increase Harvestcount by 20%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable."""
-egt3lumberdesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Reap souls and resources with supernatural efficiency. Increase Harvestcount by 30%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable."""
-egt1resistdesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Padding salvaged from padded cells. Increase damage resist against Zombies by 3%. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable."""
-egt2resistdesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Woven from restraint materials that held the violent. Increase damage resist against Zombies by 6%. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable."""
-egt3resistdesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] The Warden's personal protection against the inmates. Increase damage resist against Zombies by 10%. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable."""
-egt1zombiedamagedesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Blessed by former asylum chaplains. Increase damage against Zombies by 5%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable."""
-egt2zombiedamagedesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Zealous fury against the undead. Increase damage against Zombies by 10%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable."""
-egt3zombiedamagedesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Inquisitorial wrath made manifest. Increase damage against Zombies by 15%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable."""
-egt1looterdesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Twitchy fingers from years of stealing. Increase Loot-Speed by 10%. \n \n \n[ff0000]Warning[-]: HEAD ONLY - Not stackable."""
-egt2looterdesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Compulsive looting becomes an advantage. Increase Loot-Speed by 20%. \n \n \n[ff0000]Warning[-]: HEAD ONLY - Not stackable."""
-egt3looterdesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Master thief instincts honed in the asylum. Increase Loot-Speed by 30%. \n \n \n[ff0000]Warning[-]: HEAD ONLY - Not stackable."""
-egt1hpdesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Twisted experimental treatments increase vitality. Increase max HP by 5 Points. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable."""
-egt2hpdesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Unholy constitution from dark experiments. Increase max HP by 10 Points. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable."""
-egt3hpdesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Abominable vigor coursing through your veins. Increase max HP by 20 Points. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable."""
-egt1staminadesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Manic energy pulses through you. Increase max Stamina by 10 Points. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable."""
-egt2staminadesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Psychotic determination keeps you moving. Increase max Stamina by 20 Points. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable."""
-egt3staminadesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] The asylum's experimental treatments grant tireless endurance. Increase max Stamina by 30 Points. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable."""
-egt1harvestdesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Your withered touch coaxes more from the earth. Grant 1 additional Crop. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable."""
-egt2harvestdesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Blighted hands yield bountiful harvests. Grant 2 additional Crops. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable."""
-egt3harvestdesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Plague farmer techniques from the asylum gardens. Grant 3 additional Crops. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable."""
-egt1damagedesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Pure malice injected into your attacks. Increase Entity Damage by 5%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable."""
-egt2damagedesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Amplified hatred fuels your strikes. Increase Entity Damage by 10%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable."""
-egt3damagedesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Channel pure wrath through every blow. Increase Entity Damage by 15%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable."""
-egt1atkspeeddesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Tremors become a weapon. Increase Attackspeed with all Weapons and Tools by 5%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable."""
-egt2atkspeeddesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Frenzy takes hold of your limbs. Increase Attackspeed with all Weapons and Tools by 10%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable."""
-egt3atkspeeddesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Hysterical speed that defies sanity. Increase Attackspeed with all Weapons and Tools by 15%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable."""
-egt1usagedesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] A hollow stomach needs less sustenance. Reduce Food and Water Consume by 10%. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable."""
-egt2usagedesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Fasting spirit learned from starved patients. Reduce Food and Water Consume by 20%. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable."""
-egt3usagedesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Near immunity to starvation through asylum conditioning. Reduce Food and Water Consume by 30%. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable."""
-egt1xpdesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Wisdom gained through torture and suffering. Gain 5% more Experience from all sources. \n \n \n[ff0000]Warning[-]: HEAD ONLY - Not stackable."""
-egt2xpdesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Nightmarish lessons burned into your mind. Gain 10% more Experience from all sources. \n \n \n[ff0000]Warning[-]: HEAD ONLY - Not stackable."""
-egt3xpdesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Complete asylum enlightenment through pain. Gain 15% more Experience from all sources. \n \n \n[ff0000]Warning[-]: HEAD ONLY - Not stackable."""
-egtmodifier,,,,," ""Asylum Enhancement"""
-craftingvmodsCraftingName,,,,," ""Asylum Enhancement"""
-egtskillmagazine,,,,," ""Asylum Enhancement Schematic"""
-egtmagazinedesc,,,,," ""Recovered from the asylum's secret research wing. Contains twisted modification techniques developed through dark experimentation. \n \nImproves Asylum Enhancement crafting skill."""
-egt2arrowreload,,,,," ""[bc52e7](T2 W)[-] Twitching Nock"""
-egt3arrowreload,,,,," ""[fb4f21](T3 W)[-] Hysteric Loader"""
-egt2ArrowRDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Manic twitching accelerates arrow loading. Gain 40% more Reloadspeed for Crossbow and Bow."""
-egt3ArrowRDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Hysterical speed for near-instant reloading. Gain 80% more Reloadspeed for Crossbow and Bow."""
-egt2blessedmetal,,,,," ""[bc52e7](T2 W)[-] Exorcist's Edge"""
-egt3blessedmetal,,,,," ""[fb4f21](T3 W)[-] Inquisitor's Bane"""
-egt2BlessDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Blessed by asylum chaplains for fighting evil. Increase damage by 10% and against bosses by 15%."""
-egt3BlessDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Holy wrath incarnate against abominations. Increase damage by 15% and against bosses by 25%."""
-egt2grip,,,,," ""[bc52e7](T2 W)[-] Madman's Clutch"""
-egt3grip,,,,," ""[fb4f21](T3 W)[-] Psycho's Death Grip"""
-egt2ForegripDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Obsessive grip modifications for superior control. Much better weapon handling than standard grip."""
-egt3ForegripDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] White-knuckle grip of the truly deranged. Even better weapon handling than T2 grip."""
-egt2stock,,,,," ""[bc52e7](T2 W)[-] Nervous Brace"""
-egt3stock,,,,," ""[fb4f21](T3 W)[-] Paranoid's Stabilizer"""
-egt2RetractingDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Twitchy modifications for quick shooting. Better hip accuracy than standard stock."""
-egt3RetractingDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Paranoid precision for snap shots. Even better hip accuracy than T2 stock."""
-egt2bipod,,,,," ""[bc52e7](T2 W)[-] Patient's Rest"""
-egt3bipod,,,,," ""[fb4f21](T3 W)[-] Catatonic Stance"""
-egt2BipodDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Deadly stillness learned in isolation. Grants higher accuracy than standard bipod."""
-egt3BipodDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Catatonic stability for perfect shots. Grants higher accuracy than T2 bipod."""
-egt2muzzlebrake,,,,," ""[bc52e7](T2 W)[-] Screamer's Silencer"""
-egt3muzzlebrake,,,,," ""[fb4f21](T3 W)[-] Warden's Dampener"""
-egt2MuzzleDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Redirects force like muffled screams. Better recoil control than standard Muzzle Brake."""
-egt3MuzzleDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Warden-grade recoil suppression. Better recoil control than T2 Muzzle Brake."""
-egt2barrelex,,,,," ""[bc52e7](T2 W)[-] Long Arm of Madness"""
-egt3barrelex,,,,," ""[fb4f21](T3 W)[-] Executioner's Reach"""
-egt2BarrelExtenderDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Extended reach for distant judgment. Grants +20% Damage and +80% Range."""
-egt3BarrelExtenderDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] The executioner's extended barrel for distant death. Grants +40% Damage and +110% Range."""
-egt2silencer,,,,," ""[bc52e7](T2 W)[-] Whispered Death"""
-egt3silencer,,,,," ""[fb4f21](T3 W)[-] Silent Asylum"""
-egt2SilencerDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Kill quietly like the night orderlies. Silencer which gives +10% Damage instead of reducing it."""
-egt3SilencerDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] The asylum's most secret silencing technology. Silencer which gives +20% Damage instead of reducing it."""
-egt2crippleem,,,,," ""[bc52e7](T2 W)[-] Tendon Shredder"""
-egt3crippleem,,,,," ""[fb4f21](T3 W)[-] Hobbler's Curse"""
-egt2CrippleDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Crippling shots learned from asylum enforcers. 20% Chance on hit to slow the target."""
-egt3CrippleDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] A curse that hobbles the undead. 50% Chance on hit to slow the target."""
-egt2triggerauto,,,,," ""[bc52e7](T2 W)[-] Nervous Twitch"""
-egt3triggerauto,,,,," ""[fb4f21](T3 W)[-] Manic Episode"""
-egt2TriggerDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Nervous twitching becomes rapid fire. Set firegroup to automatic and increase fire rate by 30%."""
-egt3TriggerDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Full manic episode for maximum fire rate. Set firegroup to automatic and increase fire rate by 60%."""
-egt2brace,,,,," ""[bc52e7](T2 W)[-] Restraint Reinforcement"""
-egt3brace,,,,," ""[fb4f21](T3 W)[-] Unbreakable Binding"""
-egt2StructuralBraceDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Reinforced with asylum restraint materials. Reduce Durability Usage by 30%."""
-egt3StructuralBraceDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Bound with materials that held the violent. Reduce Durability Usage by 60%."""
-egt2ergonomicgrip,,,,," ""[bc52e7](T2 W)[-] Deadman's Hold"""
-egt3ergonomicgrip,,,,," ""[fb4f21](T3 W)[-] Rigor Mortis Grip"""
-egt2ErgonomicGripDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Grip like a corpse that won't let go. Reduce Stamina Consume by 15% and improve Archery Accuracy by 15%."""
-egt3ErgonomicGripDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Death's own grip on your weapon. Reduce Stamina Consume by 30% and improve Archery Accuracy by 30%."""
-egt2fortgrip,,,,," ""[bc52e7](T2 W)[-] Survival Instinct"""
-egt3fortgrip,,,,," ""[fb4f21](T3 W)[-] Undying Grasp"""
-egt2FortGripDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Desperation triggers healing. Grants better HP Regen when below 50% HP."""
-egt3FortGripDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Refuse to die like the asylum's failed experiments. Grants even better HP Regen when below 50% HP."""
-egt2oil,,,,," ""[bc52e7](T2 W)[-] Pyromaniac's Coating"""
-egt3oil,,,,," ""[fb4f21](T3 W)[-] Hellfire Extract"""
-egt2FOilDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Fire-starting obsession made useful. 30% Chance to set the target on fire."""
-egt3FOilDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Extracted from the depths of the asylum crematorium. 60% Chance to set the target on fire."""
-egt2battery,,,,," ""[bc52e7](T2 W)[-] Shock Therapy Cell"""
-egt3battery,,,,," ""[fb4f21](T3 W)[-] Electroshock Core"""
-egt2ShockDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Repurposed electroshock therapy equipment. 30% Chance to shock the target."""
-egt3ShockDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] The asylum's most powerful electroshock core. 60% Chance to shock the target."""
-egt2rods,,,,," ""[bc52e7](T2 W)[-] Twitching Mechanism"""
-egt3rods,,,,," ""[fb4f21](T3 W)[-] Seizure Springs"""
-egt2RodSpringDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Twitching mechanisms for faster cycling. Increase Firerate by 15% and Armor Penetration by 10%."""
-egt3RodSpringDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Springs wound tight as a seizure. Increase Firerate by 20% and Armor Penetration by 15%."""
-egt2shred,,,,," ""[bc52e7](T2 W)[-] Flayed Flesh Rounds"""
-egt3shred,,,,," ""[fb4f21](T3 W)[-] Bone Splitter"""
-egt2ArmorShreddDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Rounds designed to tear through protection. On hit"
-egt3ArmorShreddDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Splits bone and armor alike. On hit"
-egt2heat,,,,," ""[bc52e7](T2 W)[-] Fever Pitch"""
-egt3heat,,,,," ""[fb4f21](T3 W)[-] Burning Obsession"""
-egt2FTHDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Rising fever intensifies your attacks. +10% Armor Penetration. After 3 Hits in a short time"
-egt3FTHDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Burning obsession reaches critical heat. +15% Armor Penetration. After 3 Hits in a short time"
-egt2slayup,,,,," ""[bc52e7](T2 W)[-] Killing Frenzy"""
-egt3slayup,,,,," ""[fb4f21](T3 W)[-] Murder Spree"""
-egt2SlayUpDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Violence begets more violence. 5% Chance on melee attack to gain a 60% Attackspeed Buff."""
-egt3SlayUpDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Unstoppable murder spree begins. 10% Chance on melee attack to gain a 60% Attackspeed Buff."""
-egt2brasscatcher,,,,," ""[bc52e7](T2 W)[-] Hoarder's Net"""
-egt3brasscatcher,,,,," ""[fb4f21](T3 W)[-] Scavenger's Obsession"""
-egt2CatcherCaseDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Compulsive hoarding catches spent brass. 30% Chance on Hit to recover a Brass Casing."""
-egt3CatcherCaseDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Obsessive collection of every casing. 60% Chance on Hit to recover a Brass Casing."""
-egt2bullettipcatcher,,,,," ""[bc52e7](T2 W)[-] Lead Reclaimer"""
-egt3bullettipcatcher,,,,," ""[fb4f21](T3 W)[-] Bullet Harvester"""
-egt2CatcherBulletDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Reclaim the lead from your kills. 30% Chance on Hit to recover a Bullet Tip."""
-egt3CatcherBulletDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Harvest bullets from the carnage. 60% Chance on Hit to recover a Bullet Tip."""
-egt2fuelcatcher,,,,," ""[bc52e7](T2 W)[-] Fuel Miser"""
-egt3fuelcatcher,,,,," ""[fb4f21](T3 W)[-] Conservation Mania"""
-egt2CatcherFuelDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Miserly fuel conservation from asylum generators. 30% Chance on Use to recover a Gas Can."""
-egt3CatcherFuelDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Maniacal fuel obsession. 60% Chance on Use to recover a Gas Can."""
-qt_asylum_infernal,items,Item,,,Infernal Treasure Map
-qt_asylum_infernal_desc,items,Item,,,A mysterious map recovered from a slain demon. It points to a cache of infernal treasures buried somewhere in the wasteland. The demons guard their hoards jealously.
-V_ML_Name1,,,,, Handgun Mastery
-V_ML_Name2,,,,, Machinegun Mastery
-V_ML_Name3,,,,, Shotgun Mastery
-V_ML_Name4,,,,, Rifle Mastery
-V_ML_Name5,,,,, Sledgehammer Mastery
-V_ML_Name6,,,,, Club Weapon Mastery
-V_ML_Name7,,,,, Fist Weapon Mastery
-V_ML_Name8,,,,, Blade Weapon Mastery
-V_ML_Name9,,,,, Spear Weapon Mastery
-V_ML_Name10,,,,, Repair-Tool Mastery
-V_ML_Name11,,,,, Salvage-Tool Mastery
-V_ML_Name12,,,,, Robotic Mastery
-V_ML_Name13,,,,, Bow/Crossbow Mastery
-V_ML_Name14,,,,, Pickaxe/Auger Mastery
-V_ML_Name15,,,,, Axe/Chainsaw Mastery
-V_ML_Name16,,,,, Shovel Mastery
-ttkey_vam,,,,," ""Action Mastery"""
-Vam_SI_EffectTitle_Tooltip,,,,," ""Current Equipment Effect"""
-Vam_SI_SkillListTitle_Tooltip,,,,," ""Mastery List"""
-Vam_SI_EffectTitle,,,,," ""Current Equipment Effect"""
-Vam_SI_SkillListTitle,,,,," ""Mastery List"""
-V_Info_EntityDamage,,,,," ""Bonus Damage"""
-V_Info_BlockDamage_Tools,,,,," ""Block Damage (Tools)"""
-V_Info_BlockDamage_Melee,,,,," ""Block Damage (Melee)"""
-V_Info_BlockDamage_Ranged,,,,," ""Block Damage (Ranged)"""
-V_Info_AttackSpeed,,,,," ""Bonus Attackspeed"""
-V_Info_MagazineSize,,,,," ""Bonus Magazinesize"""
-V_Info_DegradationPerUse,,,,," ""Bonus Degradation Usage"""
-V_Info_BlockDamage_Tools_Tooltip,,,,," ""Block damage bonus for tools: Pickaxes"
-V_Info_BlockDamage_Melee_Tooltip,,,,," ""Block damage bonus for melee weapons: Clubs"
-V_Info_BlockDamage_Ranged_Tooltip,,,,," ""Block damage bonus for ranged weapons: Guns"
-name_of_poi_creator,POI,POI,,x,Radio Comms[TFP]
-xcpnpc_Bandit_Camp_01_Stallionsden,POI,POI,,x,Look Out[Stallionsden]
-xcpnpc_Bandit_Camp_02_Stallionsden,POI,POI,,x,nameingame[creator]
-xcpnpc_Bandit_Camp_03_Stallionsden,POI,POI,,x,Camped[Stallionsden]
-xcpnpc_Bandit_Camp_04_Stallionsden,POI,POI,,x,Market Place[Stallionsden]
-xcpnpc_Bandit_Camp_Stallionsden,POI,POI,,x,Band Camp[Stallionsden]
-xcpnpc_Bandits_Bunny_Ranch_Stallionsden,POI,POIName,,x,The Bunny Ranch[Stallionsden]
-xcpnpc_Bandits_Gas_Station_Stallionsden,POI,POIName,,x,Ripoffs Gas Station[Stallionsden]
-xcpnpc_Bandits_House_Stallionsden,POI,POIName,,x,Bandits Residents[Stallionsden]
-xcpnpc_Bandits_Road_House_Mana_Gobarg,POI,POIName,,x,Road House[Mana/Gobarg]
-xcpnpc_Bandits_Shanty_Town_EvilRacc0on,POI,POI,,x,Bandit Shanty Town[EvilRacc0on]
-xcpnpc_Hall_Of_Fame_Stallionsden,POI,POI,,x,Hall Of Fame[Stallionsden]
-xcpnpc_Marsh_10_Stallionsden,POI,POI,,x,Lost[Stallionsden]
-xcpnpc_Marsh_1_Stallionsden,POI,POI,,x,The Marsh[Stallionsden]
-xcpnpc_Marsh_2_Stallionsden,POI,POI,,x,The Bog[Stallionsden]
-xcpnpc_Marsh_3_Stallionsden,POI,POI,,x,The Swamp Thing[Stallionsden]
-xcpnpc_Marsh_4_Stallionsden,POI,POI,,x,Smokey Horizons[Stallionsden]
-xcpnpc_Marsh_5_Stallionsden,POI,POI,,x,The Bogs of Time[Stallionsden]
-xcpnpc_Marsh_6_Stallionsden,POI,POI,,x,Lockness Swamp[Stallionsden]
-xcpnpc_Marsh_7_Stallionsden,POI,POI,,x,Marshland[Stallionsden]
-xcpnpc_Marsh_8_Stallionsden,POI,POI,,x,The Darkness[Stallionsden]
-xcpnpc_Marsh_9_Stallionsden,POI,POI,,x,The Mist[Stallionsden]
-xcpnpc_Survivor_Site_02_TFP,POI,POI,,x,Just Survive Somehow[TFP]
-xcpnpc_Survivor_Site_03_TFP,POI,POI,,x,Encampment[TFP]
-xcpnpc_Survivor_Site_04_TFP,POI,POI,,x,Survived[TFP]
-xcpnpc_Survivor_Site_05_TFP,POI,POI,,x,The Site[TFP]
-xcpnpc_Survivor_Site_06_TFP,POI,POI,,x,Fallen Kingdom[TFP]
-xcpnpc_Survivor_Site_07_TFP,POI,POI,,x,Holed Up[TFP]
-rwg_tile_gateway_intersection_zzxcpv_pines,POI,POIName,,x,Wayward Pines District
-rwg_tile_oldwest_t_xcpv_fort,POI,POIName,,x,Oldwest Fort Settlement
-rwg_tile_oldwest_t_xcpv_proudmary,POI,POIName,,x,Oldwest Proud Mary Settlement
-rwg_tile_residential_cap_zzxcpv_01,POI,POIName,,x,Residential District
-rwg_tile_residential_corner_zzxcpv_01,POI,POIName,,x,Residential District
-rwg_tile_residential_intersection_zzxcpv_01,POI,POIName,,x,Residential District
-rwg_tile_residential_straight_zzxcpv_01,POI,POIName,,x,Residential District
-rwg_tile_residential_straight_zzxcpv_02,POI,POIName,,x,Residential District
-rwg_tile_residential_t_zzxcpv_01,POI,POIName,,x,Residential District
-rwg_tile_residential_t_zzxcpv_02,POI,POIName,,x,Residential District
-rwg_tile_rural_cap_zzxcpv_01,POI,POIName,,x,Rural District
-rwg_tile_rural_cap_zzxcpv_02,POI,POIName,,x,Rural District
-rwg_tile_rural_cap_zzxcpv_03,POI,POIName,,x,Rural District
-rwg_tile_rural_corner_zzxcpv_01,POI,POIName,,x,Rural District
-rwg_tile_rural_corner_zzxcpv_02,POI,POIName,,x,Rural District
-rwg_tile_rural_corner_zzxcpv_03,POI,POIName,,x,Rural District
-rwg_tile_rural_corner_zzxcpv_04,POI,POIName,,x,Rural District
-rwg_tile_rural_corner_zzxcpv_05,POI,POIName,,x,Rural District
-rwg_tile_rural_corner_zzxcpv_06,POI,POIName,,x,Rural District
-rwg_tile_rural_corner_zzxcpv_07,POI,POIName,,x,Rural District
-rwg_tile_rural_intersection_izea,POI,POIName,,x,Rural District
-rwg_tile_rural_intersection_xcpv_100,POI,POIName,,x,Rural District
-rwg_tile_rural_intersection_zzxcpv_01,POI,POIName,,x,Rural District
-rwg_tile_rural_straight_zzxcpv_01,POI,POIName,,x,Rural District
-rwg_tile_rural_t_zzxcpv_01,POI,POIName,,x,Rural District
-rwg_tile_rural_t_zzxcpv_02,POI,POIName,,x,Rural District
-rwg_tile_rural_t_zzxcpv_03,POI,POIName,,x,Rural District
-rwg_tile_rural_t_zzxcpv_04,POI,POIName,,x,Rural District
-rwg_tile_rural_t_zzxcpv_05,POI,POIName,,x,Rural District
-rwg_tile_rural_t_zzxcpv_06,POI,POIName,,x,Rural District
-xcpv_3_Block_Stores_Leo_Liuos,POI,POI,,x,Leo's Stores[Leo Liuos]
-xcpv_7DTF_TheStainGaming,POI,POI,,x,Fries[TheStainGaming]
-xcpv_7_End_Store_Jackelmyer,POI,POI,,x,7 Eleven[Jackelmyer]
-xcpv_7dtd_Tribute_OctoberFire,POI,POI,,x,Tribute[OctoberFire]
-xcpv_AFP_Stallionsden,POI,POI,,x,Gaol[Stallionsden]
-xcpv_Abandoned_House_Deverezieaux,POI,POI,,x,Devs Residence[Deverezieaux]
-xcpv_Abandoned_Shelter_Viper_Seven,POI,POI,,x,Mexico City[Viper_Seven]
-xcpv_Adam_House_DMC,POI,POI,,x,Adams family home[DMC]
-xcpv_Adot_01_ZZTong,POI,POI,,x,Transport Department[ZZTong]
-xcpv_Airstrip_AndyRed,POI,POI,,x,Drug Runner[AndyRed]
-xcpv_Airstrip_Telric,POI,POI,,x,Regional Airport[Telric]
-xcpv_Aj_LazyFarm_LazyTurtle89,POI,POI,,x,Lazy's Farm[LazyTurtle89]
-xcpv_Al_Lien_School_Lunitar,POI,POI,,x,Roswell[Lunitar]
-xcpv_Alamo_Level50Unlocked,POI,POI,,x,Alamo[Level50Unlocked]
-xcpv_Alamo_Restaurant_Voltralux,POI,POI,,x,Alamo[Voltralux]
-xcpv_Alamo_Sarongas1999_Crazy1,POI,POI,,x,Small fort[Sarongas1999 Crazy1]
-xcpv_Amazonia_WareHouse_InfectedGaming,POI,POI,,x,Amazonia[InfectedGaming]
-xcpv_Ambulance_Depot_01_Weazelsun,POI,POI,,x,Ambulance Depot[Weazelsun]
-xcpv_Ambulance_Station_Zeebark,POI,POI,,x,Ambulance Station[Zeebark]
-xcpv_Ancient_Apache_Ground_Nauti_Angel,POI,POI,,x,Apache[Nauti Angel]
-xcpv_Ancient_Tomb_Bigstep70,POI,POI,,x,Tomb Raider[Bigstep70]
-xcpv_Angel_Home_Cerberus,POI,POI,,x,Cerb Residence[Cerberus]
-xcpv_Antenna_BattlePapi,POI,POI,,x,Antenna[BattlePapi]
-xcpv_Apartment_01_ZZTong,POI,POI,,x,Cityscapes Residence[ZZTong]
-xcpv_Apartment_02_ZZTong,POI,POI,,x,Skyline towers[ZZTong]
-xcpv_Apartment_03_Stallionsden,POI,POI,,x,Rooms[Stallionsden]
-xcpv_Apartment_03_ZZTong,POI,POI,,x,Center Park[ZZTong]
-xcpv_Apartment_Building_Gouki,POI,POI,,x,Metro Plaza[Gouki]
-xcpv_Apartment_Gertle,POI,POI,,x,Downtown Lofts[Gertle]
-xcpv_Apartment_Notti,POI,POI,,x,City View[Notti]
-xcpv_Apartment_Spider,POI,POI,,x,Apartment No4[Spider]
-xcpv_Apartment_Store_Zyncosa,POI,POI,,x,Fashion Square[Zyncosa]
-xcpv_Apartment_Stores_Laz_Man,POI,POI,,x,Style Haven[Laz Man]
-xcpv_Apartments_4_Dest_Zyncosa,POI,POI,,x,Sardines can[Zyncosa]
-xcpv_Apartments_4_Zyncosa,POI,POI,,x,Sad tenamant[Zyncosa]
-xcpv_Apartments_Alice,POI,POI,,x,Alice Rise[Alice]
-xcpv_Apartments_Batman,POI,POI,,x,Reasonable rent[Batman]
-xcpv_Apartments_JSDoctor,POI,POI,,x,Roomy shoebox[JSDoctor]
-xcpv_Apartments_TopMinder,POI,POI,,x,Steel City[TopMinder]
-xcpv_Apartments_Zyncosa,POI,POI,,x,Urban suites[Zyncosa]
-xcpv_Apaxco_Gouki,POI,POI,,x,Stuffit inn[Gouki]
-xcpv_Apollon_Bunker_AndyRed,POI,POI,,x,10 Cloverfield lane[AndyRed]
-xcpv_Appletree_Apartments_Pip,POI,POI,,x,Appletree Apartments[Pip]
-xcpv_Appliance_Store_Deverezieaux,POI,POI,,x,Cheapos Appliance Store[Deverezieaux]
-xcpv_Aquatic_Centre_Dest_Zyncosa,POI,POI,,x,Flip n Drown[Zyncosa]
-xcpv_Aquatic_Centre_Zyncosa,POI,POI,,x,Dolphin court[Zyncosa]
-xcpv_Area_53_Wendictive,POI,POI,,x,Aliens[Wendictive]
-xcpv_Army_1_Zyncosa,POI,POI,,x,Military Bunker 1[Zyncosa]
-xcpv_Army_2_Zyncosa,POI,POI,,x,Military Bunker 2[Zyncosa]
-xcpv_Army_3_Zyncosa,POI,POI,,x,Military Bunker 3[Zyncosa]
-xcpv_Army_4_Zyncosa,POI,POI,,x,Military Bunker 4[Zyncosa]
-xcpv_Army_Bunker_Laz_Man,POI,POI,,x,Fort Laz[Laz Man]
-xcpv_Army_Bunker_TwistedViking,POI,POI,,x,Army Bunker[TwistedViking]
-xcpv_Army_Camp_Universal,POI,POI,,x,Army Camp[Universal]
-xcpv_Army_Camp_Vegoram,POI,POI,,x,Camp Veg[Vegoram]
-xcpv_Army_D_1_Zyncosa,POI,POI,,x,Breached Bunker 1[Zyncosa]
-xcpv_Army_D_2_Zyncosa,POI,POI,,x,Breached Bunker 2[Zyncosa]
-xcpv_Army_D_3_Zyncosa,POI,POI,,x,Breached Bunker 3[Zyncosa]
-xcpv_Army_Point_Kopfgeldjaeger,POI,POI,,x,Hostilities[Kopfgeldjaeger]
-xcpv_Army_Site_Mute,POI,POI,,x,Army Site[Mute]
-xcpv_Art_Compound_DMC,POI,POI,,x,Art Lovers[DMC]
-xcpv_Art_Gallery_Wsiegel,POI,POI,,x,Lovin' Art[Wsiegel]
-xcpv_Assgard_Hardware_Battlepapi,POI,POI,,x,Assgard[Battlepapi]
-xcpv_Asylum_Nagg,POI,POI,,x,Cuckoos nest[Nagg]
-xcpv_Asylum_Wsiegel,POI,POI,,x,voices in your head[Wsiegel]
-xcpv_BOS_Factory_KillerBee,POI,POI,,x,Make a da bosses here[KillerBee]
-xcpv_Bad_Wolf_Plaza_TehKarmah,POI,POI,,x,Trend Central[TehKarmah]
-xcpv_Badonkadonk_CaptainandMental,POI,POI,,x,Lithium every day[CaptainandMental]
-xcpv_Bakery_Shema,POI,POI,,x,Buy a pie[Shema]
-xcpv_Balloon_Safari_01_ZZTong,POI,POI,,x,Monkey Nuts[ZZTong]
-xcpv_Bank_Guppycur,POI,POI,,x,Bank De Guppy[Guppycur]
-xcpv_Bank_Limodor,POI,POI,,x,City Bank[Limodor]
-xcpv_Bar_Bistro_Zeebark,POI,POI,,x,Bar & Bistro[Zeebark]
-xcpv_Bar_Pool_01_ZZTong,POI,POI,,x,Pool Hall[ZZTong]
-xcpv_Bar_Tavern_AshRoc,POI,POI,,x,The Local[AshRoc]
-xcpv_Bar_Vittles,POI,POIName,,x,The Squeaky Wheel[Vittles]
-xcpv_Barn_Baziez,POI,POI,,x,Armish Paradise[Baziez]
-xcpv_Barn_Oscerc,POI,POI,,x,Hay fail[Oscerc]
-xcpv_Bartertown_Bobx_ZZTong,POI,POI,,x,Bob's Demise[ZZTong]
-xcpv_Bartertown_Hughx_ZZTong,POI,POI,,x,Hugh's Demise[ZZTong]
-xcpv_Bartertown_Jenx_ZZTong,POI,POI,,x,Jen's Demise[ZZTong]
-xcpv_Bartertown_Joelx_ZZTong,POI,POI,,x,Joel's Demise[ZZTong]
-xcpv_Bartertown_Rektx_ZZTong,POI,POI,,x,Rekt's Demise[ZZTong]
-xcpv_Baseball_Curmudgeon,POI,POI,,x,Not Rounders[Curmudgeon]
-xcpv_Basement_PVWolfgang,POI,POI,,x,It rubs the lotion[PVWolfgang]
-xcpv_Bat_Cave_Arramus,POI,POI,,x,The Bat Cave[Arramus]
-xcpv_Bear_Head_Grill_TheGamerMama,POI,POI,,x,Bear Grills[TheGamerMama]
-xcpv_Beauty_School_Deverezieaux,POI,POI,,x,Dropout[Deverezieaux]
-xcpv_Beetle_Katharsys,POI,POI,,x,Beetlejuice[Katharsys]
-xcpv_Big_Blue_Box_01_AndyRed,POI,POI,,x,Industrial Business Machines[AndyRed]
-xcpv_Big_Blue_Box_AndyRed,POI,POI,,x,Andy's Storage[AndyRed]
-xcpv_Bike_BB_Zeebark,POI,POI,,x,Zee's Bed & Breakfast[Zeebark]
-xcpv_Bike_Shop_War3zuk,POI,POI,,x,Little War3z Bike shop[War3zuk]
-xcpv_Billboard_OctoberFire,POI,POI,,x,Roadside Billboard[OctoberFire]
-xcpv_Bills_Theodryck,POI,POI,,x,Buck shop[Theodryck]
-xcpv_Biowaste_Dump_01_ZZTong,POI,POI,,x,Mexico City[ZZTong]
-xcpv_Bird_Sanctuary_Zeebark,POI,POI,,x,Vulture Sanctuary[Zeebark]
-xcpv_Blood_Falls_Cave_Stample,POI,POI,,x,Lovely View[Stample]
-xcpv_Blue_Fone_Cafe_Battlepapi,POI,POI,,x,Cafe Fone[Battlepapi]
-xcpv_Blue_House_TopMinder_Pille,POI,POI,,x,Not a cult[TopMinder[Pille]]
-xcpv_Blue_Mosque_Waner,POI,POI,,x,Mesa Azul[Waner]
-xcpv_Book_Case_Octoberfire,POI,POI,,x,Books To Read[Octoberfire]
-xcpv_Book_Stop_WillyBilly,POI,POI,,x,Books and looks[WillyBilly]
-xcpv_Book_Store_ActiniumTiger,POI,POI,,x,Books Galore[ActiniumTiger]
-xcpv_Book_Store_InfectedGaming,POI,POI,,x,Inks and thinks[InfectedGaming]
-xcpv_Bookstore_Kayido,POI,POI,,x,Bookworm City[Kayido]
-xcpv_Bowling_Sarongas1999_Crazy1,POI,POI,,x,Pins and sins[Sarongas1999 Crazy1]
-xcpv_Boxing_Gym_KamR,POI,POI,,x,Fists and trysts[KamR]
-xcpv_Boxing_Gym_Voltralux,POI,POI,,x,Mister's Boxing Gym[Voltralux]
-xcpv_Boys_Only_Hotel_LukeSwagDab,POI,POI,,x,Luke's Residence[LukeSwagDab]
-xcpv_Bridgeside_Apartments_Batman,POI,POI,,x,Courtly looks[Batman]
-xcpv_Brownstones_01_ZZTong,POI,POI,,x,Overpriced stones[ZZTong]
-xcpv_Brownstones_House_Laz_Man,POI,POI,,x,Not New York[Laz Man]
-xcpv_Bunker_2_InfectedGaming,POI,POI,,x,Shelter[InfectedGaming]
-xcpv_Bunker_InfectedGaming,POI,POI,,x,Haven[InfectedGaming]
-xcpv_Bunker_NLBlackEagle,POI,POI,,x,Defended[NLBlackEagle]
-xcpv_Bunker_Pille,POI,POI,,x,Fortified Fortress[Pille]
-xcpv_Bunker_Zyncosa,POI,POI,,x,Retreat[Zyncosa]
-xcpv_Bunny_Ranch_Stallionsden,POI,POI,,x,Bunnies[Stallionsden]
-xcpv_Burial_Shrine_Snake0567,POI,POI,,x,Eternal rest[Snake0567]
-xcpv_Buried_Treasure_02_ZZTong,POI,POI,,x,Magnetic Anomaly[ZZTong]
-xcpv_Burnt_Shell_EvilRacc0on,POI,POI,,x,Burnt offerings[EvilRacc0on]
-xcpv_Burrows_Nauti_Angel,POI,POI,,x,Weasely Residence[Nauti Angel]
-xcpv_Bus_Depot_WillyBilly,POI,POI,,x,Navezgane stop[WillyBilly]
-xcpv_Bus_Station_Dragoness,POI,POI,,x,Coach Stop[Dragoness]
-xcpv_Bus_Terminal_4_TheStainGaming,POI,POI,,x,last stop[TheStainGaming]
-xcpv_Business_01_Stallionsden,POI,POI,,x,The Alley[Stallionsden]
-xcpv_Business_Precinct_Stallionsden,POI,POI,,x,The Precinct[Stallionsden]
-xcpv_Business_Strip_Deverezieaux,POI,POI,,x,Global ventures[Deverezieaux]
-xcpv_Busty_Beers_Strip_Club_AndyRed,POI,POI,,x,Jens night job[AndyRed]
-xcpv_CDC_Mission_TheFootpad,POI,POI,,x,Germ lords[TheFootpad]
-xcpv_CQC_House_EvilRacc0on,POI,POI,,x,Frat House[EvilRacc0on]
-xcpv_CV_Store_Sarongas1999_Crazy1,POI,POI,,x,Job Center[Sarongas1999 Crazy1]
-xcpv_Cabin_01_Stallionsden,POI,POI,,x,Woodies Cabin[Stallionsden]
-xcpv_Cabin_01_ZZTong,POI,POI,,x,Tribute[ZZTong]
-xcpv_Cabin_02_Stallionsden,POI,POI,,x,Delanies Cabin[Stallionsden]
-xcpv_Cabin_02_ZZTong,POI,POI,,x,Tribute[ZZTong]
-xcpv_Cabin_03_Stallionsden,POI,POI,,x,Murphy's Cabin[Stallionsden]
-xcpv_Cabin_04_Stallionsden,POI,POI,,x,Clancy's Retreat[Stallionsden]
-xcpv_Cabin_Fort_01_ZZTong,POI,POI,,x,Cozy haven[ZZTong]
-xcpv_Cabin_Park_Notti_Pellegraapus,POI,POI,,x,Serene Getaway[Notti Pellegraapus]
-xcpv_Cabin_Sudo,POI,POI,,x,Country lodge[Sudo]
-xcpv_Cafe_LazyTurtle89,POI,POI,,x,Cafe De Lazy[LazyTurtle89]
-xcpv_Camera_Shop_Zeebark,POI,POI,,x,Pics By Z[Zeebark]
-xcpv_Camp_Alice,POI,POI,,x,Rustic retreat[Alice]
-xcpv_Camping_Loop_Deverezieaux,POI,POI,,x,Natures Haven[Deverezieaux]
-xcpv_Camping_Shop_Zeebark,POI,POI,,x,Bloody Campers[Zeebark]
-xcpv_Cantine_Limodor,POI,POI,,x,Sloppy Joes[Limodor]
-xcpv_Canucks_Coffee_Nagg_Community,POI,POI,,x,Northern Coffee[Nagg Community]
-xcpv_Canyon_Cave_War3zuk,POI,POI,,x,The Mine[War3zuk]
-xcpv_Car_Compound_Lunitar,POI,POI,,x,Vehicle Jail[Lunitar]
-xcpv_Car_Dealership_New_P1ut0nium,POI,POI,,x,Lemon Autos[P1ut0nium]
-xcpv_Car_Dealership_Old_P1ut0nium,POI,POI,,x,Flogit Car Yard[P1ut0nium]
-xcpv_Car_Show_01_ZZTong,POI,POI,,x,Honest Abduls[ZZTong]
-xcpv_Car_Wash_01_ZZTong,POI,POI,,x,Suds n rugs[ZZTong]
-xcpv_Car_Wash_Shema,POI,POI,,x,Soapy ventures[Shema]
-xcpv_Caravan_Vastary,POI,POI,,x,Mobile[Vastary]
-xcpv_Carpark_Mute,POI,POI,,x,Pay n Stay[Mute]
-xcpv_Carpark_Slaan,POI,POI,,x,Cop a fine[Slaan]
-xcpv_Carpu_Pond_TehKarmah,POI,POI,,x,Sounds fishy[TehKarmah]
-xcpv_Carwash_Zeebark,POI,POI,,x,Local CarWash[Zeebark]
-xcpv_Casino_VoltraLux,POI,POIName,,x,High Roller Casino[VoltraLux}
-xcpv_Castle_Chips_Arramus,POI,POI,,x,Royal Castle[Arramus]
-xcpv_Castle_WildPig_Arramus,POI,POI,,x,Baron Castle[WildPig Arramus]
-xcpv_Cathedral_Gerreck,POI,POI,,x,The bells[Gerreck]
-xcpv_Cave_01_Fluffy_Panda,POI,POI,,x,The Wasted Caves[Fluffy Panda]
-xcpv_Cave_01_ZZTong,POI,POI,,x,Holy Ground[ZZTong]
-xcpv_Cave_02_Fluffy_Panda,POI,POI,,x,The Charmed Den[Fluffy Panda]
-xcpv_Cave_02_ZZTong,POI,POI,,x,The Depths[ZZTong]
-xcpv_Cave_03_Fluffy_Panda,POI,POI,,x,The Dreary Grotto[Fluffy Panda]
-xcpv_Cave_04_Fluffy_Panda,POI,POI,,x,Rimrock Hole[Fluffy Panda]
-xcpv_Cave_05_Fluffy_Panda,POI,POI,,x,Terning Chasms[Fluffy Panda]
-xcpv_Cave_06_Fluffy_Panda,POI,POI,,x,Middlesdes Hole[Fluffy Panda]
-xcpv_Church_Guppycur,POI,POI,,x,Guppies Holy Spot[Guppycur]
-xcpv_Citizens_Advice_Office_Arramus,POI,POI,,x,Social Services[Arramus]
-xcpv_City_01_Stallionsden,POI,POI,,x,Huey
-xcpv_City_02_Stallionsden,POI,POI,,x,Hansels n Gretels[Stallionsden]
-xcpv_City_03_Stallionsden,POI,POI,,x,Shops on 9th[Stallionsden]
-xcpv_City_04_Stallionsden,POI,POI,,x,Saddlers Crossing[Stallionsden]
-xcpv_City_05_Stallionsden,POI,POI,,x,4 Squares[Stallionsden]
-xcpv_City_06_Stallionsden,POI,POI,,x,Le Remnants[Stallionsden]
-xcpv_City_07_Stallionsden,POI,POI,,x,Kennsington Lane[Stallionsden]
-xcpv_City_08_Stallionsden,POI,POI,,x,Wesley's Paraphernalia[Stallionsden]
-xcpv_City_09_Stallionsden,POI,POI,,x,Wally's Arcade[Stallionsden]
-xcpv_City_10_Stallionsden,POI,POI,,x,The 3 Stooges[Stallionsden]
-xcpv_City_11_Stallionsden,POI,POI,,x,Alvin
-xcpv_City_12_Stallionsden,POI,POI,,x,The Bimbettes[Stallionsden]
-xcpv_City_13_Stallionsden,POI,POI,,x,Shops on Broadway[Stallionsden]
-xcpv_City_14_Stallionsden,POI,POI,,x,Rowes[Stallionsden]
-xcpv_City_15_Stallionsden,POI,POI,,x,The Cult[Stallionsden]
-xcpv_City_16_Stallionsden,POI,POI,,x,Percy Place[Stallionsden]
-xcpv_City_House_Kam,POI,POI,,x,Town place[Kam]
-xcpv_City_Park_1_OctoberFire,POI,POI,,x,Skate Park[OctoberFire]
-xcpv_City_Park_Cerberus,POI,POI,,x,Chill place[Cerberus]
-xcpv_City_Park_OctoberFire,POI,POI,,x,Inner City Park[OctoberFire]
-xcpv_City_Park_Spider,POI,POI,,x,Coffee Square[Spider]
-xcpv_City_Square_TheStainGaming,POI,POI,,x,down town[TheStainGaming]
-xcpv_Cliff_Dwelling_DMC,POI,POI,,x,Casa De Stark[DMC]
-xcpv_Cliff_Villa_LazyTurtle89,POI,POI,,x,The Villa[LazyTurtle89]
-xcpv_Coffee_Shop_02_EvilRacc0on,POI,POI,,x,Not Starbucks[EvilRacc0on]
-xcpv_Coffee_Shop_ChickenRH,POI,POI,,x,Hallowed Grounds[ChickenRH]
-xcpv_Coffee_Shop_EvilRacc0on,POI,POI,,x,Coffee Republic[EvilRacc0on]
-xcpv_Collapsed_Bldg_BuLLeTZ,POI,POI,,x,Cheap Tennant[BuLLeTZ]
-xcpv_Colony_Ship_NAGG,POI,POI,,x,Jupiter 2[Nagg]
-xcpv_Commune_Stallionsden,POI,POI,,x,The Devil's Commune[Stallionsden]
-xcpv_Community_Center_Zeebark,POI,POI,,x,Community Center[Zeebark]
-xcpv_Community_Centre_Voltralux,POI,POI,,x,Druggies paradise[Voltralux]
-xcpv_Community_Garden_CupCakeKiller,POI,POI,,x,Mary Jane gardens[CupCakeKiller]
-xcpv_Community_Hall_Zeebark,POI,POI,,x,Community Hall[Zeebark]
-xcpv_Computer_Store_Zeebark,POI,POI,,x,Computer Store[Zeebark]
-xcpv_Concrete_Plant_Dest_Zyncosa,POI,POI,,x,Cement Monopoly[Zyncosa]
-xcpv_Concrete_Plant_Zyncosa,POI,POI,,x,Mix it fix it[Zyncosa]
-xcpv_Container_House_EvilRacc0on,POI,POI,,x,Mexican Condo[EvilRacc0on]
-xcpv_Containers_01_ZZTong,POI,POI,,x,Container Storage Yard[ZZTong]
-xcpv_Convenience_OctoberFire,POI,POI,,x,Stop & Shop[OctoberFire]
-xcpv_Convenience_Store_Guppycur,POI,POI,,x,hymalaian Walmart[Guppycur]
-xcpv_Cool_Shooz_Duplex_Zeebark,POI,POI,,x, Zee Shoes[Zeebark]
-xcpv_Corner_Store_01_Gtpwr,POI,POI,,x,Come again[Gtpwr]
-xcpv_Corner_Store_Alice,POI,POI,,x,Kwiki Mart[Alice]
-xcpv_Cornfield_Oscerc,POI,POI,,x,Signs gardens[Oscerc]
-xcpv_Cornish_Pasty_Shop_Medusa,POI,POI,,x,Cheap pastries[Medusa]
-xcpv_Coronado_Barn_Slaan,POI,POI,,x,Armish paradise[Slaan]
-xcpv_Coronado_Crash_Slaan,POI,POI,,x,Odd Apartments[Slaan]
-xcpv_Coronado_Field_Slaan,POI,POI,,x,Baseball central[Slaan]
-xcpv_Coronado_Lake_Slaan,POI,POI,,x,Lake Placid[Slaan]
-xcpv_Coronado_Plant_Slaan,POI,POI,,x,Little shop of horrors[Slaan]
-xcpv_Coronado_Sheds_Slaan,POI,POI,,x,Indoor allotment[Slaan]
-xcpv_Coronado_Silo_Slaan,POI,POI,,x,Zombie proof Home[Slaan]
-xcpv_Corvins_Castle_Mahem3000,POI,POI,,x,Corvins[Mayehm3000]
-xcpv_Country_House_Talladaye,POI,POI,,x,Everythings fine[Talladaye]
-xcpv_Countrytown_Alice,POI,POI,,x,Springfield[Alice]
-xcpv_County_Jail_Volar,POI,POI,,x,Party place[Volar]
-xcpv_Courthouse_Stallionsden,POI,POI,,x,Justice[Stallionsden]
-xcpv_Cozy_Victorian_TheGamerMama,POI,POI,,x,Cosy[TheGamerMama]
-xcpv_Crash_Site_Voltralux,POI,POIName,,x,Mysterious Crash Site[Voltralux]
-xcpv_Crashed_Airplane_Laz_Man,POI,POI,,x,Downed[Laz Man]
-xcpv_Crater_01_ZZTong,POI,POI,,x,Tunguka HotelZZTong]
-xcpv_Crime_At_The_Manor_TheStainGaming,POI,POI,,x,Knives out[TheStainGaming]
-xcpv_Crypto_Miner_01_ZZTong,POI,POI,,x,Cryptominer[ZZTong]
-xcpv_Cubish_EvilRacc0on,POI,POI,,x,Rodney in danger[EvilRacc0on]
-xcpv_Cult_EvilRacc0on,POI,POI,,x,Skyentology 101[EvilRacc0on]
-xcpv_Cyber_Cafe_Vittles,POI,POIName,,x,Have A Byte[Vittles]
-xcpv_DMV_Satellite_Vittles,POI,POIName,,x,DMV Satellite Office[Vittles]
-xcpv_Data_Center_Level50Unlocked,POI,POI,,x,The Centre for Data[Level50Unlocked]
-xcpv_Dataden_AndyRed,POI,POI,,x,Googletown[AndyRed]
-xcpv_Dave_Home_DMC,POI,POI,,x,I can't name this Dave[DMC]
-xcpv_Dawsons_Kingdom_TheGamerMama,POI,POI,,x,Dawsons[TheGamerMama]
-xcpv_DelpHouse_Ogodno77,POI,POI,,x,Perv Frat House[Ogodno77]
-xcpv_Dentist_Vittles,POI,POIName,,x,Dr. Drille DDS[Vittles]
-xcpv_Dept_TehKarmah,POI,POI,,x,Dept of yuppers[TehKarmah]
-xcpv_Design_Firm_EvilRacc0on,POI,POI,,x,Yuppie shape makers[EvilRacc0on]
-xcpv_Detective_Medusa,POI,POI,,x,Inspector Gadget[Medusa]
-xcpv_Disco_Xan,POI,POI,,x,Stues dance House[Xan]
-xcpv_Distribution_TheFootpad,POI,POI,,x,Amazon Hell Hole[TheFootpad]
-xcpv_Dog_Park_01_ZZTong,POI,POI,,x,Dog nut every step[ZZTong]
-xcpv_Dog_Park_HappyCapyGaming,POI,POI,,x,Dog Park[HappyCapyGaming]
-xcpv_Donut_Shop_Bigstep70,POI,POI,,x,Lard ladd[Bigstep70]
-xcpv_Dormer_House_TopMinder,POI,POI,,x,Geoff's play pen[TopMinder]
-xcpv_Dorms_FredddyJ,POI,POI,,x,Dorms[FredddyJ]
-xcpv_Downtown_Building_Lot_01_Zeebark,POI,POI,,x,Empty[Zeebark]
-xcpv_Downtown_Building_Lot_Zeebark,POI,POI,,x,Occupied[Zeebark]
-xcpv_Drive_In_CaptainandMental,POI,POI,,x,Back seat shenannigans[CaptainandMental]
-xcpv_Drive_In_Movie_01_ZZTong,POI,POI,,x,You mean it[ZZTong]
-xcpv_Drive_In_NAGG,POI,POI,,x,Popcorn palace[Nagg]
-xcpv_Drive_In_Wsiegel,POI,POI,,x,Volkswagen pasion wagon[Wsiegel]
-xcpv_Drive_Thru_01_ZZTong,POI,POI,,x,Fast and the pukiest[ZZTong]
-xcpv_Drive_Thru_Bigstep70,POI,POI,,x,slop n go[Bigstep70]
-xcpv_Drs_Office_Bostonlondon,POI,POI,,x,Breathe deeply[Bostonlondon]
-xcpv_Druglord_Estate_Hernan,POI,POI,,x,Mexican Country Escape[Hernan]
-xcpv_Dunkin_Nonuts_Riahsaurus_Rex,POI,POI,,x,Donuts Cafe[Riahsaurus Rex]
-xcpv_Dunkinz_Donuts_Genavimex,POI,POI,,x,Tasty holes[Genavimex]
-xcpv_Duplex_01_Kire,POI,POI,,x,Kire's Residence[Kire]
-xcpv_Duplex_Blasted_Deverezieaux,POI,POI,,x,Sterloin Residence[Kire]
-xcpv_Duplex_Blue_Deverezieaux.blocks,POI,POI,,x,Blue's Residence[Deverezieaux]
-xcpv_Duplex_Brickawn_Deverezieaux,POI,POI,,x,Brown's Residence[Deverezieaux]
-xcpv_Duplex_Brickfront_Deverezieaux,POI,POI,,x,Troll's Residence[Deverezieaux]
-xcpv_Duplex_Brown_Deverezieaux,POI,POI,,x,Stinky's Residence[Deverezieaux]
-xcpv_Duplex_Brownawn_Deverezieaux,POI,POI,,x,Dante's Residence[Deverezieaux]
-xcpv_Duplex_Burned_Deverezieaux,POI,POI,,x,Insurance Job[Deverezieaux]
-xcpv_Duplex_Grammas_Deverezieaux,POI,POI,,x,Grandparents Residence[Deverezieaux]
-xcpv_Duplex_Green_Deverezieaux,POI,POI,,x,Green Residence[Deverezieaux]
-xcpv_Duplex_Haunted_Deverezieaux,POI,POI,,x,Spook's Residence[Deverezieaux]
-xcpv_Duplex_Rebuild_Deverezieaux,POI,POI,,x,Under Construction[Deverezieaux]
-xcpv_Duplex_Unknown,POI,POI,,x,Rent controlled rst Hole[Unknown]
-xcpv_Duplex_Vacant_Deverezieaux,POI,POI,,x,Vacant[Deverezieaux]
-xcpv_Duplex_White_Deverezieaux,POI,POI,,x,White's Residence[Deverezieaux]
-xcpv_Duplex_Yellow_Deverezieaux,POI,POI,,x,Mustard's Residence[Deverezieaux]
-xcpv_Duplex_modernized_Deverezieaux,POI,POI,,x,Dev's Residence[Deverezieaux]
-xcpv_Dwarf_Citadel_Mayhem3000,POI,POI,,x,Dwarfs[Mayhem3000]
-xcpv_EMS_01_ZZTong,POI,POI,,x,Got insurance[ZZTong]
-xcpv_EZ_Steal_Dest_Weaponspec,POI,POI,,x,Grabbit and rabbit[Weaponspec]
-xcpv_EZ_Steal_Weaponspec,POI,POI,,x,Fagans playground[Weaponspec]
-xcpv_Eco_Apartments_Voltralux,POI,POI,,x,Oasis Apartments[Voltralux]
-xcpv_Eiffel_Tower_About98Penguins,POI,POI,,x,The Iron Lady[About98Penguins]
-xcpv_El_Castillo_Temple_Of_Kukulcan_Fizzlewitz,POI,POI,,x,El Castillo[Fizzlewitz]
-xcpv_Electrical_Substation_01_ZZTong,POI,POI,,x,Sparkys House[ZZTong]
-xcpv_Electricity_Substation_NLBlackEagle,POI,POI,,x,Teslas Apartments palace[NLBlackEagle]
-xcpv_Entrance_Sinkhole_FNS,POI,POI,,x,The Entrance[FNS]
-xcpv_Epidemic_Playland_SG1-09,POI,POI,,x,The Epi CentrePlayland[SG1-09]
-xcpv_Espresso_Yourself_AndyRed,POI,POI,,x,grandmas piss[AndyRed]
-xcpv_Estate_Agent_Medusa,POI,POI,,x,Money for nothing[Medusa]
-xcpv_Eternal_Rests_VoltraLux,POI,POI,,x,Gaia Hotel[VoltraLux]
-xcpv_Evac_site_01_Weazelsun,POI,POI,,x,Evac[Weazelsun]
-xcpv_Excavator_Mass_Grave_Pille,POI,POI,,x,No checkout[Pille]
-xcpv_Exham_Priory_FNS,POI,POI,,x,The Priory[FNS]
-xcpv_Experimental_House_TopMinder,POI,POI,,x,Doc Browns place[TopMinder]
-xcpv_Fables_01_Fluffy_Panda,POI,POI,,x,Fables[Fluffy_Panda]
-xcpv_Factory_Raid_Officericee,POI,POI,,x,The feds are here[Officericee]
-xcpv_Fallen_Slaan,POI,POI,,x,Angels r here[Slaan]
-xcpv_Fanz_Duplex_Zeebark,POI,POI,,x,Fanz Duplex[Zeebark]
-xcpv_Farm_01_Dest_Zyncosa,POI,POI,,x,Tomaco[Zyncosa]
-xcpv_Farm_01_Redzero83,POI,POI,,x,its in the Corn[Redzero83]
-xcpv_Farm_01_ZZTong,POI,POI,,x,Get some horse lovin[ZZTong]
-xcpv_Farm_01_Zyncosa,POI,POI,,x,They will Come[Zyncosa]
-xcpv_Farm_02_Dest_Zyncosa,POI,POI,,x,Old MacDonals place[Zyncosa]
-xcpv_Farm_02_ZZTong,POI,POI,,x,Natures Oasis[ZZTong]
-xcpv_Farm_02_Zyncosa,POI,POI,,x,green acres[Zyncosa]
-xcpv_Farm_03_Dest_Zyncosa,POI,POI,,x,Natures bounty[Zyncosa]
-xcpv_Farm_03_ZZTong,POI,POI,,x,Organic warehouse[ZZTong]
-xcpv_Farm_03_Zyncosa,POI,POI,,x,Golden fields[Zyncosa]
-xcpv_Farm_04_ZZTong,POI,POI,,x,Corn on the hob[ZZTong]
-xcpv_Farm_04_Zyncosa,POI,POI,,x,Scarecrow mansions[Zyncosa]
-xcpv_Farm_05_ZZTong,POI,POI,,x,Green fresh[ZZTong]
-xcpv_Farm_05_Zyncosa,POI,POI,,x,Harvest acres[Zyncosa]
-xcpv_Farm_06_ZZTong,POI,POI,,x,Rustic fields[ZZTong]
-xcpv_Farm_07_ZZTong,POI,POI,,x,Green seeds[ZZTong]
-xcpv_Farm_08_ZZTong,POI,POI,,x,Animal Haven[ZZTong]
-xcpv_Farm_09_ZZTong,POI,POI,,x,AgriSolar Farm[ZZTong]
-xcpv_Farm_AZFB_Stallionsden,POI,POI,,x,Simpsons Farms[Stallionsden]
-xcpv_Farm_Barn_Oscerc,POI,POI,,x,Veg bounty[Oscerc]
-xcpv_Farm_BigC90210,POI,POI,,x,Too many cows[BigC90210]
-xcpv_Farm_House_03_Nodabba,POI,POI,,x,Sheep lovers delight[Nodabba]
-xcpv_Farm_House_15_Oscerc,POI,POI,,x,Thundering Udders[Oscerc]
-xcpv_Farm_House_LazyTurtle89,POI,POI,,x,De Lazy Farm[LazyTurtle89]
-xcpv_Farm_House_Oscerc,POI,POI,,x,That was a bull not a cow[Oscerc]
-xcpv_Farm_House_Oscerc,POI,POI,,x,That was a bull not a cow[Oscerc]
-xcpv_Farm_House_Stallionsden,POI,POI,,x,McDonalds Farm[Stallionsden]
-xcpv_Farm_HugaTreeDamnit,POI,POI,,x,Free carrots[HugaTreeDamnit]
-xcpv_Farm_Notti_Pellegraapus,POI,POI,,x,Shakey sheeps lodgings[Notti Pellegraapus]
-xcpv_Farmer_Giles_Arramus,POI,POI,,x,Rekts lover[Arramus]
-xcpv_Farmers_Market_01_ZZTong,POI,POI,,x,medicinal use[ZZTong]
-xcpv_Farmers_Market_Arramus,POI,POI,,x,ask for Mary Jane[Arramus]
-xcpv_Farmers_Market_Vittles,POI,POIName,,x,Farmer's Market[Vittles]
-xcpv_Farmstead_Owl79,POI,POI,,x,Country reside[Owl79]
-xcpv_Farnsworth_House_Grampt,POI,POI,,x,Good news[Grampt]
-xcpv_Farnsworth_Residence_Svarii,POI,POI,,x,Farnsworth[OuSvariich]
-xcpv_Fast_Food_Vittles,POI,POIName,,x,Grill Out Burgers & Fries[Vittles]
-xcpv_Fastfood_Roosters_VoltraLux,POI,POI,,x,Cluck n go[VoltraLux]
-xcpv_Felled_Forest_TallManBrad,POI,POI,,x,Felled[TallManBrad]
-xcpv_Field_Aloe_01_ZZTong,POI,POI,,x,Rub it all over[ZZTong]
-xcpv_Field_Animals_01_ZZTong,POI,POI,,x,Annihilation[ZZTong]
-xcpv_Field_Blueberry_01_ZZTong,POI,POI,,x,Blue Wonka kid[ZZTong]
-xcpv_Field_Chickens_01_ZZTong,POI,POI,,x,Kentucky fried Field[ZZTong]
-xcpv_Field_Coffee_01_ZZTong,POI,POI,,x,Columbian beans[ZZTong]
-xcpv_Field_Corn_01_ZZTong,POI,POI,,x,From the bread basket[ZZTong]
-xcpv_Field_Cotton_01_ZZTong,POI,POI,,x,finger splitting seeds[ZZTong]
-xcpv_Field_Fish_01_ZZTong,POI,POI,,x,Sharknado Park[ZZTong]
-xcpv_Field_Hop_01_ZZTong,POI,POI,,x,Brewers Park[ZZTong]
-xcpv_Field_Mushroom_01_ZZTong,POI,POI,,x,Junky Park[ZZTong]
-xcpv_Field_Potato_01_ZZTong,POI,POI,,x,Spudsville[ZZTong]
-xcpv_Field_Pumpkin_01_ZZTong,POI,POI,,x,Nightmare before CP[ZZTong]
-xcpv_Field_Yucca_01_ZZTong,POI,POI,,x,I got nothing[ZZTong]
-xcpv_Fieldday_01_ZZTong,POI,POI,,x,Big Day Out[ZZTong]
-xcpv_Filler_1_Stallionsden,POI,POI,,x,Stacey's Park[Stallionsden]
-xcpv_Filler_2_Stallionsden,POI,POI,,x,Kevin Park[Stallionsden]
-xcpv_Filler_2_Zeebark,POI,POI,,x,Gardener Park[Zeebark]
-xcpv_Filler_3_Stallionsden,POI,POI,,x,Squatter's Park[Stallionsden]
-xcpv_Filler_3_Zeebark,POI,POI,,x,Bird Park[Zeebark]
-xcpv_Filler_4_Stallionsden,POI,POI,,x,Shady's Park[Stallionsden]
-xcpv_Filler_Deverezieaux,POI,POI,,x,Where the hole at[Deverezieaux]
-xcpv_Filler_Park_10A_Deverezieaux,POI,POI,,x,Putty town Park[Deverezieaux]
-xcpv_Filler_Park_10_Deverezieaux,POI,POI,,x,Aint no hole here[Deverezieaux]
-xcpv_Filler_Park_11A_Deverezieaux,POI,POI,,x,mini central Park[Deverezieaux]
-xcpv_Filler_Park_11_Deverezieaux,POI,POI,,x,Where the Gorks live[Deverezieaux]
-xcpv_Filler_Sandbox_1_Arramus,POI,POI,,x,Giant cat litter[Arramus]
-xcpv_Filler_Zeebark,POI,POI,,x,Nature's Park[Zeebark]
-xcpv_Fire_Academy_01_ZZTong,POI,POI,,x,Fire[ZZTong]
-xcpv_Fire_Dept_Guppycur,POI,POI,,x,Hose Town[Guppycur]
-xcpv_Fire_Station_Slick50,POI,POI,,x,The pump House[Slick50]
-xcpv_Fire_Watch_Tower_SciFiFlippa,POI,POI,,x,Fire Watch[SciFiFlippa]
-xcpv_Fireworks_Blackrook,POI,POI,,x,Forth celebration[Blackrook]
-xcpv_Gateway_Filler_03_ZZTong,POI,POI,,x,Fit in place[ZZTong]
-xcpv_Gym_Theodryck,POI,POI,,x,Squat n sweat[Theodryck]
-xcpv_Gyroport_01_ZZTong,POI,POI,,x,Heli Park[ZZTong]
-xcpv_HBW_Metro_WillyBilly,POI,POI,,x,Underground Transit[WillyBilly]
-xcpv_Hall_Of_Fame_Stallionsden,POI,POI,,x,Fame[Stallionsden]
-xcpv_Haulier_lg_Limodor,POI,POI,,x,Cargo Express[Limodor]
-xcpv_Haulier_md_Limodor,POI,POI,,x,Transit solutions[Limodor]
-xcpv_Haunted_Halloween_House_Zeebark,POI,POI,,x,Haunted Halloween House[Zeebark]
-xcpv_Haunted_Mansion_01_FluffyPanda,POI,POI,,x,The Haunting[FluffyPanda]
-xcpv_Haunted_Mansion_Fluffy_Panda,POI,POI,,x,The Haunting[Fluffy Panda]
-xcpv_Haus_Der_Pizza_PlastikRice,POI,POIName,,x,Haus Der Pizza[PlastikRice]
-xcpv_Heeren_Residence_Tdestructinator,POI,POI,,x,Heeren Residence[Tdestructinator]
-xcpv_Hell_Mart_Riahsaurus_Rex,POI,POI,,x,Walmart twin brother[Riahsaurus Rex]
-xcpv_Hestias_Hot_Spring_FNS,POI,POI,,x,The Springs[FNS]
-xcpv_Hicks_Diner_WillyBilly,POI,POI,,x,Greasy feast[WillyBilly]
-xcpv_Highrise_Gikon,POI,POI,,x,Top it off[Gikon]
-xcpv_Hightop_Curbolt,POI,POI,,x,Hello down there[Curbolt]
-xcpv_Hitman_Hawkes_BH_01_PlastikRice,POI,POI,,x,The Hitman[PlastikRice]
-xcpv_Hobbit_Limodor,POI,POI,,x,Bagins Residence[Limodor]
-xcpv_Home_DeeJayWon,POI,POI,,x,No HOA please[DeeJayWon]
-xcpv_Home_Riahsaurus_Rex,POI,POI,,x,Mind the Karens[Riahsaurus Rex]
-xcpv_Hot_Spot_Shema,POI,POI,,x,Fat wallets[Shema]
-xcpv_House_01_Kuldiin,POI,POI,,x,Mid century modern[Kuldiin]
-xcpv_House_01_Nodabba,POI,POI,,x,Drafty abodes[Nodabba]
-xcpv_House_01_Oscerc,POI,POI,,x,Squatter central[Oscerc]
-xcpv_House_01_Redzero83,POI,POI,,x,Creaky corners[Redzero83]
-xcpv_House_01_Stallionsden,POI,POI,,x,Pacco's Residence[Stallionsden]
-xcpv_House_01_TwistedViking,POI,POI,,x,Splinter streets[TwistedViking]
-xcpv_House_01_ZZTong,POI,POI,,x,Mi casa es mi casa[ZZTong]
-xcpv_House_02_Curbolt,POI,POI,,x,No place like Home[Curbolt]
-xcpv_House_02_Dest_Nodabba,POI,POI,,x,Awful appartments[Nodabba]
-xcpv_House_02_Fortbrick,POI,POI,,x,Brickly mansions[Fortbrick]
-xcpv_House_02_Frank_Souza,POI,POI,,x,Fear the terrace[Frank Souza]
-xcpv_House_02_Guppycur,POI,POI,,x,Scally Town[Guppycur]
-xcpv_House_02_Kam,POI,POI,,x,Crowded quarters[Kam]
-xcpv_House_02_Kuldiin,POI,POI,,x,Crooked condos[Kuldiin]
-xcpv_House_02_Nodabba,POI,POI,,x,Lofty Estates[Nodabba]
-xcpv_House_02_Oscerc,POI,POI,,x,HOA central[Oscerc]
-xcpv_House_02_Oscerc,POI,POI,,x,HOA central[Oscerc]
-xcpv_House_02_Redzero83,POI,POI,,x,Council battlefield[Redzero83]
-xcpv_House_02_Stallionsden,POI,POI,,x,Kinyaju's Residence[Stallionsden]
-xcpv_House_02_ZZTong,POI,POI,,x,Disturbing dwellings[ZZTong]
-xcpv_House_02_Zyncosa,POI,POI,,x,Terrible towns[Zyncosa]
-xcpv_House_03A_Dest_Nodabba,POI,POI,,x,Ganja in the attic[Nodabba]
-xcpv_House_03B_Dest_Nodabba,POI,POI,,x,Karensville[Nodabba]
-xcpv_House_03_Curbolt,POI,POI,,x,Mouldy mansions[Curbolt]
-xcpv_House_03_Dest_Zyncosa,POI,POI,,x,Crooked corners[Zyncosa]
-xcpv_House_03_Guppycur,POI,POI,,x,Scummys quarters[Guppycur]
-xcpv_House_03_Kam,POI,POI,,x,Sin city[Kam]
-xcpv_House_03_Oscerc,POI,POI,,x,Builtwell bricks[Oscerc]
-xcpv_House_03_Stallionsden,POI,POI,,x,Preston Residence[Stallionsden]
-xcpv_House_03_ZZTong,POI,POI,,x,Cringewell corners[ZZTong]
-xcpv_House_03_Zyncosa,POI,POI,,x,Falling appartments[Zyncosa]
-xcpv_House_04_Curbolt,POI,POI,,x,Monticello Strip[Curbolt]
-xcpv_House_04_Guppycur,POI,POI,,x,Molly Brown lived here[Guppycur]
-xcpv_House_04_Kam,POI,POI,,x,Longwood dwellings[Kam]
-xcpv_House_04_Nodabba,POI,POI,,x,Graceland stacks[Nodabba]
-xcpv_House_04_Oscerc,POI,POI,,x,Hazel Path Haunts[Oscerc]
-xcpv_House_04_ZZTong,POI,POI,,x,Tottingham towers[ZZTong]
-xcpv_House_05_Dest_Zyncosa,POI,POI,,x,Crooked corners[Zyncosa]
-xcpv_House_05_Guppycur,POI,POI,,x,Loony Lofts[Guppycur]
-xcpv_House_05_Kam,POI,POI,,x,Little lodge[Kam]
-xcpv_House_05_Nodabba,POI,POI,,x,Bimble Bungalow[Nodabba]
-xcpv_House_05_Oscerc,POI,POI,,x,Cozy Hideaway[Oscerc]
-xcpv_House_05_ZZTong,POI,POI,,x,Many floors mansions[ZZTong]
-xcpv_House_05_Zyncosa,POI,POI,,x,Lego Residence[Zyncosa]
-xcpv_House_06_Dest_Nodabba,POI,POI,,x,Satan's Residence[Nodabba]
-xcpv_House_06_Nodabba,POI,POI,,x,Nobby's Residence[Nodabba]
-xcpv_House_06_Oscerc,POI,POI,,x,Burt Residence[Oscerc]
-xcpv_House_06_ZZTong,POI,POI,,x,Jasper Residence[ZZTong]
-xcpv_House_07_Curbolt,POI,POI,,x,Dr ZZTong's Residence[Curbolt]
-xcpv_House_07_Nodabba,POI,POI,,x,Tinker's Residence[Nodabba]
-xcpv_House_07_Oscerc,POI,POI,,x,Papi Residence[Oscerc]
-xcpv_House_07_ZZTong,POI,POI,,x,Korma Residence[ZZTong]
-xcpv_House_08_Dest_Zyncosa,POI,POI,,x,Shanty Residence[Zyncosa]
-xcpv_House_08_Nodabba,POI,POI,,x,Bond Residence[Nodabba]
-xcpv_House_08_Oscerc,POI,POI,,x,Joel's Residence[Oscerc]
-xcpv_House_08_ZZTong,POI,POI,,x,Jen's Residence[ZZTong]
-xcpv_House_08_Zyncosa,POI,POI,,x,Bob's Residence[Zyncosa]
-xcpv_House_09_Dest_Zyncosa,POI,POI,,x,Rekt's Residence[Zyncosa]
-xcpv_House_09_Nodabba,POI,POI,,x,Hugh's Residence[Nodabba]
-xcpv_House_09_ZZTong,POI,POI,,x,Sheldon Residence[ZZTong]
-xcpv_House_09_Zyncosa,POI,POI,,x,Marcy's Residence[Zyncosa]
-xcpv_House_10_Oscerc,POI,POI,,x, Residence[Oscerc]
-xcpv_House_10_ZZTong,POI,POI,,x,Cooper's Residence[ZZTong]
-xcpv_House_10_Zyncosa,POI,POI,,x,AlCapOn Residence[Zyncosa]
-xcpv_House_11_Oscerc,POI,POI,,x,Paxton Residence[Oscerc]
-xcpv_House_11_ZZTong,POI,POI,,x,Percy Residence[ZZTong]
-xcpv_House_11_Zyncosa,POI,POI,,x,Robyn's Residence[Zyncosa]
-xcpv_House_12_Oscerc,POI,POI,,x,MacDowell Residence[Oscerc]
-xcpv_House_12_ZZTong,POI,POI,,x,Whoopsie Residence[ZZTong]
-xcpv_House_12_Zyncosa,POI,POI,,x,Drifter's Residence[Zyncosa]
-xcpv_House_13_Oscerc,POI,POI,,x,Majong Residence[Oscerc]
-xcpv_House_13_ZZTong,POI,POI,,x,Salty Residence[ZZTong]
-xcpv_House_14_Kam,POI,POI,,x,RatKing Residence[Kam]
-xcpv_House_14_Oscerc,POI,POI,,x,Clicker Residence[Oscerc]
-xcpv_House_14_ZZTong,POI,POI,,x,Wolf Residence[ZZTong]
-xcpv_House_15_ZZTong,POI,POI,,x,Scar Residence[ZZTong]
-xcpv_House_16_ZZTong,POI,POI,,x,Mufusa Residence[ZZTong]
-xcpv_House_17_ZZTong,POI,POI,,x,Croyden Residence[ZZTong]
-xcpv_House_18_ZZTong,POI,POI,,x,Fran's Residence[ZZTong]
+Van1RestorationTool,,,,,VM NPC Van Restoration Tool,VM NPC货车修复工具
+WSVanRestorationTool,,,,,Working Stiff Van Restoration Tool,工作刚性货车修复工具
+MOpowerVanRestorationTool,,,,,Mo Power Van Restoration Tool,Mo Power Van 修复工具
+TFPAmbulanceRestorationTool,,,,,TFP Ambulance Restoration Tool,TFP 救护车恢复工具
+TFP4x4RestorationTool,,,,,TFP 4x4 Restoration Tool,TFP 4x4 恢复工具
+TFPMotorcycleRestorationTool,,,,,TFP Motorcycle Restoration Tool,TFP 摩托车修复工具
+TFPBicycleRestorationTool,,,,,TFP Bicycle Restoration Tool,TFP 自行车修复工具
+EVOLancerRestorationTool,,,,,VM Evo Lancer Restoration Tool,VM Evo Lancer 恢复工具
+SpikerRestorationTool,,,,,VM Spiker Car Restoration Tool,VM Spiker 汽车修复工具
+MotoGuppyRestorationTool,,,,,VM MotoGuppy Restoration Tool,VM MotoGuppy 恢复工具
+CrusaderRestorationTool,,,,,VM Crusader Restoration Tool,VM Crusader 恢复工具
+CutlassRestorationTool,,,,,VM Cutlass Restoration Tool,VM Cutlass 恢复工具
+PoliceRestorationTool,,,,,VM Police Car Restoration Tool,VM警車修復工具
+BrownQuadRestorationTool,,,,,VM Brown Quad Bike Restoration Tool,VM Brown 四輪自行車修復工具
+TaxiRestorationTool,,,,,VM Rusty Yellow Taxi Restoration Tool,VM 生鏽的黃色計程車修復工具
+RedVanRestorationTool,,,,,VM Red Van Restoration Tool,
+VespaRestorationTool,,,,,VM Vespa Restoration Tools,
+VespaKartRestorationTool,,,,,VM Vespa Kart Restoration Tools,
+ExplorerRestorationTool,,,,,VM Explorer Restoration Tool,
+OldSemiRestorationTool,,,,,VM Old Semi Restoration Tool,
+Mach1RestorationTool,,,,,VM Mustang Mach1 Restoration Tool,
+YellowSchoolBusRestorationTool,,,,,Yellow School Bus Restoration Tool,
+VMAutoWorkbench,,,,,Auto Workbench,
+cntCar03SedanRepairMaster0,,,,,Repairable Car Master,
+SedanMasterDamged,,,,,Damaged Sedan Master,
+UtilityMasterDamaged,,,,,Damaged Utility Master,
+damagedTireSmallFlat,,,,,Damaged Flat Tire,
+damagedWheelSmallFlat,,,,,Damaged Flat Wheel,
+PoliceCarDamaged,,,,,Damaged VM Police Car,
+OldPickupTruck,,,,,Damaged VM Old Pickup ,
+AmbulanceDamaged,,,,,Damaged VM Ambulance,损坏的虚拟机救护车
+AmbulanceHalfWreck,,,,,Half wrecked VM Ambulance,半毁的VM救护车
+AmbulanceShell,,,,,Damaged VM Ambulance Shell,损坏的 VM 救护车外壳
+AbandonedMilitary,,,,,VM Abandoned Military Trailer,VM 废弃的军事预告片
+BigRigDamaged,,,,,Damaged VM Big Rig 1,损坏的 VM 大钻机 1
+BigRigShell,,,,,VM Big Rig 1 Shell,VM Big Rig 1 外壳
+BlueEvoDamaged,,,,,Damaged Blue VM EVO,损坏的蓝色 VM EVO
+BlueEvoHalfWreck,,,,,Blue VM EVO Wreck,蓝色 VM EVO 残骸
+BlueEvoShell,,,,,Blue VM EVO Shell,蓝色 VM EVO 外壳
+BusDamaged,,,,,Damaged VM Bus,虚拟机总线损坏
+BusDamaged2,,,,,Damaged VM Bus,虚拟机总线损坏
+cntAmbulanceTruck01,,,,,Large Ambulance,大型救護車
+cntArmyTruckClosed,,,,,Army Truck,軍用卡車
+cntArmyTruckOpen,,,,,Army Truck,軍用卡車
+cntBusCity,,,,,City Bus,城市巴士
+cntBusSchool,,,,,School Bus,
+cntBusSchoolShort,,,,,Short School Bus,
+VMWreckCar1,,,,,VM Wrecked Sedan Alpha,
+VMWreckCar2,,,,,VM Wrecked Sedan Bravo,
+VMWreckCar3,,,,,VM Wrecked Sedan Charlie,
+VMWreckCar4,,,,,VM Wrecked Sedan Delta,
+VMWreckCar5,,,,,VM Wrecked Sedan Echo,
+VMWreckCar6,,,,,VM Wrecked Sedan Foxtrot,
+VMWreckCar7_2,,,,,VM Wrecked Sedan Golf,
+VMWreckCar7_3,,,,,VM Wrecked Sedan Golf,
+VMWreckCar7,,,,,VM Wrecked Sedan Golf,
+VMWreckCar8_2,,,,,VM Wrecked Sedan Hotel,
+VMWreckCar8_3,,,,,VM Wrecked Sedan Hotel,
+VMWreckCar8,,,,,VM Wrecked Sedan Hotel,
+VMWreckHatchback1,,,,,VM Wrecked Hatchback,
+VMWreckLada1,,,,,VM Wrecked Lada,
+cntServiceTruckMoPower,,,,,Mo Power Truck,
+cntServiceTruckWorkingStiffTools,,,,,Stiff Tools Truck,
+VMWreckSUV1_2,,,,,VM Wrecked SUV,
+VMWreckSUV1_3,,,,,VM Wrecked SUV,
+VMWreckSUV1,,,,,VM Wrecked SUV,
+VMWreckTruck1,,,,,VM Wrecked Pickup Truck,
+VMWreckTruck2,,,,,VM Wrecked Cargo Truck,
+VMWreckVan,,,,,VM Wrecked Delivery Van,
+VMWreckVan1,,,,,VM Wrecked Panel Van,
+VMWreckVan2_1,,,,,VM Wrecked Service Van,
+VMWreckVan2_2,,,,,VM Wrecked Service Van,
+VMWreckVan2_3,,,,,VM Wrecked Service Van,
+VMWreckRV,,,,,Damaged RV,
+VMWreckRV1,,,,,RV Wreck,
+VMWreckWagon1,,,,,VM Wrecked Station Wagon,
+VMWreckZuk1,,,,,VM Wrecked Żuk Van,
+CrusaderDamaged,,,,,Damaged VM Crusader,
+CrusaderHalfWreck,,,,,VM Crusader Wreck,
+CrusaderShell,,,,,VM Crusader Shell,
+FastbackDamaged,,,,,Damaged VM Fastback,
+FastbackHalfWreck,,,,,VM Fastback Wreck,
+FastbackShell,,,,,VM Fastback Shell,
+FiretruckDamaged,,,,,Damaged VM Firetruck,
+FiretruckDamagedWreck,,,,,VM Firetruck Damaged Wreck,
+FiretruckWreck,,,,,VM Firetruck Wreck,
+FuelTankerDamaged,,,,,Damaged VM Fuel Tanker,
+GasTank,,,,,Old VM Gas Tank,
+GasTankerTruck,,,,,VM Gas Tanker truck,
+GreyEvoDamaged,,,,,Damaged Grey VM EVO,
+GreyEvoEvoShell,,,,,Grey VM EVO Shell,
+GreyEvoShell,,,,,Grey VM EVO Shell,
+GreyEvoHalfWreck,,,,,Grey VM EVO Wreck,
+GTODamaged,,,,,Damaged VM Old GTO,
+JeepDamaged,,,,,Damaged VM Jeep,
+JeepHalfWreck,,,,,VM Jeep Wreck,
+JeepShell,,,,,VM Jeep Shell,
+MilitaryHumVeeDamaged,,,,,Damaged VM Military HumVee,
+MilitaryHumVeeShell,,,,,VM Military HumVee Shell,
+MilitaryTruckDamaged,,,,,Damaged VM Military Truck,
+MilitaryTruckShell,,,,,VM Military Truck Shell,
+MustangDamaged,,,,,Damaged old VM Mustang,
+OldChevyTruckDamaged,,,,,Damaged Smith's Dad's Old VM Chevy Truck,
+OldsmobileDamaged,,,,,Damaged VM Oldsmobile,
+OldsmobileHalfWreck,,,,,VM Oldsmobile Wreck,
+OldsmobileShell,,,,,VM Oldsmobile Shell,
+OrangeEvoDamaged,,,,,Damaged Orange VM EVO,
+OrangeEvoEvoShell,,,,,Orange VM EVO Shell,
+OrangeEvoHalfWreck,,,,,Orange VM EVO Wreck,
+RedBMWDamaged,,,,,Damaged Red VM BMW,
+RedBMWHalfWreck,,,,,Red VM BMW Wreck,
+RedBMWShell,,,,,Red VM BMW Shell,
+SpikerDamaged,,,,,Damaged VM Spiker,
+SpikerHalfWreck,,,,,VM Spiker Wreck,
+SpikerShell,,,,,VM Spiker Shell,
+TurboDamaged,,,,,Damaged VM Hell Car Turbo,
+TurboHalfWreck,,,,,VM Hell Car Turbo Wreck,
+TurboShell,,,,,VM Hell Car Shell,
+VMVan2Damaged,,,,,Damaged VM Workshop Van,
+VMVan2HalfWreck,,,,,VM Workshop Van Wreck,
+VMVan2Shell,,,,,VM Workshop Van Shell,
+WhiteBMWDamaged,,,,,Damaged White VM BMW,
+WhiteBMWHalfWreck,,,,,White VM BMW Wreck,
+WhiteBMWShell,,,,,White VM BMW Shell,
+4x4TruckDamaged,,,,,Damaged TFP 4x4,
+4x4TruckHalfWreck,,,,,TFP 4x4 Half Wreck,
+4x4TruckShell,,,,,TFP 4x4 Shell,
+OldCar1Damaged,,,,,Damaged Old Blue VM Car,
+OldCar1HalfWreck,,,,,Old Blue VM Car Wreck,
+OldCar1Shell,,,,,Old Blue VM Car Shell,
+MotorcycleDamaged,,,,,Damaged TFP Motorcycle ,
+MotorcycleHalfWreck,,,,,TFP Motorcycle Wreck,
+MotorcycleShell,,,,,TFP Motorcycle Shell,
+DumperTruckDamaged,,,,,Damaged Old VM DumperTruck ,
+DumperTruckHalfWreck,,,,,Old VM DumperTruck Wreck ,
+DumperTruckShell,,,,,Old VM Dumper Truck Shell ,
+GarbageTruckDamaged,,,,,Damaged VM Garbage Truck ,
+GarbageTruckShell,,,,,VM Garbage Truck Shell ,
+PontiacDamaged,,,,,Damaged VM Pontiac GTO ,
+PontiacHalfWreck,,,,,VM Pontiac GTO Wreck ,
+PontiacShell,,,,,VM Pontiac GTO Shell ,
+PoliceBurnedHalfWreck,,,,,Old Burned VM Police Car Wreck ,
+VMPoliceBurned180Wreck0,,,,,Burned VM Police Car ,
+VMPoliceBurned180Wreck2,,,,,Burned VM Police Car Shell ,
+VenturaDamaged,,,,,Damaged old VM Pontiac Ventura ,
+BelAirDamaged,,,,,Damaged Old VM Chevy BelAir ,
+HelicopterCrashed,,,,,Crashed VM Helicopter wreck ,
+DamagedBeetle,,,,,Damaged VM Beetle Car,
+DamagedBicycle,,,,,Damaged TFP Bike,
+DamagedGyro,,,,,Damaged TFP Gyro,
+DamagedMilitaryTruck2,,,,,Damaged Old VM Military truck,
+DamagedWarthog,,,,,Damaged VM Warthog,
+DamagedInterceptor,,,,,Damaged VM Interceptor,
+DamagedJeepTA,,,,,Damaged VM Tactical Jeep,
+DamagedStrikerAPC,,,,,Damaged VM Striker APC vehicle,
+DamagedApoTruck,,,,,Damaged Apocaliptic VM Farm Truck,
+<!--DamagedSmallMTTruck,,,,,Damaged VM Military Truck,
+DamagedMalice,,,,,Damaged VM Malice Car,
+DamagedM3ATruck,,,,,Damaged VM M3A Military Car,
+DamagedM3MTruck,,,,,Damaged VM Old Military Car,
+DamagedHunter,,,,,Damaged VM Hunter Car,
+DamagedFlatbedTruck,,,,,Damaged VM FlatBed Truck,
+DamagedCombiVan,,,,,Damaged VM Combi Van,
+DamagedCobra,,,,,Damaged VM Mustang Cobra,
+DamagedCharger,,,,,Damaged VM Charger,
+DamagedBoxTruck,,,,,Damaged Red VM Box Truck,
+DamagedBigRig2,,,,,Damaged VM Custom Big Rig Semi Truck,
+DamagedVMBuggy,,,,,Damaged big VM Buggy ,
+DamagedMotoGuppy,,,,,Damaged VM MotoGuppy Moped ,
+DamagedHotRod,,,,,Damaged VM HotRod Car ,
+DamagedNPCVan,,,,,Damaged VM NPC Van ,
+DamagedRustySedan,,,,,Damaged VM Rusty Sedan ,
+DamagedModernSedan,,,,,Damaged VM Modern Sedan ,
+DamagedVespa,,,,,Damaged VM Vespa Moped ,
+DamagedVespaKart,,,,,Damaged VM Vespa Kart ,
+DamagedCutlassSedan,,,,,Damaged VM Cutlass Sedan ,
+WhiteSedanDamaged,,,,,Damaged White VM Sedan ,
+BrownSedanDamaged,,,,,Damaged Brown VM Sedan ,
+BlueSedanDamaged,,,,,Damaged Blue VM Sedan ,
+DamagedBrownQuad,,,,,Damaged Brown VM Quad Bike ,
+DamagedRustyTaxi,,,,,Damaged Rusty Yellow VM Taxi ,
+DamagedRedVan,,,,,Damaged Red VM Van ,
+DamagedMustangJunker,,,,,Damaged VM Mustang Junker,
+DamagedExplorer,,,,,Damaged VM Explorer Jeep ,
+DamagedOldSemi,,,,,Damaged Old VM Semi ,
+DamagedPickup,,,,,Old Damaged VM Pickup Shell,
+DamagedVMPickup,,,,,Damaged VM Pickup,
+DamagedMustangMach1,,,,,Damaged VM Mustang Mach1,
+Repairable4x4Truck,,,,,([68E3CF]Repairable[-])\n TFP 4x4 Truck,
+RepairableAmbulance,,,,,([68E3CF]Repairable[-])\n TFP Ambulance,
+RepairableBeetle,,,,,([68E3CF]Repairable[-])\n VM Beetle,
+RepairableBicycle,,,,,([68E3CF]Repairable[-])\n TFP Bicycle,
+RepairableBigBuggy,,,,,([68E3CF]Repairable[-])\n Big VM Buggy ,
+RepairableBigRig2,,,,,([68E3CF]Repairable[-])\n VM Custom Big Rig,
+RepairableBoxTruckRed,,,,,([68E3CF]Repairable[-])\n Red VM Box Truck,
+RepairableBrownJeep,,,,,([68E3CF]Repairable[-])\n Brown VM Jeep,
+RepairableExplorer,,,,,([68E3CF]Repairable[-])\n VM Explorer,
+RepairableCobra,,,,,([68E3CF]Repairable[-])\n VM Mustang Cobra,
+RepairableMustangMach1,,,,,([68E3CF]Repairable[-])\n VM Mustang Mach1,
+RepairableCombiVan1,,,,,([68E3CF]Repairable[-])\n Old VM Combi Van,
+RepairableFastback,,,,,([68E3CF]Repairable[-])\n VM Fastback,
+RepairableFlatBed,,,,,([68E3CF]Repairable[-])\n VM Flatbed,
+RepairableHotRod,,,,,([68E3CF]Repairable[-])\n VM Hot Rod,
+RepairableHunter,,,,,([68E3CF]Repairable[-])\n VM Hunter,
+RepairableInterceptor,,,,,([68E3CF]Repairable[-])\n VM Interceptor,
+RepairableM3ATruck,,,,,([68E3CF]Repairable[-])\n M3A Military transport Car,
+RepairableMalice,,,,,([68E3CF]Repairable[-])\n VM Malice,
+RepairableMilitaryHumVee,,,,,([68E3CF]Repairable[-])\n Military Humvee,
+RepairableMilitaryTruck,,,,,([68E3CF]Repairable[-])\n Big VM Military Truck,
+RepairableMilitaryTruck2,,,,,([68E3CF]Repairable[-])\n Old VM Military Truck,
+RepairableMoPower,,,,,([68E3CF]Repairable[-])\n TFP Mo Power Truck,
+RepairableMotorcycle,,,,,([68E3CF]Repairable[-])\n TFP Motorcycle,
+RepairableRedBMW,,,,,([68E3CF]Repairable[-])\n Red VM BMW,
+RepairableRV,,,,,([68E3CF]Repairable[-])\n VM Apocaliptic RV,
+RepairableSedan,,,,,([68E3CF]Repairable[-])\n VM FairHaven Sedan,
+RepairableSmallAPOTruck,,,,,([68E3CF]Repairable[-])\n VM Apocaliptic Farm Truck ,
+RepairableStrikerAPC,,,,,([68E3CF]Repairable[-])\n VM Striker APC,
+RepairableTacticalJeep,,,,,([68E3CF]Repairable[-])\n Military VM Tactical Jeep,
+RepairableTurboMuscle,,,,,([68E3CF]Repairable[-])\n Hell Car Turbo Muscle Car,
+RepairableNPCVan,,,,,([68E3CF]Repairable[-])\n VM NPC Mod Van,
+RepairableVan2,,,,,([68E3CF]Repairable[-])\n VM Workshop Van,
+RepairableWarthog,,,,,([68E3CF]Repairable[-])\n VM Warthog,
+RepairableWhiteBMW,,,,,([68E3CF]Repairable[-])\n White VM BMW,
+RepairableWorkingStiffs,,,,,([68E3CF]Repairable[-])\n Working Stiffs Truck,
+RepairableGyro,,,,,([68E3CF]Repairable[-])\n Gyrocopter,
+RepairableEvoLancer,,,,,([68E3CF]Repairable[-])\n VM Evo Lancer,
+RepairableSpiker,,,,,([68E3CF]Repairable[-])\n VM Aplocaliptic Spiker Car,
+RepairableMotoGuppy,,,,,([68E3CF]Repairable[-])\n VM MotoGuppy Moped,
+RepairableCrusader4x4,,,,,([68E3CF]Repairable[-])\n VM Crusader 4x4,
+RepairableVespa,,,,,([68E3CF]Repairable[-])\n Red VM Vespa Moped,
+RepairableVespaKart,,,,,([68E3CF]Repairable[-])\n VM Vespa Kart,
+RepairableCutlass,,,,,([68E3CF]Repairable[-])\n VM Sedan Cutlass,
+RepairablePoliceCar,,,,,([68E3CF]Repairable[-])\n VM Police Car,
+RepairableBrownQuad,,,,,([68E3CF]Repairable[-])\n Brown VM Quad Bike,
+RepairableRustyTaxi,,,,,([68E3CF]Repairable[-])\n Rusted yellow VM Taxi,
+RepairableRedVan,,,,,([68E3CF]Repairable[-])\n Old Red VM Van,
+RepairableOldSemi,,,,,([68E3CF]Repairable[-])\n Old VM Semi Truck,
+RepairablePickUp,,,,,([68E3CF]Repairable[-])\n VM Pickup Truck,
+RepairableSchoolBus,,,,,([68E3CF]Repairable[-])\n Yellow School Bus,
+twitchTurd,,,,,Clown Poop,
+Discount Mart,,,,,[e6b3ff]Discount Mart,
+DW_Abandoned_Base_01_wilderness,,,,,[e6b3ff]Defense Base Jericho,
+DW_BreachedTrader_Bob,,,,,[e6b3ff]Trader Bob,
+DW_BreachedTrader_Jen,,,,,[e6b3ff]Trader Jen,
+DW_BreachedTrader_Bob,,,,,[e6b3ff]Trader Bob,
+DW_BreachedTrader_Rekt,,,,,[e6b3ff]Trader Rekt,
+DW_BreachedTrader_hugh,,,,,[e6b3ff]Trader Hugh,
+DW_BreachedTrader_Joel,,,,,[e6b3ff]Trader Joel,
+DW_Bunker_Multi_Trader,,,,,[e6b3ff]Infested Bunker 51,
+DW_BunkerMultiTrader,,,,,[e6b3ff]Infested Bunker 50,
+DW_DocksTrader,,,,,[e6b3ff]The Docks MultiTrader,
+DW_Domestikator,,,,,[e6b3ff]Domestikator,
+DW_Embarcadero,,,,,[e6b3ff]Embarcadero,
+DW_ForwardBaseSmall,,,,,[e6b3ff]Abandoned Outpost,
+DW_Modern_Art_House,,,,,[e6b3ff]Jens Vacation Home,
+DW_Rural_Horde_Base_Medium,,,,,[e6b3ff]Defence Outpost Oscar.,
+DW_Small_Horde_base01,,,,,[e6b3ff]Scout Outpost Leamer,
+DW_SmallPipeBase,,,,,[e6b3ff]Abandoned Survivor Shack,
+DW_Subterranean,,,,,[e6b3ff]Subterranean,
+DW_TraderREKT,,,,,[e6b3ff]Trader Lee Gon,
+DW_Trader_hugh,,,,,[e6b3ff]Trader Tracker Voss,
+dw_TRADER_Bob,,,,,[e6b3ff]Trader Cyborg Zero,
+dw_Trader_Joel,,,,,[e6b3ff]Trader Dr.Pestilence,
+DW_TraderBOB,,,,,[e6b3ff]Trader Cyborg Zero,
+DW_TraderHugh,,,,,[e6b3ff]Trader Tracker Voss,
+DW_TraderJEN,,,,,[e6b3ff]Trader Nymphadora,
+DW_TraderJOEL,,,,,[e6b3ff]Trader Dr. Pestilence,
+DW_TRADER_Rekt,,,,,[e6b3ff]Trader Lee Gon,
+DW_WolfLegalServices,,,,,[e6b3ff]Wolf Legal Services,
+Ground Zero Mart,,,,,[e6b3ff]Apoco-Mart,
+TheAfterLife,,,,,[e6b3ff]Club Afterlife,
+DW_BunkerMultiTrader,,,,,[e6b3ff]Lost Bunker,
+DW_ServiceGas,,,,,[e6b3ff]Pops Gas N' Go,
+DW_TRADE-BUNKER,,,,,[e6b3ff]Infested Bunker Zebra,
+Asylum_Biotech,,,,,[e6b3ff]Asylum Biotech,
+AsylumLab,,,,,[e6b3ff]Asylum Lab,
+Rolling_Hills_Asylum,,,,,[e6b3ff]Rolling Hills Asylum,
+DW_MasterBaitAndTackle,,,,,[e6b3ff]Master's Bait & Tackle,
+DW_ParadiseHotel,,,,,[e6b3ff]Paradise Hotel,
+DW_Monster_Museum,,,,,[e6b3ff]Duhwolf's Monster Museum,
+DW_TheAfterLife,,,,,[e6b3ff]Club Afterlife,
+DW_antTable,,,,,Table,
+DW_antSofa,,,,,Couch,
+DW_ChairAnt,,,,,Chair,
+DW_antVanity,,,,,Vanity,
+egt1backpack,,,,," ""[1e9d16](T1 A)[-] Patient's Burden""",
+egt2backpack,,,,," ""[bc52e7](T2 A)[-] Orderly's Cache""",
+egt3backpack,,,,," ""[fb4f21](T3 A)[-] Warden's Vault""",
+egt1nerd,,,,," ""[1e9d16](T1 A)[-] Fractured Mind""",
+egt2nerd,,,,," ""[bc52e7](T2 A)[-] Shattered Psyche""",
+egt3nerd,,,,," ""[fb4f21](T3 A)[-] Broken Genius""",
+egmodArmorPerception,,,,," ""[fb4f21](T3 A)[-] Third Eye Implant""",
+egmodArmorStrength,,,,," ""[fb4f21](T3 A)[-] Berserker's Rage""",
+egmodArmorFortitude,,,,," ""[fb4f21](T3 A)[-] Undying Will""",
+egmodArmorAgility,,,,," ""[fb4f21](T3 A)[-] Shadow Step""",
+egmodArmorIntellect,,,,," ""[fb4f21](T3 A)[-] Madman's Brilliance""",
+egt1lightweight,,,,," ""[1e9d16](T1 A)[-] Phantom Stride""",
+egt2lightweight,,,,," ""[bc52e7](T2 A)[-] Wraith's Grace""",
+egt3lightweight,,,,," ""[fb4f21](T3 A)[-] Specter's Flight""",
+egt1reward,,,,," ""[bc52e7](T2 A)[-] Twisted Bargain""",
+egt2reward,,,,," ""[fb4f21](T3 A)[-] Devil's Deal""",
+egt3reward,,,,," ""[ff0000](T4 A)[-] Infernal Compact""",
+egt1lumber,,,,," ""[1e9d16](T1 A)[-] Grave Digger""",
+egt2lumber,,,,," ""[bc52e7](T2 A)[-] Corpse Harvester""",
+egt3lumber,,,,," ""[fb4f21](T3 A)[-] Soul Reaper""",
+egt1resist,,,,," ""[1e9d16](T1 A)[-] Padded Cell Lining""",
+egt2resist,,,,," ""[bc52e7](T2 A)[-] Straitjacket Weave""",
+egt3resist,,,,," ""[fb4f21](T3 A)[-] Warden's Plate""",
+egt1zombiedamage,,,,," ""[1e9d16](T1 A)[-] Exorcist's Touch""",
+egt2zombiedamage,,,,," ""[bc52e7](T2 A)[-] Zealot's Wrath""",
+egt3zombiedamage,,,,," ""[fb4f21](T3 A)[-] Inquisitor's Fury""",
+egt1looter,,,,," ""[1e9d16](T1 A)[-] Pickpocket's Twitch""",
+egt2looter,,,,," ""[bc52e7](T2 A)[-] Kleptomaniac's Reflex""",
+egt3looter,,,,," ""[fb4f21](T3 A)[-] Master Thief's Instinct""",
+egt1hp,,,,," ""[1e9d16](T1 A)[-] Twisted Vitality""",
+egt2hp,,,,," ""[bc52e7](T2 A)[-] Unholy Constitution""",
+egt3hp,,,,," ""[fb4f21](T3 A)[-] Abomination's Vigor""",
+egt1stamina,,,,," ""[1e9d16](T1 A)[-] Manic Energy""",
+egt2stamina,,,,," ""[bc52e7](T2 A)[-] Psychotic Drive""",
+egt3stamina,,,,," ""[fb4f21](T3 A)[-] Asylum Endurance""",
+egt1harvest,,,,," ""[1e9d16](T1 A)[-] Withered Touch""",
+egt2harvest,,,,," ""[bc52e7](T2 A)[-] Blighted Harvest""",
+egt3harvest,,,,," ""[fb4f21](T3 A)[-] Plague Farmer""",
+egt1damage,,,,," ""[1e9d16](T1 A)[-] Malice Injection""",
+egt2damage,,,,," ""[bc52e7](T2 A)[-] Hatred Amplifier""",
+egt3damage,,,,," ""[fb4f21](T3 A)[-] Wrath Conduit""",
+egt1atkspeed,,,,," ""[1e9d16](T1 A)[-] Tremor Inducer""",
+egt2atkspeed,,,,," ""[bc52e7](T2 A)[-] Frenzy Catalyst""",
+egt3atkspeed,,,,," ""[fb4f21](T3 A)[-] Hysteria Engine""",
+egt1usage,,,,," ""[1e9d16](T1 A)[-] Hollow Stomach""",
+egt2usage,,,,," ""[bc52e7](T2 A)[-] Fasting Spirit""",
+egt3usage,,,,," ""[fb4f21](T3 A)[-] Starvation Immunity""",
+egt1xp,,,,," ""[1e9d16](T1 A)[-] Tortured Wisdom""",
+egt2xp,,,,," ""[bc52e7](T2 A)[-] Nightmare Lessons""",
+egt3xp,,,,," ""[fb4f21](T3 A)[-] Asylum Enlightenment""",
+egt1backpackdesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] A repurposed asylum storage bag. Increase your Inventory Slots by 16. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable.""",
+egt2backpackdesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Stolen from the orderly's quarters. Increase your Inventory Slots by 20. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable.""",
+egt3backpackdesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] The Warden's personal secure container. Increase your Inventory Slots by 32. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable.""",
+egt1nerddesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Your fractured mind absorbs knowledge erratically. 10% Chance to get double Magazine Points. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable and not working with the Intellect Mastery/Nerd Outfit.""",
+egt2nerddesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Your shattered psyche processes information in twisted ways. 15% Chance to get double Magazine Points. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable and not working with the Intellect Mastery/Nerd Outfit.""",
+egt3nerddesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Complete mental breakdown grants perfect clarity. 20% Chance to get double Magazine Points. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable and not working with the Intellect Mastery/Nerd Outfit.""",
+egmodArmorPerceptiondesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] An experimental implant that opens your third eye. +2 Perception. \n \n \n[ff0000]Warning[-]: HEAD ONLY - Not stackable.""",
+egmodArmorStrengthdesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Channel the rage of the asylum's most violent patients. +2 Strength. \n \n \n[ff0000]Warning[-]: HEAD ONLY - Not stackable.""",
+egmodArmorFortitudedesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Survive what would kill others through sheer willpower. +2 Fortitude. \n \n \n[ff0000]Warning[-]: HEAD ONLY - Not stackable.""",
+egmodArmorAgilitydesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Move through shadows like the escaped patients of legend. +2 Agility. \n \n \n[ff0000]Warning[-]: HEAD ONLY - Not stackable.""",
+egmodArmorIntellectdesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] The line between genius and madness is razor thin. +2 Intellect. \n \n \n[ff0000]Warning[-]: HEAD ONLY - Not stackable.""",
+egt1lightweightdesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Ghostly modifications let you move like a phantom. Increase Movementspeed by 5%. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable.""",
+egt2lightweightdesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Wraith-touched enhancements for silent pursuit. Increase Movementspeed by 10%. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable.""",
+egt3lightweightdesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Become as swift as a specter fleeing the asylum. Increase Movementspeed by 15%. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable.""",
+egt1rewarddesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Strike a twisted bargain for better rewards. Grants +1 additional Quest-Reward Choice. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable.""",
+egt2rewarddesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] A deal with darker forces. Grants +1 additional Quest-Reward Choice. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable.""",
+egt3rewarddesc,,,,," ""[ff0000](Tier 4 - Legendary)[-] Sign the infernal compact and claim your unholy rewards. Grants +2 additional Quest-Reward Choices. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable.""",
+egt1lumberdesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Grave digger's techniques for efficient gathering. Increase Harvestcount by 10%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable.""",
+egt2lumberdesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Harvest the dead with practiced efficiency. Increase Harvestcount by 20%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable.""",
+egt3lumberdesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Reap souls and resources with supernatural efficiency. Increase Harvestcount by 30%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable.""",
+egt1resistdesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Padding salvaged from padded cells. Increase damage resist against Zombies by 3%. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable.""",
+egt2resistdesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Woven from restraint materials that held the violent. Increase damage resist against Zombies by 6%. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable.""",
+egt3resistdesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] The Warden's personal protection against the inmates. Increase damage resist against Zombies by 10%. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable.""",
+egt1zombiedamagedesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Blessed by former asylum chaplains. Increase damage against Zombies by 5%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable.""",
+egt2zombiedamagedesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Zealous fury against the undead. Increase damage against Zombies by 10%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable.""",
+egt3zombiedamagedesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Inquisitorial wrath made manifest. Increase damage against Zombies by 15%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable.""",
+egt1looterdesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Twitchy fingers from years of stealing. Increase Loot-Speed by 10%. \n \n \n[ff0000]Warning[-]: HEAD ONLY - Not stackable.""",
+egt2looterdesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Compulsive looting becomes an advantage. Increase Loot-Speed by 20%. \n \n \n[ff0000]Warning[-]: HEAD ONLY - Not stackable.""",
+egt3looterdesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Master thief instincts honed in the asylum. Increase Loot-Speed by 30%. \n \n \n[ff0000]Warning[-]: HEAD ONLY - Not stackable.""",
+egt1hpdesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Twisted experimental treatments increase vitality. Increase max HP by 5 Points. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable.""",
+egt2hpdesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Unholy constitution from dark experiments. Increase max HP by 10 Points. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable.""",
+egt3hpdesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Abominable vigor coursing through your veins. Increase max HP by 20 Points. \n \n \n[ff0000]Warning[-]: CHEST ONLY - Not stackable.""",
+egt1staminadesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Manic energy pulses through you. Increase max Stamina by 10 Points. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable.""",
+egt2staminadesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Psychotic determination keeps you moving. Increase max Stamina by 20 Points. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable.""",
+egt3staminadesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] The asylum's experimental treatments grant tireless endurance. Increase max Stamina by 30 Points. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable.""",
+egt1harvestdesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Your withered touch coaxes more from the earth. Grant 1 additional Crop. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable.""",
+egt2harvestdesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Blighted hands yield bountiful harvests. Grant 2 additional Crops. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable.""",
+egt3harvestdesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Plague farmer techniques from the asylum gardens. Grant 3 additional Crops. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable.""",
+egt1damagedesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Pure malice injected into your attacks. Increase Entity Damage by 5%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable.""",
+egt2damagedesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Amplified hatred fuels your strikes. Increase Entity Damage by 10%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable.""",
+egt3damagedesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Channel pure wrath through every blow. Increase Entity Damage by 15%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable.""",
+egt1atkspeeddesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Tremors become a weapon. Increase Attackspeed with all Weapons and Tools by 5%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable.""",
+egt2atkspeeddesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Frenzy takes hold of your limbs. Increase Attackspeed with all Weapons and Tools by 10%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable.""",
+egt3atkspeeddesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Hysterical speed that defies sanity. Increase Attackspeed with all Weapons and Tools by 15%. \n \n \n[ff0000]Warning[-]: HANDS ONLY - Not stackable.""",
+egt1usagedesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] A hollow stomach needs less sustenance. Reduce Food and Water Consume by 10%. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable.""",
+egt2usagedesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Fasting spirit learned from starved patients. Reduce Food and Water Consume by 20%. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable.""",
+egt3usagedesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Near immunity to starvation through asylum conditioning. Reduce Food and Water Consume by 30%. \n \n \n[ff0000]Warning[-]: FEET ONLY - Not stackable.""",
+egt1xpdesc,,,,," ""[1e9d16](Tier 1 - Basic)[-] Wisdom gained through torture and suffering. Gain 5% more Experience from all sources. \n \n \n[ff0000]Warning[-]: HEAD ONLY - Not stackable.""",
+egt2xpdesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Nightmarish lessons burned into your mind. Gain 10% more Experience from all sources. \n \n \n[ff0000]Warning[-]: HEAD ONLY - Not stackable.""",
+egt3xpdesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Complete asylum enlightenment through pain. Gain 15% more Experience from all sources. \n \n \n[ff0000]Warning[-]: HEAD ONLY - Not stackable.""",
+egtmodifier,,,,," ""Asylum Enhancement""",
+craftingvmodsCraftingName,,,,," ""Asylum Enhancement""",
+egtskillmagazine,,,,," ""Asylum Enhancement Schematic""",
+egtmagazinedesc,,,,," ""Recovered from the asylum's secret research wing. Contains twisted modification techniques developed through dark experimentation. \n \nImproves Asylum Enhancement crafting skill.""",
+egt2arrowreload,,,,," ""[bc52e7](T2 W)[-] Twitching Nock""",
+egt3arrowreload,,,,," ""[fb4f21](T3 W)[-] Hysteric Loader""",
+egt2ArrowRDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Manic twitching accelerates arrow loading. Gain 40% more Reloadspeed for Crossbow and Bow.""",
+egt3ArrowRDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Hysterical speed for near-instant reloading. Gain 80% more Reloadspeed for Crossbow and Bow.""",
+egt2blessedmetal,,,,," ""[bc52e7](T2 W)[-] Exorcist's Edge""",
+egt3blessedmetal,,,,," ""[fb4f21](T3 W)[-] Inquisitor's Bane""",
+egt2BlessDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Blessed by asylum chaplains for fighting evil. Increase damage by 10% and against bosses by 15%.""",
+egt3BlessDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Holy wrath incarnate against abominations. Increase damage by 15% and against bosses by 25%.""",
+egt2grip,,,,," ""[bc52e7](T2 W)[-] Madman's Clutch""",
+egt3grip,,,,," ""[fb4f21](T3 W)[-] Psycho's Death Grip""",
+egt2ForegripDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Obsessive grip modifications for superior control. Much better weapon handling than standard grip.""",
+egt3ForegripDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] White-knuckle grip of the truly deranged. Even better weapon handling than T2 grip.""",
+egt2stock,,,,," ""[bc52e7](T2 W)[-] Nervous Brace""",
+egt3stock,,,,," ""[fb4f21](T3 W)[-] Paranoid's Stabilizer""",
+egt2RetractingDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Twitchy modifications for quick shooting. Better hip accuracy than standard stock.""",
+egt3RetractingDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Paranoid precision for snap shots. Even better hip accuracy than T2 stock.""",
+egt2bipod,,,,," ""[bc52e7](T2 W)[-] Patient's Rest""",
+egt3bipod,,,,," ""[fb4f21](T3 W)[-] Catatonic Stance""",
+egt2BipodDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Deadly stillness learned in isolation. Grants higher accuracy than standard bipod.""",
+egt3BipodDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Catatonic stability for perfect shots. Grants higher accuracy than T2 bipod.""",
+egt2muzzlebrake,,,,," ""[bc52e7](T2 W)[-] Screamer's Silencer""",
+egt3muzzlebrake,,,,," ""[fb4f21](T3 W)[-] Warden's Dampener""",
+egt2MuzzleDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Redirects force like muffled screams. Better recoil control than standard Muzzle Brake.""",
+egt3MuzzleDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Warden-grade recoil suppression. Better recoil control than T2 Muzzle Brake.""",
+egt2barrelex,,,,," ""[bc52e7](T2 W)[-] Long Arm of Madness""",
+egt3barrelex,,,,," ""[fb4f21](T3 W)[-] Executioner's Reach""",
+egt2BarrelExtenderDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Extended reach for distant judgment. Grants +20% Damage and +80% Range.""",
+egt3BarrelExtenderDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] The executioner's extended barrel for distant death. Grants +40% Damage and +110% Range.""",
+egt2silencer,,,,," ""[bc52e7](T2 W)[-] Whispered Death""",
+egt3silencer,,,,," ""[fb4f21](T3 W)[-] Silent Asylum""",
+egt2SilencerDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Kill quietly like the night orderlies. Silencer which gives +10% Damage instead of reducing it.""",
+egt3SilencerDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] The asylum's most secret silencing technology. Silencer which gives +20% Damage instead of reducing it.""",
+egt2crippleem,,,,," ""[bc52e7](T2 W)[-] Tendon Shredder""",
+egt3crippleem,,,,," ""[fb4f21](T3 W)[-] Hobbler's Curse""",
+egt2CrippleDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Crippling shots learned from asylum enforcers. 20% Chance on hit to slow the target.""",
+egt3CrippleDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] A curse that hobbles the undead. 50% Chance on hit to slow the target.""",
+egt2triggerauto,,,,," ""[bc52e7](T2 W)[-] Nervous Twitch""",
+egt3triggerauto,,,,," ""[fb4f21](T3 W)[-] Manic Episode""",
+egt2TriggerDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Nervous twitching becomes rapid fire. Set firegroup to automatic and increase fire rate by 30%.""",
+egt3TriggerDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Full manic episode for maximum fire rate. Set firegroup to automatic and increase fire rate by 60%.""",
+egt2brace,,,,," ""[bc52e7](T2 W)[-] Restraint Reinforcement""",
+egt3brace,,,,," ""[fb4f21](T3 W)[-] Unbreakable Binding""",
+egt2StructuralBraceDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Reinforced with asylum restraint materials. Reduce Durability Usage by 30%.""",
+egt3StructuralBraceDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Bound with materials that held the violent. Reduce Durability Usage by 60%.""",
+egt2ergonomicgrip,,,,," ""[bc52e7](T2 W)[-] Deadman's Hold""",
+egt3ergonomicgrip,,,,," ""[fb4f21](T3 W)[-] Rigor Mortis Grip""",
+egt2ErgonomicGripDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Grip like a corpse that won't let go. Reduce Stamina Consume by 15% and improve Archery Accuracy by 15%.""",
+egt3ErgonomicGripDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Death's own grip on your weapon. Reduce Stamina Consume by 30% and improve Archery Accuracy by 30%.""",
+egt2fortgrip,,,,," ""[bc52e7](T2 W)[-] Survival Instinct""",
+egt3fortgrip,,,,," ""[fb4f21](T3 W)[-] Undying Grasp""",
+egt2FortGripDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Desperation triggers healing. Grants better HP Regen when below 50% HP.""",
+egt3FortGripDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Refuse to die like the asylum's failed experiments. Grants even better HP Regen when below 50% HP.""",
+egt2oil,,,,," ""[bc52e7](T2 W)[-] Pyromaniac's Coating""",
+egt3oil,,,,," ""[fb4f21](T3 W)[-] Hellfire Extract""",
+egt2FOilDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Fire-starting obsession made useful. 30% Chance to set the target on fire.""",
+egt3FOilDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Extracted from the depths of the asylum crematorium. 60% Chance to set the target on fire.""",
+egt2battery,,,,," ""[bc52e7](T2 W)[-] Shock Therapy Cell""",
+egt3battery,,,,," ""[fb4f21](T3 W)[-] Electroshock Core""",
+egt2ShockDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Repurposed electroshock therapy equipment. 30% Chance to shock the target.""",
+egt3ShockDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] The asylum's most powerful electroshock core. 60% Chance to shock the target.""",
+egt2rods,,,,," ""[bc52e7](T2 W)[-] Twitching Mechanism""",
+egt3rods,,,,," ""[fb4f21](T3 W)[-] Seizure Springs""",
+egt2RodSpringDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Twitching mechanisms for faster cycling. Increase Firerate by 15% and Armor Penetration by 10%.""",
+egt3RodSpringDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Springs wound tight as a seizure. Increase Firerate by 20% and Armor Penetration by 15%.""",
+egt2shred,,,,," ""[bc52e7](T2 W)[-] Flayed Flesh Rounds""",
+egt3shred,,,,," ""[fb4f21](T3 W)[-] Bone Splitter""",
+egt2ArmorShreddDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Rounds designed to tear through protection. On hit",
+egt3ArmorShreddDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Splits bone and armor alike. On hit",
+egt2heat,,,,," ""[bc52e7](T2 W)[-] Fever Pitch""",
+egt3heat,,,,," ""[fb4f21](T3 W)[-] Burning Obsession""",
+egt2FTHDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Rising fever intensifies your attacks. +10% Armor Penetration. After 3 Hits in a short time",
+egt3FTHDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Burning obsession reaches critical heat. +15% Armor Penetration. After 3 Hits in a short time",
+egt2slayup,,,,," ""[bc52e7](T2 W)[-] Killing Frenzy""",
+egt3slayup,,,,," ""[fb4f21](T3 W)[-] Murder Spree""",
+egt2SlayUpDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Violence begets more violence. 5% Chance on melee attack to gain a 60% Attackspeed Buff.""",
+egt3SlayUpDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Unstoppable murder spree begins. 10% Chance on melee attack to gain a 60% Attackspeed Buff.""",
+egt2brasscatcher,,,,," ""[bc52e7](T2 W)[-] Hoarder's Net""",
+egt3brasscatcher,,,,," ""[fb4f21](T3 W)[-] Scavenger's Obsession""",
+egt2CatcherCaseDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Compulsive hoarding catches spent brass. 30% Chance on Hit to recover a Brass Casing.""",
+egt3CatcherCaseDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Obsessive collection of every casing. 60% Chance on Hit to recover a Brass Casing.""",
+egt2bullettipcatcher,,,,," ""[bc52e7](T2 W)[-] Lead Reclaimer""",
+egt3bullettipcatcher,,,,," ""[fb4f21](T3 W)[-] Bullet Harvester""",
+egt2CatcherBulletDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Reclaim the lead from your kills. 30% Chance on Hit to recover a Bullet Tip.""",
+egt3CatcherBulletDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Harvest bullets from the carnage. 60% Chance on Hit to recover a Bullet Tip.""",
+egt2fuelcatcher,,,,," ""[bc52e7](T2 W)[-] Fuel Miser""",
+egt3fuelcatcher,,,,," ""[fb4f21](T3 W)[-] Conservation Mania""",
+egt2CatcherFuelDesc,,,,," ""[bc52e7](Tier 2 - Improved)[-] Miserly fuel conservation from asylum generators. 30% Chance on Use to recover a Gas Can.""",
+egt3CatcherFuelDesc,,,,," ""[fb4f21](Tier 3 - Advanced)[-] Maniacal fuel obsession. 60% Chance on Use to recover a Gas Can.""",
+qt_asylum_infernal,items,Item,,,Infernal Treasure Map,
+qt_asylum_infernal_desc,items,Item,,,A mysterious map recovered from a slain demon. It points to a cache of infernal treasures buried somewhere in the wasteland. The demons guard their hoards jealously.,
+V_ML_Name1,,,,, Handgun Mastery,
+V_ML_Name2,,,,, Machinegun Mastery,
+V_ML_Name3,,,,, Shotgun Mastery,
+V_ML_Name4,,,,, Rifle Mastery,
+V_ML_Name5,,,,, Sledgehammer Mastery,
+V_ML_Name6,,,,, Club Weapon Mastery,
+V_ML_Name7,,,,, Fist Weapon Mastery,
+V_ML_Name8,,,,, Blade Weapon Mastery,
+V_ML_Name9,,,,, Spear Weapon Mastery,
+V_ML_Name10,,,,, Repair-Tool Mastery,
+V_ML_Name11,,,,, Salvage-Tool Mastery,
+V_ML_Name12,,,,, Robotic Mastery,
+V_ML_Name13,,,,, Bow/Crossbow Mastery,
+V_ML_Name14,,,,, Pickaxe/Auger Mastery,
+V_ML_Name15,,,,, Axe/Chainsaw Mastery,
+V_ML_Name16,,,,, Shovel Mastery,
+ttkey_vam,,,,," ""Action Mastery""",
+Vam_SI_EffectTitle_Tooltip,,,,," ""Current Equipment Effect""",
+Vam_SI_SkillListTitle_Tooltip,,,,," ""Mastery List""",
+Vam_SI_EffectTitle,,,,," ""Current Equipment Effect""",
+Vam_SI_SkillListTitle,,,,," ""Mastery List""",
+V_Info_EntityDamage,,,,," ""Bonus Damage""",
+V_Info_BlockDamage_Tools,,,,," ""Block Damage (Tools)""",
+V_Info_BlockDamage_Melee,,,,," ""Block Damage (Melee)""",
+V_Info_BlockDamage_Ranged,,,,," ""Block Damage (Ranged)""",
+V_Info_AttackSpeed,,,,," ""Bonus Attackspeed""",
+V_Info_MagazineSize,,,,," ""Bonus Magazinesize""",
+V_Info_DegradationPerUse,,,,," ""Bonus Degradation Usage""",
+V_Info_BlockDamage_Tools_Tooltip,,,,," ""Block damage bonus for tools: Pickaxes",
+V_Info_BlockDamage_Melee_Tooltip,,,,," ""Block damage bonus for melee weapons: Clubs",
+V_Info_BlockDamage_Ranged_Tooltip,,,,," ""Block damage bonus for ranged weapons: Guns",
+name_of_poi_creator,POI,POI,,x,Radio Comms[TFP],
+xcpnpc_Bandit_Camp_01_Stallionsden,POI,POI,,x,Look Out[Stallionsden],
+xcpnpc_Bandit_Camp_02_Stallionsden,POI,POI,,x,nameingame[creator],
+xcpnpc_Bandit_Camp_03_Stallionsden,POI,POI,,x,Camped[Stallionsden],
+xcpnpc_Bandit_Camp_04_Stallionsden,POI,POI,,x,Market Place[Stallionsden],
+xcpnpc_Bandit_Camp_Stallionsden,POI,POI,,x,Band Camp[Stallionsden],
+xcpnpc_Bandits_Bunny_Ranch_Stallionsden,POI,POIName,,x,The Bunny Ranch[Stallionsden],
+xcpnpc_Bandits_Gas_Station_Stallionsden,POI,POIName,,x,Ripoffs Gas Station[Stallionsden],
+xcpnpc_Bandits_House_Stallionsden,POI,POIName,,x,Bandits Residents[Stallionsden],
+xcpnpc_Bandits_Road_House_Mana_Gobarg,POI,POIName,,x,Road House[Mana/Gobarg],
+xcpnpc_Bandits_Shanty_Town_EvilRacc0on,POI,POI,,x,Bandit Shanty Town[EvilRacc0on],
+xcpnpc_Hall_Of_Fame_Stallionsden,POI,POI,,x,Hall Of Fame[Stallionsden],
+xcpnpc_Marsh_10_Stallionsden,POI,POI,,x,Lost[Stallionsden],
+xcpnpc_Marsh_1_Stallionsden,POI,POI,,x,The Marsh[Stallionsden],
+xcpnpc_Marsh_2_Stallionsden,POI,POI,,x,The Bog[Stallionsden],
+xcpnpc_Marsh_3_Stallionsden,POI,POI,,x,The Swamp Thing[Stallionsden],
+xcpnpc_Marsh_4_Stallionsden,POI,POI,,x,Smokey Horizons[Stallionsden],
+xcpnpc_Marsh_5_Stallionsden,POI,POI,,x,The Bogs of Time[Stallionsden],
+xcpnpc_Marsh_6_Stallionsden,POI,POI,,x,Lockness Swamp[Stallionsden],
+xcpnpc_Marsh_7_Stallionsden,POI,POI,,x,Marshland[Stallionsden],
+xcpnpc_Marsh_8_Stallionsden,POI,POI,,x,The Darkness[Stallionsden],
+xcpnpc_Marsh_9_Stallionsden,POI,POI,,x,The Mist[Stallionsden],
+xcpnpc_Survivor_Site_02_TFP,POI,POI,,x,Just Survive Somehow[TFP],
+xcpnpc_Survivor_Site_03_TFP,POI,POI,,x,Encampment[TFP],
+xcpnpc_Survivor_Site_04_TFP,POI,POI,,x,Survived[TFP],
+xcpnpc_Survivor_Site_05_TFP,POI,POI,,x,The Site[TFP],
+xcpnpc_Survivor_Site_06_TFP,POI,POI,,x,Fallen Kingdom[TFP],
+xcpnpc_Survivor_Site_07_TFP,POI,POI,,x,Holed Up[TFP],
+rwg_tile_gateway_intersection_zzxcpv_pines,POI,POIName,,x,Wayward Pines District,
+rwg_tile_oldwest_t_xcpv_fort,POI,POIName,,x,Oldwest Fort Settlement,
+rwg_tile_oldwest_t_xcpv_proudmary,POI,POIName,,x,Oldwest Proud Mary Settlement,舊西部驕傲瑪麗定居
+rwg_tile_residential_cap_zzxcpv_01,POI,POIName,,x,Residential District,住宅區
+rwg_tile_residential_corner_zzxcpv_01,POI,POIName,,x,Residential District,住宅區
+rwg_tile_residential_intersection_zzxcpv_01,POI,POIName,,x,Residential District,住宅區
+rwg_tile_residential_straight_zzxcpv_01,POI,POIName,,x,Residential District,住宅區
+rwg_tile_residential_straight_zzxcpv_02,POI,POIName,,x,Residential District,住宅區
+rwg_tile_residential_t_zzxcpv_01,POI,POIName,,x,Residential District,住宅區
+rwg_tile_residential_t_zzxcpv_02,POI,POIName,,x,Residential District,住宅區
+rwg_tile_rural_cap_zzxcpv_01,POI,POIName,,x,Rural District,農村地區
+rwg_tile_rural_cap_zzxcpv_02,POI,POIName,,x,Rural District,農村地區
+rwg_tile_rural_cap_zzxcpv_03,POI,POIName,,x,Rural District,農村地區
+rwg_tile_rural_corner_zzxcpv_01,POI,POIName,,x,Rural District,農村地區
+rwg_tile_rural_corner_zzxcpv_02,POI,POIName,,x,Rural District,農村地區
+rwg_tile_rural_corner_zzxcpv_03,POI,POIName,,x,Rural District,農村地區
+rwg_tile_rural_corner_zzxcpv_04,POI,POIName,,x,Rural District,農村地區
+rwg_tile_rural_corner_zzxcpv_05,POI,POIName,,x,Rural District,農村地區
+rwg_tile_rural_corner_zzxcpv_06,POI,POIName,,x,Rural District,農村地區
+rwg_tile_rural_corner_zzxcpv_07,POI,POIName,,x,Rural District,農村地區
+rwg_tile_rural_intersection_izea,POI,POIName,,x,Rural District,農村地區
+rwg_tile_rural_intersection_xcpv_100,POI,POIName,,x,Rural District,農村地區
+rwg_tile_rural_intersection_zzxcpv_01,POI,POIName,,x,Rural District,農村地區
+rwg_tile_rural_straight_zzxcpv_01,POI,POIName,,x,Rural District,農村地區
+rwg_tile_rural_t_zzxcpv_01,POI,POIName,,x,Rural District,農村地區
+rwg_tile_rural_t_zzxcpv_02,POI,POIName,,x,Rural District,農村地區
+rwg_tile_rural_t_zzxcpv_03,POI,POIName,,x,Rural District,農村地區
+rwg_tile_rural_t_zzxcpv_04,POI,POIName,,x,Rural District,農村地區
+rwg_tile_rural_t_zzxcpv_05,POI,POIName,,x,Rural District,農村地區
+rwg_tile_rural_t_zzxcpv_06,POI,POIName,,x,Rural District,農村地區
+xcpv_3_Block_Stores_Leo_Liuos,POI,POI,,x,Leo's Stores[Leo Liuos],Leo's 商店[Leo Liuos]
+xcpv_7DTF_TheStainGaming,POI,POI,,x,Fries[TheStainGaming],薯條[TheStainGaming]
+xcpv_7_End_Store_Jackelmyer,POI,POI,,x,7 Eleven[Jackelmyer],
+xcpv_7dtd_Tribute_OctoberFire,POI,POI,,x,Tribute[OctoberFire],
+xcpv_AFP_Stallionsden,POI,POI,,x,Gaol[Stallionsden],
+xcpv_Abandoned_House_Deverezieaux,POI,POI,,x,Devs Residence[Deverezieaux],
+xcpv_Abandoned_Shelter_Viper_Seven,POI,POI,,x,Mexico City[Viper_Seven],
+xcpv_Adam_House_DMC,POI,POI,,x,Adams family home[DMC],
+xcpv_Adot_01_ZZTong,POI,POI,,x,Transport Department[ZZTong],
+xcpv_Airstrip_AndyRed,POI,POI,,x,Drug Runner[AndyRed],
+xcpv_Airstrip_Telric,POI,POI,,x,Regional Airport[Telric],
+xcpv_Aj_LazyFarm_LazyTurtle89,POI,POI,,x,Lazy's Farm[LazyTurtle89],
+xcpv_Al_Lien_School_Lunitar,POI,POI,,x,Roswell[Lunitar],
+xcpv_Alamo_Level50Unlocked,POI,POI,,x,Alamo[Level50Unlocked],
+xcpv_Alamo_Restaurant_Voltralux,POI,POI,,x,Alamo[Voltralux],
+xcpv_Alamo_Sarongas1999_Crazy1,POI,POI,,x,Small fort[Sarongas1999 Crazy1],
+xcpv_Amazonia_WareHouse_InfectedGaming,POI,POI,,x,Amazonia[InfectedGaming],
+xcpv_Ambulance_Depot_01_Weazelsun,POI,POI,,x,Ambulance Depot[Weazelsun],救護車站[Weazelsun]
+xcpv_Ambulance_Station_Zeebark,POI,POI,,x,Ambulance Station[Zeebark],救護站[Zeebark]
+xcpv_Ancient_Apache_Ground_Nauti_Angel,POI,POI,,x,Apache[Nauti Angel],阿帕奇[諾蒂天使]
+xcpv_Ancient_Tomb_Bigstep70,POI,POI,,x,Tomb Raider[Bigstep70],古墓奇兵[Bigstep70]
+xcpv_Angel_Home_Cerberus,POI,POI,,x,Cerb Residence[Cerberus],Cerb 住宅[Cerberus]
+xcpv_Antenna_BattlePapi,POI,POI,,x,Antenna[BattlePapi],天線[BattlePapi]
+xcpv_Apartment_01_ZZTong,POI,POI,,x,Cityscapes Residence[ZZTong],古墓奇兵[Bigstep70]
+xcpv_Apartment_02_ZZTong,POI,POI,,x,Skyline towers[ZZTong],Cerb 住宅[Cerberus]
+xcpv_Apartment_03_Stallionsden,POI,POI,,x,Rooms[Stallionsden],天線[BattlePapi]
+xcpv_Apartment_03_ZZTong,POI,POI,,x,Center Park[ZZTong],城市景觀住宅[ZZTong]
+xcpv_Apartment_Building_Gouki,POI,POI,,x,Metro Plaza[Gouki],天際塔[ZTong] |
+xcpv_Apartment_Gertle,POI,POI,,x,Downtown Lofts[Gertle],市中心閣樓[Gertle]
+xcpv_Apartment_Notti,POI,POI,,x,City View[Notti],城市景觀[Notti]
+xcpv_Apartment_Spider,POI,POI,,x,Apartment No4[Spider],4號公寓[蜘蛛]
+xcpv_Apartment_Store_Zyncosa,POI,POI,,x,Fashion Square[Zyncosa],時尚廣場[Zyncosa]
+xcpv_Apartment_Stores_Laz_Man,POI,POI,,x,Style Haven[Laz Man],
+xcpv_Apartments_4_Dest_Zyncosa,POI,POI,,x,Sardines can[Zyncosa],
+xcpv_Apartments_4_Zyncosa,POI,POI,,x,Sad tenamant[Zyncosa],
+xcpv_Apartments_Alice,POI,POI,,x,Alice Rise[Alice],
+xcpv_Apartments_Batman,POI,POI,,x,Reasonable rent[Batman],
+xcpv_Apartments_JSDoctor,POI,POI,,x,Roomy shoebox[JSDoctor],
+xcpv_Apartments_TopMinder,POI,POI,,x,Steel City[TopMinder],
+xcpv_Apartments_Zyncosa,POI,POI,,x,Urban suites[Zyncosa],
+xcpv_Apaxco_Gouki,POI,POI,,x,Stuffit inn[Gouki],
+xcpv_Apollon_Bunker_AndyRed,POI,POI,,x,10 Cloverfield lane[AndyRed],
+xcpv_Appletree_Apartments_Pip,POI,POI,,x,Appletree Apartments[Pip],
+xcpv_Appliance_Store_Deverezieaux,POI,POI,,x,Cheapos Appliance Store[Deverezieaux],
+xcpv_Aquatic_Centre_Dest_Zyncosa,POI,POI,,x,Flip n Drown[Zyncosa],
+xcpv_Aquatic_Centre_Zyncosa,POI,POI,,x,Dolphin court[Zyncosa],
+xcpv_Area_53_Wendictive,POI,POI,,x,Aliens[Wendictive],
+xcpv_Army_1_Zyncosa,POI,POI,,x,Military Bunker 1[Zyncosa],
+xcpv_Army_2_Zyncosa,POI,POI,,x,Military Bunker 2[Zyncosa],
+xcpv_Army_3_Zyncosa,POI,POI,,x,Military Bunker 3[Zyncosa],
+xcpv_Army_4_Zyncosa,POI,POI,,x,Military Bunker 4[Zyncosa],
+xcpv_Army_Bunker_Laz_Man,POI,POI,,x,Fort Laz[Laz Man],
+xcpv_Army_Bunker_TwistedViking,POI,POI,,x,Army Bunker[TwistedViking],
+xcpv_Army_Camp_Universal,POI,POI,,x,Army Camp[Universal],
+xcpv_Army_Camp_Vegoram,POI,POI,,x,Camp Veg[Vegoram],
+xcpv_Army_D_1_Zyncosa,POI,POI,,x,Breached Bunker 1[Zyncosa],
+xcpv_Army_D_2_Zyncosa,POI,POI,,x,Breached Bunker 2[Zyncosa],
+xcpv_Army_D_3_Zyncosa,POI,POI,,x,Breached Bunker 3[Zyncosa],
+xcpv_Army_Point_Kopfgeldjaeger,POI,POI,,x,Hostilities[Kopfgeldjaeger],
+xcpv_Army_Site_Mute,POI,POI,,x,Army Site[Mute],
+xcpv_Art_Compound_DMC,POI,POI,,x,Art Lovers[DMC],
+xcpv_Art_Gallery_Wsiegel,POI,POI,,x,Lovin' Art[Wsiegel],
+xcpv_Assgard_Hardware_Battlepapi,POI,POI,,x,Assgard[Battlepapi],阿斯加德[Battlepapi]
+xcpv_Asylum_Nagg,POI,POI,,x,Cuckoos nest[Nagg],杜鹃巢[纳格]
+xcpv_Asylum_Wsiegel,POI,POI,,x,voices in your head[Wsiegel],你脑海中的声音[Wsiegel]
+xcpv_BOS_Factory_KillerBee,POI,POI,,x,Make a da bosses here[KillerBee],在这里做个大老板[KillerBee]
+xcpv_Bad_Wolf_Plaza_TehKarmah,POI,POI,,x,Trend Central[TehKarmah],趋势中心[TehKarmah]
+xcpv_Badonkadonk_CaptainandMental,POI,POI,,x,Lithium every day[CaptainandMental],每天锂[CaptainandMental]
+xcpv_Bakery_Shema,POI,POI,,x,Buy a pie[Shema],买个馅饼[Shema]
+xcpv_Balloon_Safari_01_ZZTong,POI,POI,,x,Monkey Nuts[ZZTong],猴坚果[ZZTong]
+xcpv_Bank_Guppycur,POI,POI,,x,Bank De Guppy[Guppycur],古比银行[Guppycur]
+xcpv_Bank_Limodor,POI,POI,,x,City Bank[Limodor],城市银行[Limodor]
+xcpv_Bar_Bistro_Zeebark,POI,POI,,x,Bar & Bistro[Zeebark],酒吧和小酒館[Zeebark]
+xcpv_Bar_Pool_01_ZZTong,POI,POI,,x,Pool Hall[ZZTong],撞球廳[ZZTong]
+xcpv_Bar_Tavern_AshRoc,POI,POI,,x,The Local[AshRoc],本地[AshRoc]
+xcpv_Bar_Vittles,POI,POIName,,x,The Squeaky Wheel[Vittles],吱吱作響的輪子[Vittles]
+xcpv_Barn_Baziez,POI,POI,,x,Armish Paradise[Baziez],阿米甚天堂[巴齊茲]
+xcpv_Barn_Oscerc,POI,POI,,x,Hay fail[Oscerc],
+xcpv_Bartertown_Bobx_ZZTong,POI,POI,,x,Bob's Demise[ZZTong],
+xcpv_Bartertown_Hughx_ZZTong,POI,POI,,x,Hugh's Demise[ZZTong],
+xcpv_Bartertown_Jenx_ZZTong,POI,POI,,x,Jen's Demise[ZZTong],
+xcpv_Bartertown_Joelx_ZZTong,POI,POI,,x,Joel's Demise[ZZTong],
+xcpv_Bartertown_Rektx_ZZTong,POI,POI,,x,Rekt's Demise[ZZTong],
+xcpv_Baseball_Curmudgeon,POI,POI,,x,Not Rounders[Curmudgeon],
+xcpv_Basement_PVWolfgang,POI,POI,,x,It rubs the lotion[PVWolfgang],
+xcpv_Bat_Cave_Arramus,POI,POI,,x,The Bat Cave[Arramus],
+xcpv_Bear_Head_Grill_TheGamerMama,POI,POI,,x,Bear Grills[TheGamerMama],
+xcpv_Beauty_School_Deverezieaux,POI,POI,,x,Dropout[Deverezieaux],
+xcpv_Beetle_Katharsys,POI,POI,,x,Beetlejuice[Katharsys],
+xcpv_Big_Blue_Box_01_AndyRed,POI,POI,,x,Industrial Business Machines[AndyRed],
+xcpv_Big_Blue_Box_AndyRed,POI,POI,,x,Andy's Storage[AndyRed],
+xcpv_Bike_BB_Zeebark,POI,POI,,x,Zee's Bed & Breakfast[Zeebark],
+xcpv_Bike_Shop_War3zuk,POI,POI,,x,Little War3z Bike shop[War3zuk],
+xcpv_Billboard_OctoberFire,POI,POI,,x,Roadside Billboard[OctoberFire],
+xcpv_Bills_Theodryck,POI,POI,,x,Buck shop[Theodryck],
+xcpv_Biowaste_Dump_01_ZZTong,POI,POI,,x,Mexico City[ZZTong],
+xcpv_Bird_Sanctuary_Zeebark,POI,POI,,x,Vulture Sanctuary[Zeebark],
+xcpv_Blood_Falls_Cave_Stample,POI,POI,,x,Lovely View[Stample],
+xcpv_Blue_Fone_Cafe_Battlepapi,POI,POI,,x,Cafe Fone[Battlepapi],
+xcpv_Blue_House_TopMinder_Pille,POI,POI,,x,Not a cult[TopMinder[Pille]],
+xcpv_Blue_Mosque_Waner,POI,POI,,x,Mesa Azul[Waner],
+xcpv_Book_Case_Octoberfire,POI,POI,,x,Books To Read[Octoberfire],
+xcpv_Book_Stop_WillyBilly,POI,POI,,x,Books and looks[WillyBilly],
+xcpv_Book_Store_ActiniumTiger,POI,POI,,x,Books Galore[ActiniumTiger],
+xcpv_Book_Store_InfectedGaming,POI,POI,,x,Inks and thinks[InfectedGaming],
+xcpv_Bookstore_Kayido,POI,POI,,x,Bookworm City[Kayido],
+xcpv_Bowling_Sarongas1999_Crazy1,POI,POI,,x,Pins and sins[Sarongas1999 Crazy1],
+xcpv_Boxing_Gym_KamR,POI,POI,,x,Fists and trysts[KamR],
+xcpv_Boxing_Gym_Voltralux,POI,POI,,x,Mister's Boxing Gym[Voltralux],
+xcpv_Boys_Only_Hotel_LukeSwagDab,POI,POI,,x,Luke's Residence[LukeSwagDab],
+xcpv_Bridgeside_Apartments_Batman,POI,POI,,x,Courtly looks[Batman],
+xcpv_Brownstones_01_ZZTong,POI,POI,,x,Overpriced stones[ZZTong],
+xcpv_Brownstones_House_Laz_Man,POI,POI,,x,Not New York[Laz Man],
+xcpv_Bunker_2_InfectedGaming,POI,POI,,x,Shelter[InfectedGaming],
+xcpv_Bunker_InfectedGaming,POI,POI,,x,Haven[InfectedGaming],
+xcpv_Bunker_NLBlackEagle,POI,POI,,x,Defended[NLBlackEagle],
+xcpv_Bunker_Pille,POI,POI,,x,Fortified Fortress[Pille],
+xcpv_Bunker_Zyncosa,POI,POI,,x,Retreat[Zyncosa],
+xcpv_Bunny_Ranch_Stallionsden,POI,POI,,x,Bunnies[Stallionsden],
+xcpv_Burial_Shrine_Snake0567,POI,POI,,x,Eternal rest[Snake0567],
+xcpv_Buried_Treasure_02_ZZTong,POI,POI,,x,Magnetic Anomaly[ZZTong],
+xcpv_Burnt_Shell_EvilRacc0on,POI,POI,,x,Burnt offerings[EvilRacc0on],
+xcpv_Burrows_Nauti_Angel,POI,POI,,x,Weasely Residence[Nauti Angel],
+xcpv_Bus_Depot_WillyBilly,POI,POI,,x,Navezgane stop[WillyBilly],
+xcpv_Bus_Station_Dragoness,POI,POI,,x,Coach Stop[Dragoness],
+xcpv_Bus_Terminal_4_TheStainGaming,POI,POI,,x,last stop[TheStainGaming],
+xcpv_Business_01_Stallionsden,POI,POI,,x,The Alley[Stallionsden],
+xcpv_Business_Precinct_Stallionsden,POI,POI,,x,The Precinct[Stallionsden],
+xcpv_Business_Strip_Deverezieaux,POI,POI,,x,Global ventures[Deverezieaux],
+xcpv_Busty_Beers_Strip_Club_AndyRed,POI,POI,,x,Jens night job[AndyRed],
+xcpv_CDC_Mission_TheFootpad,POI,POI,,x,Germ lords[TheFootpad],
+xcpv_CQC_House_EvilRacc0on,POI,POI,,x,Frat House[EvilRacc0on],
+xcpv_CV_Store_Sarongas1999_Crazy1,POI,POI,,x,Job Center[Sarongas1999 Crazy1],
+xcpv_Cabin_01_Stallionsden,POI,POI,,x,Woodies Cabin[Stallionsden],
+xcpv_Cabin_01_ZZTong,POI,POI,,x,Tribute[ZZTong],
+xcpv_Cabin_02_Stallionsden,POI,POI,,x,Delanies Cabin[Stallionsden],
+xcpv_Cabin_02_ZZTong,POI,POI,,x,Tribute[ZZTong],
+xcpv_Cabin_03_Stallionsden,POI,POI,,x,Murphy's Cabin[Stallionsden],
+xcpv_Cabin_04_Stallionsden,POI,POI,,x,Clancy's Retreat[Stallionsden],
+xcpv_Cabin_Fort_01_ZZTong,POI,POI,,x,Cozy haven[ZZTong],
+xcpv_Cabin_Park_Notti_Pellegraapus,POI,POI,,x,Serene Getaway[Notti Pellegraapus],
+xcpv_Cabin_Sudo,POI,POI,,x,Country lodge[Sudo],
+xcpv_Cafe_LazyTurtle89,POI,POI,,x,Cafe De Lazy[LazyTurtle89],
+xcpv_Camera_Shop_Zeebark,POI,POI,,x,Pics By Z[Zeebark],
+xcpv_Camp_Alice,POI,POI,,x,Rustic retreat[Alice],
+xcpv_Camping_Loop_Deverezieaux,POI,POI,,x,Natures Haven[Deverezieaux],
+xcpv_Camping_Shop_Zeebark,POI,POI,,x,Bloody Campers[Zeebark],
+xcpv_Cantine_Limodor,POI,POI,,x,Sloppy Joes[Limodor],
+xcpv_Canucks_Coffee_Nagg_Community,POI,POI,,x,Northern Coffee[Nagg Community],
+xcpv_Canyon_Cave_War3zuk,POI,POI,,x,The Mine[War3zuk],
+xcpv_Car_Compound_Lunitar,POI,POI,,x,Vehicle Jail[Lunitar],
+xcpv_Car_Dealership_New_P1ut0nium,POI,POI,,x,Lemon Autos[P1ut0nium],
+xcpv_Car_Dealership_Old_P1ut0nium,POI,POI,,x,Flogit Car Yard[P1ut0nium],
+xcpv_Car_Show_01_ZZTong,POI,POI,,x,Honest Abduls[ZZTong],
+xcpv_Car_Wash_01_ZZTong,POI,POI,,x,Suds n rugs[ZZTong],
+xcpv_Car_Wash_Shema,POI,POI,,x,Soapy ventures[Shema],
+xcpv_Caravan_Vastary,POI,POI,,x,Mobile[Vastary],
+xcpv_Carpark_Mute,POI,POI,,x,Pay n Stay[Mute],
+xcpv_Carpark_Slaan,POI,POI,,x,Cop a fine[Slaan],
+xcpv_Carpu_Pond_TehKarmah,POI,POI,,x,Sounds fishy[TehKarmah],
+xcpv_Carwash_Zeebark,POI,POI,,x,Local CarWash[Zeebark],
+xcpv_Casino_VoltraLux,POI,POIName,,x,High Roller Casino[VoltraLux},
+xcpv_Castle_Chips_Arramus,POI,POI,,x,Royal Castle[Arramus],
+xcpv_Castle_WildPig_Arramus,POI,POI,,x,Baron Castle[WildPig Arramus],
+xcpv_Cathedral_Gerreck,POI,POI,,x,The bells[Gerreck],
+xcpv_Cave_01_Fluffy_Panda,POI,POI,,x,The Wasted Caves[Fluffy Panda],
+xcpv_Cave_01_ZZTong,POI,POI,,x,Holy Ground[ZZTong],
+xcpv_Cave_02_Fluffy_Panda,POI,POI,,x,The Charmed Den[Fluffy Panda],
+xcpv_Cave_02_ZZTong,POI,POI,,x,The Depths[ZZTong],
+xcpv_Cave_03_Fluffy_Panda,POI,POI,,x,The Dreary Grotto[Fluffy Panda],
+xcpv_Cave_04_Fluffy_Panda,POI,POI,,x,Rimrock Hole[Fluffy Panda],
+xcpv_Cave_05_Fluffy_Panda,POI,POI,,x,Terning Chasms[Fluffy Panda],
+xcpv_Cave_06_Fluffy_Panda,POI,POI,,x,Middlesdes Hole[Fluffy Panda],
+xcpv_Church_Guppycur,POI,POI,,x,Guppies Holy Spot[Guppycur],
+xcpv_Citizens_Advice_Office_Arramus,POI,POI,,x,Social Services[Arramus],
+xcpv_City_01_Stallionsden,POI,POI,,x,Huey,
+xcpv_City_02_Stallionsden,POI,POI,,x,Hansels n Gretels[Stallionsden],
+xcpv_City_03_Stallionsden,POI,POI,,x,Shops on 9th[Stallionsden],
+xcpv_City_04_Stallionsden,POI,POI,,x,Saddlers Crossing[Stallionsden],
+xcpv_City_05_Stallionsden,POI,POI,,x,4 Squares[Stallionsden],
+xcpv_City_06_Stallionsden,POI,POI,,x,Le Remnants[Stallionsden],
+xcpv_City_07_Stallionsden,POI,POI,,x,Kennsington Lane[Stallionsden],
+xcpv_City_08_Stallionsden,POI,POI,,x,Wesley's Paraphernalia[Stallionsden],
+xcpv_City_09_Stallionsden,POI,POI,,x,Wally's Arcade[Stallionsden],
+xcpv_City_10_Stallionsden,POI,POI,,x,The 3 Stooges[Stallionsden],
+xcpv_City_11_Stallionsden,POI,POI,,x,Alvin,
+xcpv_City_12_Stallionsden,POI,POI,,x,The Bimbettes[Stallionsden],
+xcpv_City_13_Stallionsden,POI,POI,,x,Shops on Broadway[Stallionsden],
+xcpv_City_14_Stallionsden,POI,POI,,x,Rowes[Stallionsden],
+xcpv_City_15_Stallionsden,POI,POI,,x,The Cult[Stallionsden],
+xcpv_City_16_Stallionsden,POI,POI,,x,Percy Place[Stallionsden],
+xcpv_City_House_Kam,POI,POI,,x,Town place[Kam],
+xcpv_City_Park_1_OctoberFire,POI,POI,,x,Skate Park[OctoberFire],
+xcpv_City_Park_Cerberus,POI,POI,,x,Chill place[Cerberus],
+xcpv_City_Park_OctoberFire,POI,POI,,x,Inner City Park[OctoberFire],
+xcpv_City_Park_Spider,POI,POI,,x,Coffee Square[Spider],
+xcpv_City_Square_TheStainGaming,POI,POI,,x,down town[TheStainGaming],
+xcpv_Cliff_Dwelling_DMC,POI,POI,,x,Casa De Stark[DMC],
+xcpv_Cliff_Villa_LazyTurtle89,POI,POI,,x,The Villa[LazyTurtle89],
+xcpv_Coffee_Shop_02_EvilRacc0on,POI,POI,,x,Not Starbucks[EvilRacc0on],
+xcpv_Coffee_Shop_ChickenRH,POI,POI,,x,Hallowed Grounds[ChickenRH],
+xcpv_Coffee_Shop_EvilRacc0on,POI,POI,,x,Coffee Republic[EvilRacc0on],
+xcpv_Collapsed_Bldg_BuLLeTZ,POI,POI,,x,Cheap Tennant[BuLLeTZ],
+xcpv_Colony_Ship_NAGG,POI,POI,,x,Jupiter 2[Nagg],
+xcpv_Commune_Stallionsden,POI,POI,,x,The Devil's Commune[Stallionsden],
+xcpv_Community_Center_Zeebark,POI,POI,,x,Community Center[Zeebark],
+xcpv_Community_Centre_Voltralux,POI,POI,,x,Druggies paradise[Voltralux],
+xcpv_Community_Garden_CupCakeKiller,POI,POI,,x,Mary Jane gardens[CupCakeKiller],
+xcpv_Community_Hall_Zeebark,POI,POI,,x,Community Hall[Zeebark],
+xcpv_Computer_Store_Zeebark,POI,POI,,x,Computer Store[Zeebark],
+xcpv_Concrete_Plant_Dest_Zyncosa,POI,POI,,x,Cement Monopoly[Zyncosa],
+xcpv_Concrete_Plant_Zyncosa,POI,POI,,x,Mix it fix it[Zyncosa],
+xcpv_Container_House_EvilRacc0on,POI,POI,,x,Mexican Condo[EvilRacc0on],
+xcpv_Containers_01_ZZTong,POI,POI,,x,Container Storage Yard[ZZTong],
+xcpv_Convenience_OctoberFire,POI,POI,,x,Stop & Shop[OctoberFire],
+xcpv_Convenience_Store_Guppycur,POI,POI,,x,hymalaian Walmart[Guppycur],
+xcpv_Cool_Shooz_Duplex_Zeebark,POI,POI,,x, Zee Shoes[Zeebark],
+xcpv_Corner_Store_01_Gtpwr,POI,POI,,x,Come again[Gtpwr],
+xcpv_Corner_Store_Alice,POI,POI,,x,Kwiki Mart[Alice],
+xcpv_Cornfield_Oscerc,POI,POI,,x,Signs gardens[Oscerc],
+xcpv_Cornish_Pasty_Shop_Medusa,POI,POI,,x,Cheap pastries[Medusa],
+xcpv_Coronado_Barn_Slaan,POI,POI,,x,Armish paradise[Slaan],
+xcpv_Coronado_Crash_Slaan,POI,POI,,x,Odd Apartments[Slaan],
+xcpv_Coronado_Field_Slaan,POI,POI,,x,Baseball central[Slaan],
+xcpv_Coronado_Lake_Slaan,POI,POI,,x,Lake Placid[Slaan],
+xcpv_Coronado_Plant_Slaan,POI,POI,,x,Little shop of horrors[Slaan],
+xcpv_Coronado_Sheds_Slaan,POI,POI,,x,Indoor allotment[Slaan],
+xcpv_Coronado_Silo_Slaan,POI,POI,,x,Zombie proof Home[Slaan],
+xcpv_Corvins_Castle_Mahem3000,POI,POI,,x,Corvins[Mayehm3000],
+xcpv_Country_House_Talladaye,POI,POI,,x,Everythings fine[Talladaye],
+xcpv_Countrytown_Alice,POI,POI,,x,Springfield[Alice],
+xcpv_County_Jail_Volar,POI,POI,,x,Party place[Volar],
+xcpv_Courthouse_Stallionsden,POI,POI,,x,Justice[Stallionsden],
+xcpv_Cozy_Victorian_TheGamerMama,POI,POI,,x,Cosy[TheGamerMama],
+xcpv_Crash_Site_Voltralux,POI,POIName,,x,Mysterious Crash Site[Voltralux],
+xcpv_Crashed_Airplane_Laz_Man,POI,POI,,x,Downed[Laz Man],
+xcpv_Crater_01_ZZTong,POI,POI,,x,Tunguka HotelZZTong],
+xcpv_Crime_At_The_Manor_TheStainGaming,POI,POI,,x,Knives out[TheStainGaming],
+xcpv_Crypto_Miner_01_ZZTong,POI,POI,,x,Cryptominer[ZZTong],
+xcpv_Cubish_EvilRacc0on,POI,POI,,x,Rodney in danger[EvilRacc0on],
+xcpv_Cult_EvilRacc0on,POI,POI,,x,Skyentology 101[EvilRacc0on],
+xcpv_Cyber_Cafe_Vittles,POI,POIName,,x,Have A Byte[Vittles],
+xcpv_DMV_Satellite_Vittles,POI,POIName,,x,DMV Satellite Office[Vittles],
+xcpv_Data_Center_Level50Unlocked,POI,POI,,x,The Centre for Data[Level50Unlocked],
+xcpv_Dataden_AndyRed,POI,POI,,x,Googletown[AndyRed],
+xcpv_Dave_Home_DMC,POI,POI,,x,I can't name this Dave[DMC],
+xcpv_Dawsons_Kingdom_TheGamerMama,POI,POI,,x,Dawsons[TheGamerMama],
+xcpv_DelpHouse_Ogodno77,POI,POI,,x,Perv Frat House[Ogodno77],
+xcpv_Dentist_Vittles,POI,POIName,,x,Dr. Drille DDS[Vittles],
+xcpv_Dept_TehKarmah,POI,POI,,x,Dept of yuppers[TehKarmah],
+xcpv_Design_Firm_EvilRacc0on,POI,POI,,x,Yuppie shape makers[EvilRacc0on],
+xcpv_Detective_Medusa,POI,POI,,x,Inspector Gadget[Medusa],
+xcpv_Disco_Xan,POI,POI,,x,Stues dance House[Xan],
+xcpv_Distribution_TheFootpad,POI,POI,,x,Amazon Hell Hole[TheFootpad],
+xcpv_Dog_Park_01_ZZTong,POI,POI,,x,Dog nut every step[ZZTong],
+xcpv_Dog_Park_HappyCapyGaming,POI,POI,,x,Dog Park[HappyCapyGaming],
+xcpv_Donut_Shop_Bigstep70,POI,POI,,x,Lard ladd[Bigstep70],
+xcpv_Dormer_House_TopMinder,POI,POI,,x,Geoff's play pen[TopMinder],
+xcpv_Dorms_FredddyJ,POI,POI,,x,Dorms[FredddyJ],
+xcpv_Downtown_Building_Lot_01_Zeebark,POI,POI,,x,Empty[Zeebark],
+xcpv_Downtown_Building_Lot_Zeebark,POI,POI,,x,Occupied[Zeebark],
+xcpv_Drive_In_CaptainandMental,POI,POI,,x,Back seat shenannigans[CaptainandMental],
+xcpv_Drive_In_Movie_01_ZZTong,POI,POI,,x,You mean it[ZZTong],
+xcpv_Drive_In_NAGG,POI,POI,,x,Popcorn palace[Nagg],
+xcpv_Drive_In_Wsiegel,POI,POI,,x,Volkswagen pasion wagon[Wsiegel],
+xcpv_Drive_Thru_01_ZZTong,POI,POI,,x,Fast and the pukiest[ZZTong],
+xcpv_Drive_Thru_Bigstep70,POI,POI,,x,slop n go[Bigstep70],
+xcpv_Drs_Office_Bostonlondon,POI,POI,,x,Breathe deeply[Bostonlondon],
+xcpv_Druglord_Estate_Hernan,POI,POI,,x,Mexican Country Escape[Hernan],
+xcpv_Dunkin_Nonuts_Riahsaurus_Rex,POI,POI,,x,Donuts Cafe[Riahsaurus Rex],
+xcpv_Dunkinz_Donuts_Genavimex,POI,POI,,x,Tasty holes[Genavimex],
+xcpv_Duplex_01_Kire,POI,POI,,x,Kire's Residence[Kire],
+xcpv_Duplex_Blasted_Deverezieaux,POI,POI,,x,Sterloin Residence[Kire],
+xcpv_Duplex_Blue_Deverezieaux.blocks,POI,POI,,x,Blue's Residence[Deverezieaux],
+xcpv_Duplex_Brickawn_Deverezieaux,POI,POI,,x,Brown's Residence[Deverezieaux],
+xcpv_Duplex_Brickfront_Deverezieaux,POI,POI,,x,Troll's Residence[Deverezieaux],
+xcpv_Duplex_Brown_Deverezieaux,POI,POI,,x,Stinky's Residence[Deverezieaux],
+xcpv_Duplex_Brownawn_Deverezieaux,POI,POI,,x,Dante's Residence[Deverezieaux],
+xcpv_Duplex_Burned_Deverezieaux,POI,POI,,x,Insurance Job[Deverezieaux],
+xcpv_Duplex_Grammas_Deverezieaux,POI,POI,,x,Grandparents Residence[Deverezieaux],
+xcpv_Duplex_Green_Deverezieaux,POI,POI,,x,Green Residence[Deverezieaux],
+xcpv_Duplex_Haunted_Deverezieaux,POI,POI,,x,Spook's Residence[Deverezieaux],
+xcpv_Duplex_Rebuild_Deverezieaux,POI,POI,,x,Under Construction[Deverezieaux],
+xcpv_Duplex_Unknown,POI,POI,,x,Rent controlled rst Hole[Unknown],
+xcpv_Duplex_Vacant_Deverezieaux,POI,POI,,x,Vacant[Deverezieaux],
+xcpv_Duplex_White_Deverezieaux,POI,POI,,x,White's Residence[Deverezieaux],
+xcpv_Duplex_Yellow_Deverezieaux,POI,POI,,x,Mustard's Residence[Deverezieaux],
+xcpv_Duplex_modernized_Deverezieaux,POI,POI,,x,Dev's Residence[Deverezieaux],
+xcpv_Dwarf_Citadel_Mayhem3000,POI,POI,,x,Dwarfs[Mayhem3000],
+xcpv_EMS_01_ZZTong,POI,POI,,x,Got insurance[ZZTong],
+xcpv_EZ_Steal_Dest_Weaponspec,POI,POI,,x,Grabbit and rabbit[Weaponspec],
+xcpv_EZ_Steal_Weaponspec,POI,POI,,x,Fagans playground[Weaponspec],
+xcpv_Eco_Apartments_Voltralux,POI,POI,,x,Oasis Apartments[Voltralux],
+xcpv_Eiffel_Tower_About98Penguins,POI,POI,,x,The Iron Lady[About98Penguins],
+xcpv_El_Castillo_Temple_Of_Kukulcan_Fizzlewitz,POI,POI,,x,El Castillo[Fizzlewitz],
+xcpv_Electrical_Substation_01_ZZTong,POI,POI,,x,Sparkys House[ZZTong],
+xcpv_Electricity_Substation_NLBlackEagle,POI,POI,,x,Teslas Apartments palace[NLBlackEagle],
+xcpv_Entrance_Sinkhole_FNS,POI,POI,,x,The Entrance[FNS],
+xcpv_Epidemic_Playland_SG1-09,POI,POI,,x,The Epi CentrePlayland[SG1-09],
+xcpv_Espresso_Yourself_AndyRed,POI,POI,,x,grandmas piss[AndyRed],
+xcpv_Estate_Agent_Medusa,POI,POI,,x,Money for nothing[Medusa],
+xcpv_Eternal_Rests_VoltraLux,POI,POI,,x,Gaia Hotel[VoltraLux],
+xcpv_Evac_site_01_Weazelsun,POI,POI,,x,Evac[Weazelsun],
+xcpv_Excavator_Mass_Grave_Pille,POI,POI,,x,No checkout[Pille],
+xcpv_Exham_Priory_FNS,POI,POI,,x,The Priory[FNS],
+xcpv_Experimental_House_TopMinder,POI,POI,,x,Doc Browns place[TopMinder],
+xcpv_Fables_01_Fluffy_Panda,POI,POI,,x,Fables[Fluffy_Panda],
+xcpv_Factory_Raid_Officericee,POI,POI,,x,The feds are here[Officericee],
+xcpv_Fallen_Slaan,POI,POI,,x,Angels r here[Slaan],
+xcpv_Fanz_Duplex_Zeebark,POI,POI,,x,Fanz Duplex[Zeebark],
+xcpv_Farm_01_Dest_Zyncosa,POI,POI,,x,Tomaco[Zyncosa],
+xcpv_Farm_01_Redzero83,POI,POI,,x,its in the Corn[Redzero83],
+xcpv_Farm_01_ZZTong,POI,POI,,x,Get some horse lovin[ZZTong],
+xcpv_Farm_01_Zyncosa,POI,POI,,x,They will Come[Zyncosa],
+xcpv_Farm_02_Dest_Zyncosa,POI,POI,,x,Old MacDonals place[Zyncosa],
+xcpv_Farm_02_ZZTong,POI,POI,,x,Natures Oasis[ZZTong],
+xcpv_Farm_02_Zyncosa,POI,POI,,x,green acres[Zyncosa],
+xcpv_Farm_03_Dest_Zyncosa,POI,POI,,x,Natures bounty[Zyncosa],
+xcpv_Farm_03_ZZTong,POI,POI,,x,Organic warehouse[ZZTong],
+xcpv_Farm_03_Zyncosa,POI,POI,,x,Golden fields[Zyncosa],
+xcpv_Farm_04_ZZTong,POI,POI,,x,Corn on the hob[ZZTong],
+xcpv_Farm_04_Zyncosa,POI,POI,,x,Scarecrow mansions[Zyncosa],
+xcpv_Farm_05_ZZTong,POI,POI,,x,Green fresh[ZZTong],
+xcpv_Farm_05_Zyncosa,POI,POI,,x,Harvest acres[Zyncosa],
+xcpv_Farm_06_ZZTong,POI,POI,,x,Rustic fields[ZZTong],
+xcpv_Farm_07_ZZTong,POI,POI,,x,Green seeds[ZZTong],
+xcpv_Farm_08_ZZTong,POI,POI,,x,Animal Haven[ZZTong],
+xcpv_Farm_09_ZZTong,POI,POI,,x,AgriSolar Farm[ZZTong],
+xcpv_Farm_AZFB_Stallionsden,POI,POI,,x,Simpsons Farms[Stallionsden],
+xcpv_Farm_Barn_Oscerc,POI,POI,,x,Veg bounty[Oscerc],
+xcpv_Farm_BigC90210,POI,POI,,x,Too many cows[BigC90210],
+xcpv_Farm_House_03_Nodabba,POI,POI,,x,Sheep lovers delight[Nodabba],
+xcpv_Farm_House_15_Oscerc,POI,POI,,x,Thundering Udders[Oscerc],
+xcpv_Farm_House_LazyTurtle89,POI,POI,,x,De Lazy Farm[LazyTurtle89],
+xcpv_Farm_House_Oscerc,POI,POI,,x,That was a bull not a cow[Oscerc],
+xcpv_Farm_House_Oscerc,POI,POI,,x,That was a bull not a cow[Oscerc],
+xcpv_Farm_House_Stallionsden,POI,POI,,x,McDonalds Farm[Stallionsden],
+xcpv_Farm_HugaTreeDamnit,POI,POI,,x,Free carrots[HugaTreeDamnit],
+xcpv_Farm_Notti_Pellegraapus,POI,POI,,x,Shakey sheeps lodgings[Notti Pellegraapus],
+xcpv_Farmer_Giles_Arramus,POI,POI,,x,Rekts lover[Arramus],
+xcpv_Farmers_Market_01_ZZTong,POI,POI,,x,medicinal use[ZZTong],
+xcpv_Farmers_Market_Arramus,POI,POI,,x,ask for Mary Jane[Arramus],
+xcpv_Farmers_Market_Vittles,POI,POIName,,x,Farmer's Market[Vittles],
+xcpv_Farmstead_Owl79,POI,POI,,x,Country reside[Owl79],
+xcpv_Farnsworth_House_Grampt,POI,POI,,x,Good news[Grampt],
+xcpv_Farnsworth_Residence_Svarii,POI,POI,,x,Farnsworth[OuSvariich],
+xcpv_Fast_Food_Vittles,POI,POIName,,x,Grill Out Burgers & Fries[Vittles],
+xcpv_Fastfood_Roosters_VoltraLux,POI,POI,,x,Cluck n go[VoltraLux],
+xcpv_Felled_Forest_TallManBrad,POI,POI,,x,Felled[TallManBrad],
+xcpv_Field_Aloe_01_ZZTong,POI,POI,,x,Rub it all over[ZZTong],
+xcpv_Field_Animals_01_ZZTong,POI,POI,,x,Annihilation[ZZTong],
+xcpv_Field_Blueberry_01_ZZTong,POI,POI,,x,Blue Wonka kid[ZZTong],
+xcpv_Field_Chickens_01_ZZTong,POI,POI,,x,Kentucky fried Field[ZZTong],
+xcpv_Field_Coffee_01_ZZTong,POI,POI,,x,Columbian beans[ZZTong],
+xcpv_Field_Corn_01_ZZTong,POI,POI,,x,From the bread basket[ZZTong],
+xcpv_Field_Cotton_01_ZZTong,POI,POI,,x,finger splitting seeds[ZZTong],
+xcpv_Field_Fish_01_ZZTong,POI,POI,,x,Sharknado Park[ZZTong],
+xcpv_Field_Hop_01_ZZTong,POI,POI,,x,Brewers Park[ZZTong],
+xcpv_Field_Mushroom_01_ZZTong,POI,POI,,x,Junky Park[ZZTong],
+xcpv_Field_Potato_01_ZZTong,POI,POI,,x,Spudsville[ZZTong],
+xcpv_Field_Pumpkin_01_ZZTong,POI,POI,,x,Nightmare before CP[ZZTong],
+xcpv_Field_Yucca_01_ZZTong,POI,POI,,x,I got nothing[ZZTong],
+xcpv_Fieldday_01_ZZTong,POI,POI,,x,Big Day Out[ZZTong],
+xcpv_Filler_1_Stallionsden,POI,POI,,x,Stacey's Park[Stallionsden],
+xcpv_Filler_2_Stallionsden,POI,POI,,x,Kevin Park[Stallionsden],
+xcpv_Filler_2_Zeebark,POI,POI,,x,Gardener Park[Zeebark],
+xcpv_Filler_3_Stallionsden,POI,POI,,x,Squatter's Park[Stallionsden],
+xcpv_Filler_3_Zeebark,POI,POI,,x,Bird Park[Zeebark],
+xcpv_Filler_4_Stallionsden,POI,POI,,x,Shady's Park[Stallionsden],
+xcpv_Filler_Deverezieaux,POI,POI,,x,Where the hole at[Deverezieaux],
+xcpv_Filler_Park_10A_Deverezieaux,POI,POI,,x,Putty town Park[Deverezieaux],
+xcpv_Filler_Park_10_Deverezieaux,POI,POI,,x,Aint no hole here[Deverezieaux],
+xcpv_Filler_Park_11A_Deverezieaux,POI,POI,,x,mini central Park[Deverezieaux],
+xcpv_Filler_Park_11_Deverezieaux,POI,POI,,x,Where the Gorks live[Deverezieaux],
+xcpv_Filler_Sandbox_1_Arramus,POI,POI,,x,Giant cat litter[Arramus],
+xcpv_Filler_Zeebark,POI,POI,,x,Nature's Park[Zeebark],
+xcpv_Fire_Academy_01_ZZTong,POI,POI,,x,Fire[ZZTong],
+xcpv_Fire_Dept_Guppycur,POI,POI,,x,Hose Town[Guppycur],
+xcpv_Fire_Station_Slick50,POI,POI,,x,The pump House[Slick50],
+xcpv_Fire_Watch_Tower_SciFiFlippa,POI,POI,,x,Fire Watch[SciFiFlippa],
+xcpv_Fireworks_Blackrook,POI,POI,,x,Forth celebration[Blackrook],
+xcpv_Gateway_Filler_03_ZZTong,POI,POI,,x,Fit in place[ZZTong],
+xcpv_Gym_Theodryck,POI,POI,,x,Squat n sweat[Theodryck],
+xcpv_Gyroport_01_ZZTong,POI,POI,,x,Heli Park[ZZTong],
+xcpv_HBW_Metro_WillyBilly,POI,POI,,x,Underground Transit[WillyBilly],
+xcpv_Hall_Of_Fame_Stallionsden,POI,POI,,x,Fame[Stallionsden],
+xcpv_Haulier_lg_Limodor,POI,POI,,x,Cargo Express[Limodor],
+xcpv_Haulier_md_Limodor,POI,POI,,x,Transit solutions[Limodor],
+xcpv_Haunted_Halloween_House_Zeebark,POI,POI,,x,Haunted Halloween House[Zeebark],
+xcpv_Haunted_Mansion_01_FluffyPanda,POI,POI,,x,The Haunting[FluffyPanda],
+xcpv_Haunted_Mansion_Fluffy_Panda,POI,POI,,x,The Haunting[Fluffy Panda],
+xcpv_Haus_Der_Pizza_PlastikRice,POI,POIName,,x,Haus Der Pizza[PlastikRice],
+xcpv_Heeren_Residence_Tdestructinator,POI,POI,,x,Heeren Residence[Tdestructinator],
+xcpv_Hell_Mart_Riahsaurus_Rex,POI,POI,,x,Walmart twin brother[Riahsaurus Rex],
+xcpv_Hestias_Hot_Spring_FNS,POI,POI,,x,The Springs[FNS],
+xcpv_Hicks_Diner_WillyBilly,POI,POI,,x,Greasy feast[WillyBilly],
+xcpv_Highrise_Gikon,POI,POI,,x,Top it off[Gikon],
+xcpv_Hightop_Curbolt,POI,POI,,x,Hello down there[Curbolt],
+xcpv_Hitman_Hawkes_BH_01_PlastikRice,POI,POI,,x,The Hitman[PlastikRice],
+xcpv_Hobbit_Limodor,POI,POI,,x,Bagins Residence[Limodor],
+xcpv_Home_DeeJayWon,POI,POI,,x,No HOA please[DeeJayWon],
+xcpv_Home_Riahsaurus_Rex,POI,POI,,x,Mind the Karens[Riahsaurus Rex],
+xcpv_Hot_Spot_Shema,POI,POI,,x,Fat wallets[Shema],
+xcpv_House_01_Kuldiin,POI,POI,,x,Mid century modern[Kuldiin],
+xcpv_House_01_Nodabba,POI,POI,,x,Drafty abodes[Nodabba],
+xcpv_House_01_Oscerc,POI,POI,,x,Squatter central[Oscerc],
+xcpv_House_01_Redzero83,POI,POI,,x,Creaky corners[Redzero83],
+xcpv_House_01_Stallionsden,POI,POI,,x,Pacco's Residence[Stallionsden],
+xcpv_House_01_TwistedViking,POI,POI,,x,Splinter streets[TwistedViking],
+xcpv_House_01_ZZTong,POI,POI,,x,Mi casa es mi casa[ZZTong],
+xcpv_House_02_Curbolt,POI,POI,,x,No place like Home[Curbolt],
+xcpv_House_02_Dest_Nodabba,POI,POI,,x,Awful appartments[Nodabba],
+xcpv_House_02_Fortbrick,POI,POI,,x,Brickly mansions[Fortbrick],
+xcpv_House_02_Frank_Souza,POI,POI,,x,Fear the terrace[Frank Souza],
+xcpv_House_02_Guppycur,POI,POI,,x,Scally Town[Guppycur],
+xcpv_House_02_Kam,POI,POI,,x,Crowded quarters[Kam],
+xcpv_House_02_Kuldiin,POI,POI,,x,Crooked condos[Kuldiin],
+xcpv_House_02_Nodabba,POI,POI,,x,Lofty Estates[Nodabba],
+xcpv_House_02_Oscerc,POI,POI,,x,HOA central[Oscerc],
+xcpv_House_02_Oscerc,POI,POI,,x,HOA central[Oscerc],
+xcpv_House_02_Redzero83,POI,POI,,x,Council battlefield[Redzero83],
+xcpv_House_02_Stallionsden,POI,POI,,x,Kinyaju's Residence[Stallionsden],
+xcpv_House_02_ZZTong,POI,POI,,x,Disturbing dwellings[ZZTong],
+xcpv_House_02_Zyncosa,POI,POI,,x,Terrible towns[Zyncosa],
+xcpv_House_03A_Dest_Nodabba,POI,POI,,x,Ganja in the attic[Nodabba],
+xcpv_House_03B_Dest_Nodabba,POI,POI,,x,Karensville[Nodabba],
+xcpv_House_03_Curbolt,POI,POI,,x,Mouldy mansions[Curbolt],
+xcpv_House_03_Dest_Zyncosa,POI,POI,,x,Crooked corners[Zyncosa],
+xcpv_House_03_Guppycur,POI,POI,,x,Scummys quarters[Guppycur],
+xcpv_House_03_Kam,POI,POI,,x,Sin city[Kam],
+xcpv_House_03_Oscerc,POI,POI,,x,Builtwell bricks[Oscerc],
+xcpv_House_03_Stallionsden,POI,POI,,x,Preston Residence[Stallionsden],
+xcpv_House_03_ZZTong,POI,POI,,x,Cringewell corners[ZZTong],
+xcpv_House_03_Zyncosa,POI,POI,,x,Falling appartments[Zyncosa],
+xcpv_House_04_Curbolt,POI,POI,,x,Monticello Strip[Curbolt],
+xcpv_House_04_Guppycur,POI,POI,,x,Molly Brown lived here[Guppycur],
+xcpv_House_04_Kam,POI,POI,,x,Longwood dwellings[Kam],
+xcpv_House_04_Nodabba,POI,POI,,x,Graceland stacks[Nodabba],
+xcpv_House_04_Oscerc,POI,POI,,x,Hazel Path Haunts[Oscerc],
+xcpv_House_04_ZZTong,POI,POI,,x,Tottingham towers[ZZTong],
+xcpv_House_05_Dest_Zyncosa,POI,POI,,x,Crooked corners[Zyncosa],
+xcpv_House_05_Guppycur,POI,POI,,x,Loony Lofts[Guppycur],
+xcpv_House_05_Kam,POI,POI,,x,Little lodge[Kam],
+xcpv_House_05_Nodabba,POI,POI,,x,Bimble Bungalow[Nodabba],
+xcpv_House_05_Oscerc,POI,POI,,x,Cozy Hideaway[Oscerc],
+xcpv_House_05_ZZTong,POI,POI,,x,Many floors mansions[ZZTong],
+xcpv_House_05_Zyncosa,POI,POI,,x,Lego Residence[Zyncosa],
+xcpv_House_06_Dest_Nodabba,POI,POI,,x,Satan's Residence[Nodabba],
+xcpv_House_06_Nodabba,POI,POI,,x,Nobby's Residence[Nodabba],
+xcpv_House_06_Oscerc,POI,POI,,x,Burt Residence[Oscerc],
+xcpv_House_06_ZZTong,POI,POI,,x,Jasper Residence[ZZTong],
+xcpv_House_07_Curbolt,POI,POI,,x,Dr ZZTong's Residence[Curbolt],
+xcpv_House_07_Nodabba,POI,POI,,x,Tinker's Residence[Nodabba],
+xcpv_House_07_Oscerc,POI,POI,,x,Papi Residence[Oscerc],
+xcpv_House_07_ZZTong,POI,POI,,x,Korma Residence[ZZTong],
+xcpv_House_08_Dest_Zyncosa,POI,POI,,x,Shanty Residence[Zyncosa],
+xcpv_House_08_Nodabba,POI,POI,,x,Bond Residence[Nodabba],
+xcpv_House_08_Oscerc,POI,POI,,x,Joel's Residence[Oscerc],
+xcpv_House_08_ZZTong,POI,POI,,x,Jen's Residence[ZZTong],
+xcpv_House_08_Zyncosa,POI,POI,,x,Bob's Residence[Zyncosa],
+xcpv_House_09_Dest_Zyncosa,POI,POI,,x,Rekt's Residence[Zyncosa],
+xcpv_House_09_Nodabba,POI,POI,,x,Hugh's Residence[Nodabba],
+xcpv_House_09_ZZTong,POI,POI,,x,Sheldon Residence[ZZTong],
+xcpv_House_09_Zyncosa,POI,POI,,x,Marcy's Residence[Zyncosa],
+xcpv_House_10_Oscerc,POI,POI,,x, Residence[Oscerc],
+xcpv_House_10_ZZTong,POI,POI,,x,Cooper's Residence[ZZTong],
+xcpv_House_10_Zyncosa,POI,POI,,x,AlCapOn Residence[Zyncosa],
+xcpv_House_11_Oscerc,POI,POI,,x,Paxton Residence[Oscerc],
+xcpv_House_11_ZZTong,POI,POI,,x,Percy Residence[ZZTong],
+xcpv_House_11_Zyncosa,POI,POI,,x,Robyn's Residence[Zyncosa],
+xcpv_House_12_Oscerc,POI,POI,,x,MacDowell Residence[Oscerc],
+xcpv_House_12_ZZTong,POI,POI,,x,Whoopsie Residence[ZZTong],
+xcpv_House_12_Zyncosa,POI,POI,,x,Drifter's Residence[Zyncosa],
+xcpv_House_13_Oscerc,POI,POI,,x,Majong Residence[Oscerc],
+xcpv_House_13_ZZTong,POI,POI,,x,Salty Residence[ZZTong],
+xcpv_House_14_Kam,POI,POI,,x,RatKing Residence[Kam],
+xcpv_House_14_Oscerc,POI,POI,,x,Clicker Residence[Oscerc],
+xcpv_House_14_ZZTong,POI,POI,,x,Wolf Residence[ZZTong],
+xcpv_House_15_ZZTong,POI,POI,,x,Scar Residence[ZZTong],
+xcpv_House_16_ZZTong,POI,POI,,x,Mufusa Residence[ZZTong],
+xcpv_House_17_ZZTong,POI,POI,,x,Croyden Residence[ZZTong],
+xcpv_House_18_ZZTong,POI,POI,,x,Fran's Residence[ZZTong],
 xcpv_House_19_ZZTong,POI,POI,,x,Chuck Residence[ZZTong]
 xcpv_House_20_ZZTong,POI,POI,,x,Spam Residence[ZZTong]
 xcpv_House_21_ZZTong,POI,POI,,x,Oldman Pete's Residence[ZZTong]
