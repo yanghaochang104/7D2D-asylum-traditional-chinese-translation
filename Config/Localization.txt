@@ -470,9 +470,7 @@ drinkSVETGJensColdBrewDesc,,,,,[8B4513]Medicinal cold brew[-] prepared in the [8
 drinkSVETGJivaiiRocketFuel,,,,,[FF4500]Astronaut's Fuel[-],,,,,,,,,,,,,[FF4500] 太空人的燃料 [-]
 drinkSVETGJivaiiRocketFuelDesc,,,,,"[FF4500]Explosive cocktail[-] engineered in the [8B0000]Asylum's laboratory[-]. The [FFAA00]volatile mixture[-] grants [AA0000]rocket-powered jumps[-] but [00FF00]handle with care[-].\n\n[32CD32]Increases Jump Height by 250%[-]\n[FF0000]Careful, might break your leg[-]\n\n[AAAAAA]Crafted in: Bar Counter[-]",,,,,,,,,,,,,[FF4500] 爆炸性混合物[-] 在[8B0000] 瘋人院的實驗室[-] 中設計。 [FFAA00]揮發性混合物[-]提供[AA0000]火箭動力跳躍[-]但[00FF00]小心處理[-]。 \n \n [32CD32] 跳躍高度增加 250% [-] \n [FF0000] 小心，可能會摔斷腿 [-] \n \n [AAAAAA] 製作於：吧台 [-]
 drinkSVETGLocaCona,,,,,[8B4513]Asylum Cola[-],,,,,,,,,,,,,[8B4513] 瘋人院售貨機 [-]
-drinkSVETGLocaConaDesc,,,,,[8B4513]Classic cola drink[-] from the [8B0000]Asylum's vending machines[-]. The [FFAA00]familiar taste[-] and [AA0000]dark sweetness[-] provide [00FF00]comfort to all[-].\n\n[AAAAAA]Found: Looting[-],,,,,,,,,,,,,"[8B4513]經典可樂飲料[-]來自[8B0000]瘋人院的自動販賣機[-]。[FFAA00]熟悉的味道[-]與[AA0000]深色甜味[-]為所有人帶來[00FF00]舒適感[-]。
-
-[AAAAAA]取得：搜刮[-]"
+drinkSVETGLocaConaDesc,,,,,[8B4513]Classic cola drink[-] from the [8B0000]Asylum's vending machines[-]. The [FFAA00]familiar taste[-] and [AA0000]dark sweetness[-] provide [00FF00]comfort to all[-].\n\n[AAAAAA]Found: Looting[-],,,,,,,,,,,,,[8B4513]經典可樂飲料[-]來自[8B0000]瘋人院的自動販賣機[-]。[FFAA00]熟悉的味道[-]與[AA0000]深色甜味[-]為所有人帶來[00FF00]舒適感[-]。\n\n[AAAAAA]取得：搜刮[-]
 drinkSVETGLykensRedemption,,,,,[8B4513]Warden's Redemption[-],,,,,,,,,,,,,[8B4513] 典獄長的救贖 [-]
 drinkSVETGLykensRedemptionDesc,,,,,[8B4513]Dark cocktail[-] served in the [8B0000]Asylum's recreation room[-]. The [FFAA00]complex flavors[-] help [AA0000]forgotten souls[-] find [00FF00]their way back[-].\n\n[32CD32]Increases loot stage by 10 & 20%[-]\n\n[AAAAAA]Crafted in: Bar Counter[-],,,,,,,,,,,,,[8B4513] 深色雞尾酒[-]在[8B0000]瘋人院的娛樂室[-]供應。 [FFAA00]複雜的口味[-]幫助[AA0000]被遺忘的靈魂[-]找到[00FF00]他們回來的路[-]。 \n \n [32CD32] 戰利品階段增加 10% 和 20% [-] \n \n [AAAAAA] 製作於：酒吧櫃檯 [-]
 drinkSVETGMallfakasFavourite,,,,,[8B0000]Gunslinger's Brew[-],,,,,,,,,,,,,[8B0000] 槍手之酒 [-]
@@ -686,9 +684,7 @@ foodSVETGTomatoSauceDesc,,,,,[FF6347]Rich tomato sauce[-] simmered in the [8B000
 foodSVETGTomatoSlices,,,,,[FF6347]Asylum Tomato Slices[-],,,,,,,,,,,,,[FF6347] 瘋人院番茄片 [-]
 foodSVETGTomatoSlicesDesc,,,,,[FF6347]Fresh tomato slices[-] cut in the [8B0000]Asylum's kitchen[-]. The [FFAA00]juicy slices[-] add [AA0000]vibrant color[-] and [00FF00]fresh flavor[-] to any dish.\n\n[AAAAAA]Crafted in: Cutting Board[-],,,,,,,,,,,,,[FF6347]新鮮番茄片[-]在[8B0000]瘋人院的廚房[-]中切開。[FFAA00]多汁切片[-]為任何菜餚增添[AA0000]鮮豔的色彩[-]和[00FF00]新鮮的味道[-]。\n\n[AAAAAA]製作於：切割板[-]
 foodSVETGTomatoSoup,,,,,[FF6347]Asylum Tomato Soup[-],,,,,,,,,,,,,[FF6347]瘋人院番茄湯[-]
-foodSVETGTomatoSoupDesc,,,,,"[FF6347]Smooth, warming soup[-] simmered in the [8B0000]Asylum's kitchen[-]. The [FFAA00]rich tomato flavor[-] provides [AA0000]comfort[-] to [00FF00]troubled souls[-] on cold nights.\n\n[AAAAAA]Crafted in: Stove[-]",,,,,,,,,,,,,"[FF6347]光滑、溫暖的湯[-]在[8B0000]瘋人院的廚房[-]中慢燉。[FFAA00]濃鬱的番茄風味[-]在寒冷的夜晚提供[AA0000]安慰[-]給[00FF00]煩惱的靈魂[-]。
-
-[AAAAAA]製作於：爐子[-]"
+foodSVETGTomatoSoupDesc,,,,,"[FF6347]Smooth, warming soup[-] simmered in the [8B0000]Asylum's kitchen[-]. The [FFAA00]rich tomato flavor[-] provides [AA0000]comfort[-] to [00FF00]troubled souls[-] on cold nights.\n\n[AAAAAA]Crafted in: Stove[-]",,,,,,,,,,,,,[FF6347]光滑、溫暖的湯[-]在[8B0000]瘋人院的廚房[-]中慢燉。[FFAA00]濃鬱的番茄風味[-]在寒冷的夜晚提供[AA0000]安慰[-]給[00FF00]煩惱的靈魂[-]。\n\n[AAAAAA]製作於：爐子[-]
 foodSVETGTurkishDelight,,,,,[FFB6C1]Asylum Turkish Delight[-],,,,,,,,,,,,,[FFB6C1] 瘋人院土耳其軟糖 [-]
 lblaluminium,,,,,Aluminium,,,,,,,,,,,,,鋁
 lblchromium,,,,,Uranium,,,,,,,,,,,,,鈾
@@ -4347,24 +4343,9 @@ ZombieINC_GunSpearRanged_meleeWpnSpearT3SteelSpear,items,item,,x,Spear Gun (Rang
 ZombieINC_GunSpearRanged_meleeWpnSpearT3SteelSpearDesc,items,item,,x,[Spear Gun]\n\n Press [F] to change weapons mode,,,,,,,,,,,,,[Spear Gun][魚槍] \n \n 按[F]更改武器模式
 ZombieINC_meleeWpnSledgeT3SteelSledgehammer,items,item,,x,Ice Hammer,,,,,,,,,,,,,冰錘
 ZombieINC_meleeWpnSledgeT3SteelSledgehammerDesc,items,item,,x,"[Ice Hammer]\n\n This Weapon applies cold debuffs on the targets, slowing them and dealing damage over time for 4 seconds",,,,,,,,,,,,,[Ice Hammer][冰錘] \n \n 此武器對目標施加寒冷減速效果，使其減速並持續傷害，持續 4 秒
-gunucpDesc,,,,,"Weight: 0.95kg\nFiremodes: Semi-auto\nBase ergonomics: 81\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 4630mmHK,4630mmHKAP,4630mmHKHP Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]\n\nHas an [4FBE28]Integrated Suppressor[-]",,,,,,,,,,,,,"重量：0.95kg
-射擊模式：半自動
-基本人體工學：81
-[FFEB04]相容彈藥：[-]
-[00FF00]EFTX：[-][FFFFFF] 4630mmHK、4630mmHKAP、4630mmHKHP 彈藥[-]
-
-使用 [D3CE1D]手槍修理套件維修[-]
-
-內建 [4FBE28]整合式抑制器[-]"
+gunucpDesc,,,,,"Weight: 0.95kg\nFiremodes: Semi-auto\nBase ergonomics: 81\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 4630mmHK,4630mmHKAP,4630mmHKHP Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]\n\nHas an [4FBE28]Integrated Suppressor[-]",,,,,,,,,,,,,重量：0.95kg\n射擊模式：半自動\n基本人體工學：81\n[FFEB04]相容彈藥：[-]\n[00FF00]EFTX：[-][FFFFFF] 4630mmHK、4630mmHKAP、4630mmHKHP 彈藥[-]\n\n使用 [D3CE1D]手槍修理套件維修[-]\n\n內建 [4FBE28]整合式抑制器[-]
 gunstechkin,,,,,Stechkin APS 9x18PM machine pistol,,,,,,,,,,,,,Stechkin APS 9x18PM 衝鋒手槍
-gunstechkinDesc,,,,,"Weight: 1.19kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 82[-]\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×18mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]",,,,,,,,,,,,,"重量：1.19kg
-射擊模式：全自動、半自動
-使用「Z」鍵切換射擊模式
-基本人體工學：82[-]
-[FFEB04]相容彈藥：[-]
-[00FF00]EFTX：[-][FFFFFF] 9×18mm 彈藥[-]
-
-使用 [D3CE1D]手槍修理套件修復[-]"
+gunstechkinDesc,,,,,"Weight: 1.19kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 82[-]\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×18mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-]",,,,,,,,,,,,,重量：1.19kg\n射擊模式：全自動、半自動\n使用「Z」鍵切換射擊模式\n基本人體工學：82[-]\n[FFEB04]相容彈藥：[-]\n[00FF00]EFTX：[-][FFFFFF] 9×18mm 彈藥[-]\n\n使用 [D3CE1D]手槍修理套件修復[-]
 gunglock17,,,,,Glock 17 9x19 pistol,,,,,,,,,,,,,格洛克 17 9x19 手槍
 gunglock17Desc,,,,,Weight: 1.15kg\nFiremodes: Semi-auto\nBase ergonomics: 94\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 9×19mm Ammo[-]\n\nRepair with a [D3CE1D]Pistol Repair Kit[-],,,,,,,,,,,,,[FFFFFF][00FF00][重量：1.15kg \n 射擊模式：半自動 \n 基本人體工學：94 \n [FFEB04] 相容彈藥：[-] 彈藥：<mm <[-] 1907] <mm> 4mm < \n 使用 [D3CE1D] 手槍維修套件進行維修 [-]
 gunp226,,,,,SIG P226R 9x19 pistol,,,,,,,,,,,,,SIG P226R 9x19 手槍
@@ -8467,9 +8448,7 @@ ZombieINC_perkMobileDefense3_LongDesc,items,perk  book,,,LORE WIP\n\nIncreases L
 ZombieINC_perkMobileDefense4_LongDesc,items,perk  book,,,LORE WIP\n\nIncreases Loot Quantity found in Mobile Defense buried chests in 25% and ammo by 75%.,,,,,,,,,,,,,LORE WIP <0%
 ZombieINC_perkMobileDefense5_LongDesc,items,perk  book,,,LORE WIP\n\nIncreases Loot Probability of found Floppy Disk (Large Intel) in 50%,,,,,,,,,,,,,75%。
 ZombieINC_perkMobileDefense6_LongDesc,items,perk  book,,,LORE WIP\n\nAdds more 5% on cruise/turbo speed on vehicles \n(Bonus is 20% on Mobile Defense missions),,,,,,,,,,,,,LORE WIP \n \n 增加發現軟碟（大英特爾）的戰利品機率 50%
-ZombieINC_perkMobileDefense7_LongDesc,items,perk  book,,,LORE WIP\n\nDecreases Fuel use by 5% and damage delt to vehicle by 25%,,,,,,,,,,,,,"LORE WIP
-
-燃料消耗降低 5%，載具所受傷害降低 25%"
+ZombieINC_perkMobileDefense7_LongDesc,items,perk  book,,,LORE WIP\n\nDecreases Fuel use by 5% and damage delt to vehicle by 25%,,,,,,,,,,,,,LORE WIP\n\n燃料消耗降低 5%，載具所受傷害降低 25%
 ZombieINC_perkMobileDefenseComplete_LongDesc,items,perk  book,,,"LORE WIP\n\nIncreases Loot Quantity found of ammo by 10%, dukes by 20% and Loot Quantity found in buried chests in 20% .",,,,,,,,,,,,,LORE WIP \n \n 燃料消耗量減少 25%，車輛消耗10%，公爵的戰利品數量增加 20%，埋藏箱中的戰利品數量增加 20%。
 ZombieINC_bookNestDemolition1,items,perk  book,,,The Art of Demolition Chapter 1,,,,,,,,,,,,,拆除的藝術第一章
 ZombieINC_bookNestDemolition2,items,perk  book,,,The Art of Demolition Chapter 2,,,,,,,,,,,,,拆除的藝術第二章
@@ -10908,26 +10887,9 @@ gung36kv2Desc,,,,,"Weight: 3.25kg\nFiremodes: Full-auto, Semi-auto, 2-round burs
 gunfamas,,,,,FAMAS 5.56x45 assault rifle ,,,,,,,,,,,,,柯爾特 M4A1 5.56x45 突擊步槍
 gunfamasDesc,,,,,"Weight: 4.1kg\nFiremodes: Full-auto, Semi-auto, 3-round burst\nUse 'Z' Key to switch firemode\nBase ergonomics: 70\nHas a built in bipod, press 'F' or hold 'F' to activate\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine Gun Repair Kit[-]\nRequires a grip or under barrel to equip flashlights/lasers.",,,,,,,,,,,,,[FFFFFF]重量：3.3kg \n 射擊模式：全自動、半自動 \n 使用「Z」鍵切換射擊模式 \n 基本人體工學：60 \n \n 相容彈藥：[FFEB04] [-] \n EFTX：[00FF00] \n \n 相容彈藥：[FFEB04] [-] \n EFTX：[00FF00] \n 機槍修理套件進行修理 [D3CE1D] [-] \n可以裝備<17>M203 <18>榴彈發射器<19>需要握把來裝備手電筒/雷射
 gunm4a1,,,,,Colt M4A1 5.56x45 assault rifle,,,,,,,,,,,,,柯爾特 M16A1 5.56x45 突擊步槍
-gunm4a1Desc,,,,,"Weight: 3.3kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 60\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine Gun Repair Kit[-]\n\nCan equip an [D3CE1D]M203[-] Grenade Launcher\nRequires a grip to equip flashlights/lasers",,,,,,,,,,,,,"重量：3.3kg
-射擊模式：全自動、半自動
-使用「Z」鍵切換射擊模式
-基本人體工學：60
-[FFEB04]相容彈藥：[-]
-[00FF00]EFTX：[-][FFFFFF] 5.56×45mm 彈藥[-]
-
-使用 [D3CE1D]機槍修理套件修復[-]
-
-可裝備 [D3CE1D]M203[-] 榴彈發射器
-須裝握把才能裝備手電筒／雷射瞄準器"
+gunm4a1Desc,,,,,"Weight: 3.3kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 60\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine Gun Repair Kit[-]\n\nCan equip an [D3CE1D]M203[-] Grenade Launcher\nRequires a grip to equip flashlights/lasers",,,,,,,,,,,,,重量：3.3kg\n射擊模式：全自動、半自動\n使用「Z」鍵切換射擊模式\n基本人體工學：60\n[FFEB04]相容彈藥：[-]\n[00FF00]EFTX：[-][FFFFFF] 5.56×45mm 彈藥[-]\n\n使用 [D3CE1D]機槍修理套件修復[-]\n\n可裝備 [D3CE1D]M203[-] 榴彈發射器\n須裝握把才能裝備手電筒／雷射瞄準器
 gunm16a1,,,,,Colt M16A1 5.56x45 assault rifle,,,,,,,,,,,,,柯爾特 M16A1 5.56×45 突擊步槍
-gunm16a1Desc,,,,,"Weight: 3kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 44\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm - M855,5.56×45mm - HP,5.56×45mm - SSA AP Ammo\n[-]\n\nRepair with a [D3CE1D]Machine Gun Repair Kit[-]",,,,,,,,,,,,,"重量：3kg
-射擊模式：全自動、半自動
-使用「Z」鍵切換射擊模式
-基本人體工學：44
-[FFEB04]相容彈藥：[-]
-[00FF00]EFTX：[-][FFFFFF] 5.56×45mm－M855、5.56×45mm－HP、5.56×45mm－SSA AP 彈藥[-]
-
-使用 [D3CE1D]機槍修理套件修復[-]"
+gunm16a1Desc,,,,,"Weight: 3kg\nFiremodes: Full-auto, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 44\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm - M855,5.56×45mm - HP,5.56×45mm - SSA AP Ammo\n[-]\n\nRepair with a [D3CE1D]Machine Gun Repair Kit[-]",,,,,,,,,,,,,重量：3kg\n射擊模式：全自動、半自動\n使用「Z」鍵切換射擊模式\n基本人體工學：44\n[FFEB04]相容彈藥：[-]\n[00FF00]EFTX：[-][FFFFFF] 5.56×45mm－M855、5.56×45mm－HP、5.56×45mm－SSA AP 彈藥[-]\n\n使用 [D3CE1D]機槍修理套件修復[-]
 gunm16a4,,,,,Colt M16A4 5.56x45 marksman rifle,,,,,,,,,,,,,柯爾特 M16A4 5.56x45 射手步槍
 gunm16a4Desc,,,,,"Weight: 3.45kg\nFiremodes: 3-round burst, Semi-auto\nUse 'Z' Key to switch firemode\nBase ergonomics: 45\nDMR precision bonus: +25% damage[-]\n[FFEB04]Compatible Ammo:[-]\n[00FF00]EFTX: [-][FFFFFF] 5.56×45mm Ammo[-]\n\nRepair with a [D3CE1D]Machine Gun Repair Kit[-]\n\nCan equip an [D3CE1D]M203[-] Grenade Launcher",,,,,,,,,,,,,重量：3.45kg \n射擊模式：3發連發，半自動\n使用「Z」鍵切換射擊模式\n基礎人體工學：45\nDMR精度加成：+25%傷害[-]\n[FFEB04]相容彈藥：[-]\n[00FF00]EFTX：[-][FFFFFF]5.5660mm>\n[00FF00]EFTX：[-][FFFFFF]5.564513[-] \n使用機槍修理套件修理[-]\n\n可以裝備[D3CE1D]M203[-]榴彈發射器
 gunhk416,,,,,HK 416A5 5.56x45 assault rifle,,,,,,,,,,,,,HK 416A5 5.56x45 突擊步槍
